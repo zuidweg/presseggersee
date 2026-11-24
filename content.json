@@ -25,7 +25,7 @@
    "Zwembad op het park",
    "Gratis wifi"
   ],
-  "ph_hero": "Panorama Lodge aan de Presseggersee",
+  "ph_hero": "De Panorama Lodge in de zon, buiten het hoogseizoen",
   "why_eyebrow": "Waarom in het voor- of naseizoen?",
   "why_h2": "Meer tijd voor elkaar, minder wachten",
   "why": [
@@ -269,16 +269,16 @@
   ],
   "nature": [
    [
+    "/img/alm-cows.jpg",
+    "Koeien op de alm"
+   ],
+   [
+    "/img/alpine-lake.jpg",
+    "Bergmeertjes en weides"
+   ],
+   [
     "/img/forest-path.jpg",
     "Rustige bospaden"
-   ],
-   [
-    "/img/waterfall.jpg",
-    "Watervallen onderweg"
-   ],
-   [
-    "/img/mountain-stream.jpg",
-    "Wilde bergbeken"
    ],
    [
     "/img/nassfeld-march.jpg",
@@ -349,7 +349,25 @@
   ],
   "kids_note": "Openingstijden verschillen per seizoen en jaar. Check ze vooraf op nassfeld.at.",
   "ph_family": "Samen op pad in de bossen",
-  "ph_summit": "Bovenop de top"
+  "ph_summit": "Bovenop de top",
+  "kidpics": [
+   [
+    "/img/kids-donkey.jpg",
+    "Vriendjes maken onderweg"
+   ],
+   [
+    "/img/kids-water.jpg",
+    "Klimmen en springen op het water"
+   ],
+   [
+    "/img/kids-gorge.jpg",
+    "Op ontdekking in de kloof"
+   ],
+   [
+    "/img/summit.jpg",
+    "Bovenop de top"
+   ]
+  ]
  },
  "de": {
   "book_code": "de",
@@ -377,7 +395,7 @@
    "Schwimmbad im Park",
    "Kostenloses WLAN"
   ],
-  "ph_hero": "Panorama Lodge am Pressegger See",
+  "ph_hero": "Die Panorama Lodge in der Sonne, außerhalb der Hochsaison",
   "why_eyebrow": "Warum in der Vor- oder Nachsaison?",
   "why_h2": "Mehr Zeit füreinander, weniger Warten",
   "why": [
@@ -621,16 +639,16 @@
   ],
   "nature": [
    [
+    "/img/alm-cows.jpg",
+    "Kühe auf der Alm"
+   ],
+   [
+    "/img/alpine-lake.jpg",
+    "Bergseen und Almwiesen"
+   ],
+   [
     "/img/forest-path.jpg",
     "Ruhige Waldwege"
-   ],
-   [
-    "/img/waterfall.jpg",
-    "Wasserfälle unterwegs"
-   ],
-   [
-    "/img/mountain-stream.jpg",
-    "Wilde Gebirgsbäche"
    ],
    [
     "/img/nassfeld-march.jpg",
@@ -701,7 +719,25 @@
   ],
   "kids_note": "Öffnungszeiten ändern sich je nach Saison und Jahr. Bitte vorher auf nassfeld.at prüfen.",
   "ph_family": "Gemeinsam unterwegs im Wald",
-  "ph_summit": "Ganz oben am Gipfel"
+  "ph_summit": "Ganz oben am Gipfel",
+  "kidpics": [
+   [
+    "/img/kids-donkey.jpg",
+    "Neue Freunde unterwegs"
+   ],
+   [
+    "/img/kids-water.jpg",
+    "Klettern und Springen auf dem Wasser"
+   ],
+   [
+    "/img/kids-gorge.jpg",
+    "Auf Entdeckungstour in der Klamm"
+   ],
+   [
+    "/img/summit.jpg",
+    "Ganz oben am Gipfel"
+   ]
+  ]
  },
  "en": {
   "book_code": "en-GB",
@@ -729,7 +765,7 @@
    "Pool on the park",
    "Free Wi-Fi"
   ],
-  "ph_hero": "Panorama Lodge at Lake Presseggersee",
+  "ph_hero": "The Panorama Lodge in the sun, outside high season",
   "why_eyebrow": "Why spring or autumn?",
   "why_h2": "More time together, less queuing",
   "why": [
@@ -973,16 +1009,16 @@
   ],
   "nature": [
    [
+    "/img/alm-cows.jpg",
+    "Cows on the alpine pasture"
+   ],
+   [
+    "/img/alpine-lake.jpg",
+    "Mountain lakes and meadows"
+   ],
+   [
     "/img/forest-path.jpg",
     "Quiet forest trails"
-   ],
-   [
-    "/img/waterfall.jpg",
-    "Waterfalls along the way"
-   ],
-   [
-    "/img/mountain-stream.jpg",
-    "Wild mountain streams"
    ],
    [
     "/img/nassfeld-march.jpg",
@@ -1053,7 +1089,25 @@
   ],
   "kids_note": "Opening times vary by season and year. Check nassfeld.at before you go.",
   "ph_family": "Out together in the forest",
-  "ph_summit": "On top of the summit"
+  "ph_summit": "On top of the summit",
+  "kidpics": [
+   [
+    "/img/kids-donkey.jpg",
+    "Making friends along the way"
+   ],
+   [
+    "/img/kids-water.jpg",
+    "Climbing and jumping on the water"
+   ],
+   [
+    "/img/kids-gorge.jpg",
+    "Exploring the gorge"
+   ],
+   [
+    "/img/summit.jpg",
+    "On top of the summit"
+   ]
+  ]
  },
  "it": {
   "book_code": "it",
@@ -1081,7 +1135,7 @@
    "Piscina nel parco",
    "Wi-Fi gratuito"
   ],
-  "ph_hero": "Panorama Lodge sul lago Pressegger See",
+  "ph_hero": "Il Panorama Lodge al sole, fuori stagione",
   "why_eyebrow": "Perché in primavera o in autunno?",
   "why_h2": "Più tempo insieme, meno code",
   "why": [
@@ -1325,16 +1379,16 @@
   ],
   "nature": [
    [
+    "/img/alm-cows.jpg",
+    "Mucche all'alpeggio"
+   ],
+   [
+    "/img/alpine-lake.jpg",
+    "Laghetti e pascoli alpini"
+   ],
+   [
     "/img/forest-path.jpg",
     "Sentieri tranquilli nel bosco"
-   ],
-   [
-    "/img/waterfall.jpg",
-    "Cascate lungo il percorso"
-   ],
-   [
-    "/img/mountain-stream.jpg",
-    "Torrenti di montagna"
    ],
    [
     "/img/nassfeld-march.jpg",
@@ -1405,7 +1459,25 @@
   ],
   "kids_note": "Gli orari variano per stagione e anno. Controllate prima su nassfeld.at.",
   "ph_family": "Insieme nel bosco",
-  "ph_summit": "In cima alla vetta"
+  "ph_summit": "In cima alla vetta",
+  "kidpics": [
+   [
+    "/img/kids-donkey.jpg",
+    "Nuovi amici lungo il cammino"
+   ],
+   [
+    "/img/kids-water.jpg",
+    "Arrampicarsi e tuffarsi in acqua"
+   ],
+   [
+    "/img/kids-gorge.jpg",
+    "Alla scoperta della gola"
+   ],
+   [
+    "/img/summit.jpg",
+    "In cima alla vetta"
+   ]
+  ]
  },
  "pl": {
   "book_code": "pl",
@@ -1433,7 +1505,7 @@
    "Basen w parku",
    "Bezpłatne Wi-Fi"
   ],
-  "ph_hero": "Panorama Lodge nad jeziorem Pressegger See",
+  "ph_hero": "Panorama Lodge w słońcu, poza sezonem",
   "why_eyebrow": "Dlaczego wiosną lub jesienią?",
   "why_h2": "Więcej czasu razem, mniej czekania",
   "why": [
@@ -1677,16 +1749,16 @@
   ],
   "nature": [
    [
+    "/img/alm-cows.jpg",
+    "Krowy na hali"
+   ],
+   [
+    "/img/alpine-lake.jpg",
+    "Górskie jeziorka i łąki"
+   ],
+   [
     "/img/forest-path.jpg",
     "Spokojne leśne ścieżki"
-   ],
-   [
-    "/img/waterfall.jpg",
-    "Wodospady po drodze"
-   ],
-   [
-    "/img/mountain-stream.jpg",
-    "Dzikie górskie potoki"
    ],
    [
     "/img/nassfeld-march.jpg",
@@ -1757,6 +1829,24 @@
   ],
   "kids_note": "Godziny otwarcia zależą od sezonu i roku. Sprawdźcie je wcześniej na nassfeld.at.",
   "ph_family": "Razem na leśnej ścieżce",
-  "ph_summit": "Na samym szczycie"
+  "ph_summit": "Na samym szczycie",
+  "kidpics": [
+   [
+    "/img/kids-donkey.jpg",
+    "Nowi przyjaciele po drodze"
+   ],
+   [
+    "/img/kids-water.jpg",
+    "Wspinaczka i skoki na wodzie"
+   ],
+   [
+    "/img/kids-gorge.jpg",
+    "Odkrywanie wąwozu"
+   ],
+   [
+    "/img/summit.jpg",
+    "Na samym szczycie"
+   ]
+  ]
  }
 }

@@ -47,6 +47,7 @@ def page(code):
     for i, (age, title, items) in enumerate(t["kids"]):
         lis = "".join(f'<li><strong>{e(n)}</strong><span>{e(d)}</span></li>' for n, d in items)
         kids += f'<div class="kid kid{i}"><p class="age">{e(age)}</p><h3>{e(title)}</h3><ul>{lis}</ul></div>'
+    kidpics = "".join(f'<figure><img src="{src}" alt="{e(cap)}" loading="lazy" width="1000" height="563"><figcaption>{e(cap)}</figcaption></figure>' for src, cap in t["kidpics"])
     ridge = '<svg class="ridge" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0 70V48l110-30 90 22 130-36 110 32 120-24 100 30 140-38 120 34 110-20 130 28 90-14 100 22v26z" fill="#16302E"/></svg>'
     tips = ""
     for cat, items in t["cats"]:
@@ -108,7 +109,7 @@ def page(code):
 <section id="kids"><div class="wrap">
 <div class="head"><p class="eyebrow">{e(t['kids_eyebrow'])}</p><h2>{e(t['kids_h2'])}</h2><p class="muted" style="font-size:18px">{e(t['kids_intro'])}</p></div>
 <div class="kids">{kids}</div>
-<div class="morepics duo"><figure><img src="/img/waterfall.jpg" alt="{e(t['nature'][1][1])}" loading="lazy" width="1200" height="675"><figcaption>{e(t['nature'][1][1])}</figcaption></figure><figure><img src="/img/summit.jpg" alt="{e(t['ph_summit'])}" loading="lazy" width="1000" height="563"><figcaption>{e(t['ph_summit'])}</figcaption></figure></div>
+<div class="morepics kidpics">{kidpics}</div>
 <p class="small">{e(t['kids_note'])}</p>
 </div></section>
 
