@@ -55,6 +55,7 @@ def page(code):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -158,6 +159,7 @@ if __name__ == "__main__":
     shutil.rmtree(DIST, ignore_errors=True)
     os.makedirs(DIST)
     shutil.copy(os.path.join(ROOT, "src", "style.css"), DIST)
+    shutil.copy(os.path.join(ROOT, "src", "favicon.svg"), DIST)
     if os.path.isdir(os.path.join(ROOT, "src", "img")):
         shutil.copytree(os.path.join(ROOT, "src", "img"), os.path.join(DIST, "img"))
     for c in ORDER:
