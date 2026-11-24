@@ -84,3 +84,11 @@ footer .links{display:flex;gap:20px}
 footer .langs a{color:#C9D6CF}footer .langs [aria-current]{color:#fff}
 .thanks{min-height:60vh;display:flex;flex-direction:column;gap:20px;align-items:flex-start;justify-content:center}
 @media (max-width:700px){section{padding:56px 0}.hero{padding-top:32px}.hero .photo{min-height:320px}.act .when{flex-basis:100%}}
+.tipcat{font-size:22px;margin:36px 0 16px}
+.tips{display:flex;flex-wrap:wrap;gap:20px}
+.tip{flex:1 1 300px;max-width:620px;background:#F3F5F2;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:8px}
+.tip h4{font-family:'Bricolage Grotesque',sans-serif;font-size:21px;margin:0}
+.tip .place{font-size:13px;font-weight:600;color:#9A5518;text-transform:uppercase;letter-spacing:.05em}
+.tip a{margin-top:auto;font-weight:600;font-size:15px}
+#huis .chips span{background:#fff}
+footer .links{align-items:center;flex-wrap:wrap}

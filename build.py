@@ -41,6 +41,14 @@ def page(code):
     park = "".join(f"<span>{e(c)}</span>" for c in t["park"])
     facts = "".join(f"<span>✓ {e(f)}</span>" for f in t["facts"])
     f = t["form"]
+    tips = ""
+    for cat, items in t["cats"]:
+        cards = ""
+        for name, place, text, url in items:
+            link = f'<a href="{url}" rel="noopener" target="_blank">{e(t["more"])} ↗</a>' if url else ""
+            cards += f'<div class="tip"><p class="place">{e(place)}</p><h4>{e(name)}</h4><p class="muted">{e(text)}</p>{link}</div>'
+        tips += f'<h3 class="tipcat">{e(cat)}</h3><div class="tips">{cards}</div>'
+
     return f"""<!doctype html>
 <html lang="{code}">
 <head>
@@ -61,7 +69,7 @@ def page(code):
 <header class="top"><div class="wrap">
 <a class="logo" href="{path_of(code)}">presseggersee<span>.nl</span></a>
 <nav class="menu" aria-label="{e(t['nav_label'])}">
-<a href="#huis">{e(t['nav'][0])}</a><a href="#seizoen">{e(t['nav'][1])}</a><a href="#omgeving">{e(t['nav'][2])}</a><a href="#boeken">{e(t['nav'][3])}</a>
+<a href="#huis">{e(t['nav'][0])}</a><a href="#seizoen">{e(t['nav'][1])}</a><a href="#omgeving">{e(t['nav'][2])}</a><a href="#tips">{e(t['nav_tips'])}</a><a href="#boeken">{e(t['nav'][3])}</a>
 </nav>
 <div class="right"><div class="langs">{langs}</div>
 <a class="btn btn-dark" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
@@ -93,7 +101,12 @@ def page(code):
 <p class="small" style="margin-top:20px">{e(t['todo_note'])}</p>
 </div></section>
 
-<section id="huis" class="white"><div class="wrap">
+<section id="tips" class="white"><div class="wrap">
+<div class="head"><p class="eyebrow">{e(t['tips_eyebrow'])}</p><h2>{e(t['tips_h2'])}</h2><p class="muted" style="font-size:18px">{e(t['tips_intro'])}</p></div>
+{tips}
+</div></section>
+
+<section id="huis"><div class="wrap">
 <div class="head"><p class="eyebrow">{e(t['house_eyebrow'])}</p><h2>Panorama Lodge</h2><p class="muted" style="font-size:18px">{e(t['house_text'])}</p></div>
 <div class="gallery">{photo(t,'living',t['ph_living'],'photo big')}<div class="col">{photo(t,'kitchen',t['ph_kitchen'])}{photo(t,'terrace',t['ph_terrace'])}</div></div>
 <div class="chips">{chips}</div>
@@ -128,7 +141,7 @@ def page(code):
 </form>
 </div></section>
 </main>
-<footer><div class="wrap"><p>© 2026 presseggersee.nl · {e(t['footer'])}</p><div class="links"><div class="langs">{langs}</div></div></div></footer>
+<footer><div class="wrap"><p>© 2026 presseggersee.nl · {e(t['footer'])}</p><div class="links"><span>{e(t['social'])}:</span><a href="https://www.instagram.com/presseggersee310/" rel="noopener">Instagram</a><a href="https://www.facebook.com/people/Pressegger-See/100095342058628/" rel="noopener">Facebook</a><div class="langs">{langs}</div></div></div></footer>
 <script>
 (function(){{var d={acts};var box=document.getElementById('acts');
 function esc(s){{var x=document.createElement('div');x.textContent=s;return x.innerHTML}}
