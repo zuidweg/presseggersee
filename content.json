@@ -284,7 +284,8 @@
     "/img/nassfeld-march.jpg",
     "Het Nassfeld in maart: nog volop sneeuw"
    ]
-  ]
+  ],
+  "og_locale": "nl_NL"
  },
  "de": {
   "book_code": "de",
@@ -571,7 +572,8 @@
     "/img/nassfeld-march.jpg",
     "Das Nassfeld im März: noch reichlich Schnee"
    ]
-  ]
+  ],
+  "og_locale": "de_DE"
  },
  "en": {
   "book_code": "en-GB",
@@ -858,7 +860,8 @@
     "/img/nassfeld-march.jpg",
     "The Nassfeld in March: still plenty of snow"
    ]
-  ]
+  ],
+  "og_locale": "en_GB"
  },
  "it": {
   "book_code": "it",
@@ -1145,7 +1148,8 @@
     "/img/nassfeld-march.jpg",
     "Il Nassfeld a marzo: ancora tanta neve"
    ]
-  ]
+  ],
+  "og_locale": "it_IT"
  },
  "pl": {
   "book_code": "pl",
@@ -1432,6 +1436,7 @@
     "/img/nassfeld-march.jpg",
     "Nassfeld w marcu: wciąż dużo śniegu"
    ]
-  ]
+  ],
+  "og_locale": "pl_PL"
  }
 }

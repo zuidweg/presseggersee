@@ -8,7 +8,7 @@ Doel: promotie en extra boekingen, vooral in voor- en naseizoen.
 - `build.py`: genereert de site naar `dist/`. Na elke wijziging: `python3 build.py`, dan `dist/` mee committen.
 - `src/style.css`: opmaak. `src/img/`: foto's (worden naar `dist/img/` gekopieerd). Foto's per taal koppelen via `photos` in content.json (keys: hero, living, kitchen, terrace).
 - Netlify publiceert `dist/` direct (zie netlify.toml), geen build-stap.
-- `INDEXABLE` in build.py staat op False (noindex) tot de site definitief is.
+- `INDEXABLE` in build.py: True = vindbaar in Google. Oude WordPress-URL's worden doorgestuurd via `_redirects` (gegenereerd in build.py).
 
 ## Afspraken
 - Boekingen lopen via BookingExperts; elke taal heeft zijn eigen link (book_code in content.json).

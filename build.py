@@ -6,7 +6,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 DIST = os.path.join(ROOT, "dist")
 BOOK = "https://app.bookingexperts.com/{code}/ra/2550/170233/yPRubT8wL8fEWsHmhLcCUjPLvu7WBb44R3rdTbEs"
 SITE = "https://presseggersee.nl"
-INDEXABLE = False  # pas op True zodra foto's en teksten definitief zijn
+INDEXABLE = True  # False = noindex (niet in Google)
 
 LANGS = json.load(open(os.path.join(ROOT, "content.json"), encoding="utf-8"))
 ORDER = ["nl", "de", "en", "it", "pl"]
@@ -60,6 +60,12 @@ def page(code):
 <meta name="description" content="{html.escape(t['meta'])}">
 <meta name="robots" content="{robots}">
 <link rel="canonical" href="{SITE}{path_of(code)}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{html.escape(t['title'])}">
+<meta property="og:description" content="{html.escape(t['meta'])}">
+<meta property="og:image" content="{SITE}/img/hero.jpg">
+<meta property="og:url" content="{SITE}{path_of(code)}">
+<meta property="og:locale" content="{t['og_locale']}">
 {alt}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -187,6 +193,23 @@ if __name__ == "__main__":
         open(os.path.join(d, LANGS[c]["thanks_slug"], "index.html"), "w", encoding="utf-8").write(thanks(c))
     robots = "User-agent: *\nAllow: /\nSitemap: https://presseggersee.nl/sitemap.xml\n" if INDEXABLE else "User-agent: *\nDisallow: /\n"
     open(os.path.join(DIST, "robots.txt"), "w").write(robots)
+    redirects = """# Oude WordPress-adressen
+/over-ons/*            /#seizoen   301
+/het-vakantiehuis/*    /#huis      301
+/omgeving/*            /#omgeving  301
+/ervaringen/*          /           301
+/tips/*                /#tips      301
+/contact/*             /#boeken    301
+/boeking/*             /#boeken    301
+/2025/12/16/verplicht-mee-in-de-auto/*      /#tips  301
+/2025/12/03/gasthof-waldemar/*              /#tips  301
+/2025/12/03/wintersport-millenium-express/* /#tips  301
+/2023/05/02/hello-world-3/*                 /#tips  301
+/wp-admin/*            /           301
+/wp-login.php          /           301
+/feed/*                /           301
+"""
+    open(os.path.join(DIST, "_redirects"), "w").write(redirects)
     sm = "".join(f"<url><loc>{SITE}{path_of(c)}</loc></url>" for c in ORDER)
     open(os.path.join(DIST, "sitemap.xml"), "w").write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>')
     print("ok")

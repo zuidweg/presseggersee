@@ -1,0 +1,15 @@
+# Oude WordPress-adressen
+/over-ons/*            /#seizoen   301
+/het-vakantiehuis/*    /#huis      301
+/omgeving/*            /#omgeving  301
+/ervaringen/*          /           301
+/tips/*                /#tips      301
+/contact/*             /#boeken    301
+/boeking/*             /#boeken    301
+/2025/12/16/verplicht-mee-in-de-auto/*      /#tips  301
+/2025/12/03/gasthof-waldemar/*              /#tips  301
+/2025/12/03/wintersport-millenium-express/* /#tips  301
+/2023/05/02/hello-world-3/*                 /#tips  301
+/wp-admin/*            /           301
+/wp-login.php          /           301
+/feed/*                /           301
