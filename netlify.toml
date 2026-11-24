@@ -1,0 +1,9 @@
+# Netlify publiceert de map dist/ zoals hij in de repository staat (geen build-stap nodig).
+[build]
+  publish = "dist"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
