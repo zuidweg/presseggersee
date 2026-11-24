@@ -139,7 +139,7 @@ def page(code):
 </div></section>
 
 <section id="over-ons" class="about"><div class="wrap aboutgrid">
-<div class="abouttxt"><p class="eyebrow">{e(t['about_eyebrow'])}</p><h2>{e(t['about_h2'])}</h2>{"".join(f'<p>{e(x)}</p>' for x in t['about'])}</div>
+<div class="abouttxt"><p class="eyebrow">{e(t['about_eyebrow'])}</p><h2>{e(t['about_h2'])}</h2>{"".join(f'<p>{e(x)}</p>' for x in t['about'])}<p class="sign">{e(t['about_sign'])}</p></div>
 <figure class="aboutpic"><img src="/img/terrace-sun.jpg" alt="{e(t['ph_about'])}" loading="lazy" width="1200" height="675"><figcaption>{e(t['ph_about'])}</figcaption></figure>
 </div></section>
 

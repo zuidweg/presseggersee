@@ -377,7 +377,8 @@
    "EuroParcs verzorgt het beheer ter plekke. Jullie kunnen dus rekenen op lokale service en een warm welkom, en wij helpen graag met tips."
   ],
   "ph_about": "Zonnige ochtend op het terras",
-  "nav_about": "Over ons"
+  "nav_about": "Over ons",
+  "about_sign": "Groetjes, Sander & Maud"
  },
  "de": {
   "book_code": "de",
@@ -757,7 +758,8 @@
    "EuroParcs kümmert sich vor Ort um die Verwaltung. Ihr könnt euch also auf lokalen Service und einen herzlichen Empfang verlassen, und wir helfen gern mit Tipps."
   ],
   "ph_about": "Sonniger Morgen auf der Terrasse",
-  "nav_about": "Über uns"
+  "nav_about": "Über uns",
+  "about_sign": "Liebe Grüße, Sander & Maud"
  },
  "en": {
   "book_code": "en-GB",
@@ -1137,7 +1139,8 @@
    "EuroParcs takes care of everything on site. So you can count on local service and a warm welcome, and we're always happy to share tips."
   ],
   "ph_about": "Sunny morning on the terrace",
-  "nav_about": "About us"
+  "nav_about": "About us",
+  "about_sign": "Warm wishes, Sander & Maud"
  },
  "it": {
   "book_code": "it",
@@ -1517,7 +1520,8 @@
    "EuroParcs si occupa della gestione sul posto. Potete quindi contare su un servizio locale e un'accoglienza calorosa, e noi vi diamo volentieri qualche consiglio."
   ],
   "ph_about": "Mattina di sole sulla terrazza",
-  "nav_about": "Chi siamo"
+  "nav_about": "Chi siamo",
+  "about_sign": "Un caro saluto, Sander & Maud"
  },
  "pl": {
   "book_code": "pl",
@@ -1897,6 +1901,7 @@
    "Na miejscu wszystkim zajmuje się EuroParcs. Możecie więc liczyć na lokalną obsługę i serdeczne powitanie, a my chętnie podzielimy się wskazówkami."
   ],
   "ph_about": "Słoneczny poranek na tarasie",
-  "nav_about": "O nas"
+  "nav_about": "O nas",
+  "about_sign": "Pozdrawiamy, Sander i Maud"
  }
 }
