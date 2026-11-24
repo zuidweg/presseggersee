@@ -43,6 +43,11 @@ def page(code):
     f = t["form"]
     gal = "".join(f'<figure><img src="{src}" alt="{e(cap)}" loading="lazy" width="920" height="515"><figcaption>{e(cap)}</figcaption></figure>' for src, cap in t.get("gallery", []))
     nature = "".join(f'<figure><img src="{src}" alt="{e(cap)}" loading="lazy" width="1200" height="675"><figcaption>{e(cap)}</figcaption></figure>' for src, cap in t.get("nature", []))
+    kids = ""
+    for i, (age, title, items) in enumerate(t["kids"]):
+        lis = "".join(f'<li><strong>{e(n)}</strong><span>{e(d)}</span></li>' for n, d in items)
+        kids += f'<div class="kid kid{i}"><p class="age">{e(age)}</p><h3>{e(title)}</h3><ul>{lis}</ul></div>'
+    ridge = '<svg class="ridge" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0 70V48l110-30 90 22 130-36 110 32 120-24 100 30 140-38 120 34 110-20 130 28 90-14 100 22v26z" fill="#16302E"/></svg>'
     tips = ""
     for cat, items in t["cats"]:
         cards = ""
@@ -77,7 +82,7 @@ def page(code):
 <header class="top"><div class="wrap">
 <a class="logo" href="{path_of(code)}">presseggersee<span>.nl</span></a>
 <nav class="menu" aria-label="{e(t['nav_label'])}">
-<a href="#huis">{e(t['nav'][0])}</a><a href="#seizoen">{e(t['nav'][1])}</a><a href="#omgeving">{e(t['nav'][2])}</a><a href="#tips">{e(t['nav_tips'])}</a><a href="#boeken">{e(t['nav'][3])}</a>
+<a href="#huis">{e(t['nav'][0])}</a><a href="#kids">{e(t['nav'][1])}</a><a href="#omgeving">{e(t['nav'][2])}</a><a href="#tips">{e(t['nav_tips'])}</a><a href="#boeken">{e(t['nav'][3])}</a>
 </nav>
 <div class="right"><div class="langs">{langs}</div>
 <a class="btn btn-dark" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
@@ -91,12 +96,29 @@ def page(code):
 <div class="row"><a class="btn btn-accent" href="{book}" rel="noopener">{e(t['cta_dates'])}</a><a class="btn btn-line" href="#huis">{e(t['cta_house'])}</a></div>
 <div class="facts">{facts}</div>
 </div>
-{photo(t, 'hero', t['ph_hero'])}
+<div class="heropic">{photo(t, 'hero', t['ph_hero'])}<span class="sticker">{e(t['sticker'])}</span><img class="inset" src="/img/family-walk.jpg" alt="{e(t['ph_family'])}" width="1000" height="563"></div>
 </div>
 
+{ridge}
 <section id="seizoen" class="dark"><div class="wrap">
 <div class="head"><p class="eyebrow">{e(t['why_eyebrow'])}</p><h2>{e(t['why_h2'])}</h2></div>
 <div class="cards">{why}</div>
+</div></section>
+
+<section id="kids"><div class="wrap">
+<div class="head"><p class="eyebrow">{e(t['kids_eyebrow'])}</p><h2>{e(t['kids_h2'])}</h2><p class="muted" style="font-size:18px">{e(t['kids_intro'])}</p></div>
+<div class="kids">{kids}</div>
+<div class="morepics duo"><figure><img src="/img/waterfall.jpg" alt="{e(t['nature'][1][1])}" loading="lazy" width="1200" height="675"><figcaption>{e(t['nature'][1][1])}</figcaption></figure><figure><img src="/img/summit.jpg" alt="{e(t['ph_summit'])}" loading="lazy" width="1000" height="563"><figcaption>{e(t['ph_summit'])}</figcaption></figure></div>
+<p class="small">{e(t['kids_note'])}</p>
+</div></section>
+
+<section id="huis" class="white"><div class="wrap">
+<div class="head"><p class="eyebrow">{e(t['house_eyebrow'])}</p><h2>Panorama Lodge</h2><p class="muted" style="font-size:18px">{e(t['house_text'])}</p></div>
+<div class="gallery">{photo(t,'living',t['ph_living'],'photo big')}<div class="col">{photo(t,'kitchen',t['ph_kitchen'])}{photo(t,'terrace',t['ph_terrace'])}</div></div>
+<div class="morepics">{gal}</div>
+<div class="chips">{chips}</div>
+<h3 style="font-size:22px;margin:40px 0 16px">{e(t['park_h3'])}</h3>
+<div class="chips">{park}</div>
 </div></section>
 
 <section id="omgeving"><div class="wrap">
@@ -113,15 +135,6 @@ def page(code):
 <section id="tips" class="white"><div class="wrap">
 <div class="head"><p class="eyebrow">{e(t['tips_eyebrow'])}</p><h2>{e(t['tips_h2'])}</h2><p class="muted" style="font-size:18px">{e(t['tips_intro'])}</p></div>
 {tips}
-</div></section>
-
-<section id="huis"><div class="wrap">
-<div class="head"><p class="eyebrow">{e(t['house_eyebrow'])}</p><h2>Panorama Lodge</h2><p class="muted" style="font-size:18px">{e(t['house_text'])}</p></div>
-<div class="gallery">{photo(t,'living',t['ph_living'],'photo big')}<div class="col">{photo(t,'kitchen',t['ph_kitchen'])}{photo(t,'terrace',t['ph_terrace'])}</div></div>
-<div class="morepics">{gal}</div>
-<div class="chips">{chips}</div>
-<h3 style="font-size:22px;margin:40px 0 16px">{e(t['park_h3'])}</h3>
-<div class="chips">{park}</div>
 </div></section>
 
 <section id="boeken"><div class="wrap book">
@@ -195,6 +208,7 @@ if __name__ == "__main__":
     open(os.path.join(DIST, "robots.txt"), "w").write(robots)
     redirects = """# Oude WordPress-adressen
 /over-ons/*            /#seizoen   301
+/familie/*             /#kids      301
 /het-vakantiehuis/*    /#huis      301
 /omgeving/*            /#omgeving  301
 /ervaringen/*          /           301
