@@ -44,7 +44,7 @@ section{padding:88px 0;scroll-margin-top:80px}
 .photo{border-radius:28px;background:#DCE5DE;color:#3C5551;font-size:13px;position:relative;overflow:hidden}
 .photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .heropic .photo{min-height:480px;border-radius:36px;transform:rotate(1.2deg);box-shadow:0 18px 40px rgba(22,48,46,.18)}
-.sticker{position:absolute;z-index:2;top:-20px;right:-10px;background:#F4B63F;color:#16302E;font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:20px;padding:14px 20px;border-radius:999px;transform:rotate(-8deg);box-shadow:0 6px 0 #C98E1E}
+.sticker{position:absolute;z-index:2;top:-24px;right:-10px;max-width:250px;text-align:center;line-height:1.15;background:#F4B63F;color:#16302E;font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:20px;padding:14px 20px;border-radius:22px;transform:rotate(-8deg);box-shadow:0 6px 0 #C98E1E}
 .inset{position:absolute;z-index:1;left:-28px;bottom:-44px;width:40%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:24px;border:8px solid #fff;transform:rotate(-3deg);box-shadow:0 14px 30px rgba(22,48,46,.2)}
 
 /* mountain ridge + dark band */
