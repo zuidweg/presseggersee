@@ -131,10 +131,17 @@ footer .langs a{color:#C9D6CF}footer .langs [aria-current]{color:#fff}
  body{padding-bottom:76px}
  section{padding:60px 0}
  header.top{position:static}
- .hero{padding-top:28px;gap:40px}
- .heropic .photo{min-height:320px}
- .inset{width:46%;left:-8px;bottom:-36px;border-width:6px}
- .sticker{font-size:16px;right:0}
+ header.top .wrap{gap:6px 12px;padding-top:12px;padding-bottom:10px}
+ .logo{order:1;font-size:20px}
+ .right{order:2}
+ nav.menu{order:3;flex-basis:100%;flex-wrap:nowrap;overflow-x:auto;gap:18px;font-size:14px;padding-bottom:2px;scrollbar-width:none}
+ nav.menu a{white-space:nowrap}
+ .hero{padding:0 0 56px;gap:28px}
+ .hero .txt{padding:0 24px}
+ .heropic{order:-1;flex-basis:100%;margin:0}
+ .heropic .photo{min-height:52vh;border-radius:0 0 32px 32px;transform:none;box-shadow:none}
+ .inset{width:38%;left:auto;right:16px;bottom:-28px;border-width:5px;transform:rotate(3deg)}
+ .sticker{font-size:16px;top:auto;bottom:24px;left:16px;right:auto;max-width:200px}
  .act .when{flex-basis:100%}
 }
 @media (prefers-reduced-motion:reduce){.btn{transition:none}.btn:hover{transform:none}}
