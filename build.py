@@ -86,7 +86,7 @@ def page(code):
 <a href="#huis">{e(t['nav'][0])}</a><a href="#kids">{e(t['nav'][1])}</a><a href="#omgeving">{e(t['nav'][2])}</a><a href="#tips">{e(t['nav_tips'])}</a><a href="#boeken">{e(t['nav'][3])}</a>
 </nav>
 <div class="right"><div class="langs">{langs}</div>
-<a class="btn btn-dark" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
+<a class="btn btn-accent btn-head" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
 </div></header>
 <main>
 <div class="wrap hero">
@@ -165,6 +165,7 @@ def page(code):
 </form>
 </div></section>
 </main>
+<div class="bookbar"><span>{e(t['bar_text'])}</span><a class="btn btn-accent" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
 <footer><div class="wrap"><p>© 2026 presseggersee.nl · {e(t['footer'])}</p><div class="links"><span>{e(t['social'])}:</span><a href="https://www.instagram.com/presseggersee310/" rel="noopener">Instagram</a><a href="https://www.facebook.com/people/Pressegger-See/100095342058628/" rel="noopener">Facebook</a><div class="langs">{langs}</div></div></div></footer>
 <script>
 (function(){{var d={acts};var box=document.getElementById('acts');

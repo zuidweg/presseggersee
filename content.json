@@ -367,7 +367,8 @@
     "/img/summit.jpg",
     "Bovenop de top"
    ]
-  ]
+  ],
+  "bar_text": "Panorama Lodge · tot 6 personen"
  },
  "de": {
   "book_code": "de",
@@ -737,7 +738,8 @@
     "/img/summit.jpg",
     "Ganz oben am Gipfel"
    ]
-  ]
+  ],
+  "bar_text": "Panorama Lodge · bis 6 Personen"
  },
  "en": {
   "book_code": "en-GB",
@@ -1107,7 +1109,8 @@
     "/img/summit.jpg",
     "On top of the summit"
    ]
-  ]
+  ],
+  "bar_text": "Panorama Lodge · up to 6 guests"
  },
  "it": {
   "book_code": "it",
@@ -1477,7 +1480,8 @@
     "/img/summit.jpg",
     "In cima alla vetta"
    ]
-  ]
+  ],
+  "bar_text": "Panorama Lodge · fino a 6 persone"
  },
  "pl": {
   "book_code": "pl",
@@ -1847,6 +1851,7 @@
     "/img/summit.jpg",
     "Na samym szczycie"
    ]
-  ]
+  ],
+  "bar_text": "Panorama Lodge · do 6 osób"
  }
 }

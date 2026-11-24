@@ -122,7 +122,13 @@ footer .links{display:flex;gap:20px;align-items:center;flex-wrap:wrap}
 footer .langs a{color:#C9D6CF}footer .langs [aria-current]{color:#fff}
 .thanks{min-height:60vh;display:flex;flex-direction:column;gap:20px;align-items:flex-start;justify-content:center}
 
+.btn-head{padding:12px 22px;box-shadow:0 4px 0 #8A4313}
+.bookbar{display:none}
 @media (max-width:700px){
+ .btn-head{display:none}
+ .bookbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:20;align-items:center;justify-content:space-between;gap:12px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:#16302E;color:#fff;font-size:14px;font-weight:500;box-shadow:0 -6px 20px rgba(0,0,0,.15)}
+ .bookbar .btn{padding:12px 18px;box-shadow:none;white-space:nowrap}
+ body{padding-bottom:76px}
  section{padding:60px 0}
  header.top{position:static}
  .hero{padding-top:28px;gap:40px}
