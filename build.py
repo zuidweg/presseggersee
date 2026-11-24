@@ -41,6 +41,7 @@ def page(code):
     park = "".join(f"<span>{e(c)}</span>" for c in t["park"])
     facts = "".join(f"<span>✓ {e(f)}</span>" for f in t["facts"])
     f = t["form"]
+    gal = "".join(f'<figure><img src="{src}" alt="{e(cap)}" loading="lazy" width="920" height="515"><figcaption>{e(cap)}</figcaption></figure>' for src, cap in t.get("gallery", []))
     tips = ""
     for cat, items in t["cats"]:
         cards = ""
@@ -109,6 +110,7 @@ def page(code):
 <section id="huis"><div class="wrap">
 <div class="head"><p class="eyebrow">{e(t['house_eyebrow'])}</p><h2>Panorama Lodge</h2><p class="muted" style="font-size:18px">{e(t['house_text'])}</p></div>
 <div class="gallery">{photo(t,'living',t['ph_living'],'photo big')}<div class="col">{photo(t,'kitchen',t['ph_kitchen'])}{photo(t,'terrace',t['ph_terrace'])}</div></div>
+<div class="morepics">{gal}</div>
 <div class="chips">{chips}</div>
 <h3 style="font-size:22px;margin:40px 0 16px">{e(t['park_h3'])}</h3>
 <div class="chips">{park}</div>

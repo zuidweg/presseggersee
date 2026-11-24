@@ -226,7 +226,47 @@
    ]
   ],
   "more": "Meer info",
-  "social": "Volg ons"
+  "social": "Volg ons",
+  "photos": {
+   "hero": "/img/hero.jpg",
+   "living": "/img/living.jpg",
+   "kitchen": "/img/kitchen.jpg",
+   "terrace": "/img/terrace.jpg"
+  },
+  "gallery": [
+   [
+    "/img/fireplace.jpg",
+    "Zithoek met sfeerhaard"
+   ],
+   [
+    "/img/dining.jpg",
+    "Eettafel voor zes"
+   ],
+   [
+    "/img/bed-double.jpg",
+    "Slaapkamer met tweepersoonsbed"
+   ],
+   [
+    "/img/bed-twin.jpg",
+    "Slaapkamer met twee eenpersoonsbedden"
+   ],
+   [
+    "/img/bed-bunk.jpg",
+    "Kamer met stapelbed"
+   ],
+   [
+    "/img/evening.jpg",
+    "Gezellige avond binnen"
+   ],
+   [
+    "/img/winter.jpg",
+    "De lodge in de sneeuw"
+   ],
+   [
+    "/img/morning.jpg",
+    "Zonnige winterochtend"
+   ]
+  ]
  },
  "de": {
   "book_code": "de",
@@ -455,7 +495,47 @@
    ]
   ],
   "more": "Mehr Infos",
-  "social": "Folgen Sie uns"
+  "social": "Folgen Sie uns",
+  "photos": {
+   "hero": "/img/hero.jpg",
+   "living": "/img/living.jpg",
+   "kitchen": "/img/kitchen.jpg",
+   "terrace": "/img/terrace.jpg"
+  },
+  "gallery": [
+   [
+    "/img/fireplace.jpg",
+    "Sitzecke mit Kaminfeuer"
+   ],
+   [
+    "/img/dining.jpg",
+    "Esstisch für sechs"
+   ],
+   [
+    "/img/bed-double.jpg",
+    "Schlafzimmer mit Doppelbett"
+   ],
+   [
+    "/img/bed-twin.jpg",
+    "Schlafzimmer mit zwei Einzelbetten"
+   ],
+   [
+    "/img/bed-bunk.jpg",
+    "Zimmer mit Etagenbett"
+   ],
+   [
+    "/img/evening.jpg",
+    "Gemütlicher Abend drinnen"
+   ],
+   [
+    "/img/winter.jpg",
+    "Die Lodge im Schnee"
+   ],
+   [
+    "/img/morning.jpg",
+    "Sonniger Wintermorgen"
+   ]
+  ]
  },
  "en": {
   "book_code": "en-GB",
@@ -684,7 +764,47 @@
    ]
   ],
   "more": "More info",
-  "social": "Follow us"
+  "social": "Follow us",
+  "photos": {
+   "hero": "/img/hero.jpg",
+   "living": "/img/living.jpg",
+   "kitchen": "/img/kitchen.jpg",
+   "terrace": "/img/terrace.jpg"
+  },
+  "gallery": [
+   [
+    "/img/fireplace.jpg",
+    "Lounge with fireplace"
+   ],
+   [
+    "/img/dining.jpg",
+    "Dining table for six"
+   ],
+   [
+    "/img/bed-double.jpg",
+    "Bedroom with double bed"
+   ],
+   [
+    "/img/bed-twin.jpg",
+    "Bedroom with two single beds"
+   ],
+   [
+    "/img/bed-bunk.jpg",
+    "Room with bunk bed"
+   ],
+   [
+    "/img/evening.jpg",
+    "Cosy evening indoors"
+   ],
+   [
+    "/img/winter.jpg",
+    "The lodge in the snow"
+   ],
+   [
+    "/img/morning.jpg",
+    "Sunny winter morning"
+   ]
+  ]
  },
  "it": {
   "book_code": "it",
@@ -913,7 +1033,47 @@
    ]
   ],
   "more": "Più info",
-  "social": "Seguici"
+  "social": "Seguici",
+  "photos": {
+   "hero": "/img/hero.jpg",
+   "living": "/img/living.jpg",
+   "kitchen": "/img/kitchen.jpg",
+   "terrace": "/img/terrace.jpg"
+  },
+  "gallery": [
+   [
+    "/img/fireplace.jpg",
+    "Salotto con camino"
+   ],
+   [
+    "/img/dining.jpg",
+    "Tavolo da pranzo per sei"
+   ],
+   [
+    "/img/bed-double.jpg",
+    "Camera con letto matrimoniale"
+   ],
+   [
+    "/img/bed-twin.jpg",
+    "Camera con due letti singoli"
+   ],
+   [
+    "/img/bed-bunk.jpg",
+    "Camera con letto a castello"
+   ],
+   [
+    "/img/evening.jpg",
+    "Serata accogliente"
+   ],
+   [
+    "/img/winter.jpg",
+    "Il lodge sotto la neve"
+   ],
+   [
+    "/img/morning.jpg",
+    "Mattina d'inverno soleggiata"
+   ]
+  ]
  },
  "pl": {
   "book_code": "pl",
@@ -1142,6 +1302,46 @@
    ]
   ],
   "more": "Więcej",
-  "social": "Obserwuj nas"
+  "social": "Obserwuj nas",
+  "photos": {
+   "hero": "/img/hero.jpg",
+   "living": "/img/living.jpg",
+   "kitchen": "/img/kitchen.jpg",
+   "terrace": "/img/terrace.jpg"
+  },
+  "gallery": [
+   [
+    "/img/fireplace.jpg",
+    "Kącik wypoczynkowy z kominkiem"
+   ],
+   [
+    "/img/dining.jpg",
+    "Stół dla sześciu osób"
+   ],
+   [
+    "/img/bed-double.jpg",
+    "Sypialnia z łóżkiem podwójnym"
+   ],
+   [
+    "/img/bed-twin.jpg",
+    "Sypialnia z dwoma łóżkami"
+   ],
+   [
+    "/img/bed-bunk.jpg",
+    "Pokój z łóżkiem piętrowym"
+   ],
+   [
+    "/img/evening.jpg",
+    "Przytulny wieczór"
+   ],
+   [
+    "/img/winter.jpg",
+    "Domek w śniegu"
+   ],
+   [
+    "/img/morning.jpg",
+    "Słoneczny zimowy poranek"
+   ]
+  ]
  }
 }

@@ -92,3 +92,8 @@ footer .langs a{color:#C9D6CF}footer .langs [aria-current]{color:#fff}
 .tip a{margin-top:auto;font-weight:600;font-size:15px}
 #huis .chips span{background:#fff}
 footer .links{align-items:center;flex-wrap:wrap}
+.morepics{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;margin-bottom:32px}
+.morepics figure{margin:0;display:flex;flex-direction:column;gap:6px}
+.morepics img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:16px;height:auto}
+.morepics figcaption{font-size:14px;color:#3C5551}
+.hero .photo .offer-badge{display:none}
