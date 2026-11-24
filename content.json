@@ -378,7 +378,7 @@
   ],
   "ph_about": "Zonnige ochtend op het terras",
   "nav_about": "Over ons",
-  "about_sign": "Groetjes, Sander & Maud"
+  "about_sign": "Groetjes, Sander, Maud, Dylan & Nick"
  },
  "de": {
   "book_code": "de",
@@ -759,7 +759,7 @@
   ],
   "ph_about": "Sonniger Morgen auf der Terrasse",
   "nav_about": "Über uns",
-  "about_sign": "Liebe Grüße, Sander & Maud"
+  "about_sign": "Liebe Grüße, Sander, Maud, Dylan & Nick"
  },
  "en": {
   "book_code": "en-GB",
@@ -1140,7 +1140,7 @@
   ],
   "ph_about": "Sunny morning on the terrace",
   "nav_about": "About us",
-  "about_sign": "Warm wishes, Sander & Maud"
+  "about_sign": "Warm wishes, Sander, Maud, Dylan & Nick"
  },
  "it": {
   "book_code": "it",
@@ -1521,7 +1521,7 @@
   ],
   "ph_about": "Mattina di sole sulla terrazza",
   "nav_about": "Chi siamo",
-  "about_sign": "Un caro saluto, Sander & Maud"
+  "about_sign": "Un caro saluto, Sander, Maud, Dylan & Nick"
  },
  "pl": {
   "book_code": "pl",
@@ -1902,6 +1902,6 @@
   ],
   "ph_about": "Słoneczny poranek na tarasie",
   "nav_about": "O nas",
-  "about_sign": "Pozdrawiamy, Sander i Maud"
+  "about_sign": "Pozdrawiamy, Sander, Maud, Dylan i Nick"
  }
 }
