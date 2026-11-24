@@ -138,6 +138,11 @@ def page(code):
 {tips}
 </div></section>
 
+<section id="over-ons" class="about"><div class="wrap aboutgrid">
+<div class="abouttxt"><p class="eyebrow">{e(t['about_eyebrow'])}</p><h2>{e(t['about_h2'])}</h2>{"".join(f'<p>{e(x)}</p>' for x in t['about'])}</div>
+<figure class="aboutpic"><img src="/img/terrace-sun.jpg" alt="{e(t['ph_about'])}" loading="lazy" width="1200" height="675"><figcaption>{e(t['ph_about'])}</figcaption></figure>
+</div></section>
+
 <section id="boeken"><div class="wrap book">
 <div class="txt">
 <p class="eyebrow">{e(t['book_eyebrow'])}</p>
@@ -209,7 +214,7 @@ if __name__ == "__main__":
     robots = "User-agent: *\nAllow: /\nSitemap: https://presseggersee.nl/sitemap.xml\n" if INDEXABLE else "User-agent: *\nDisallow: /\n"
     open(os.path.join(DIST, "robots.txt"), "w").write(robots)
     redirects = """# Oude WordPress-adressen
-/over-ons/*            /#seizoen   301
+/over-ons/*            /#over-ons  301
 /familie/*             /#kids      301
 /het-vakantiehuis/*    /#huis      301
 /omgeving/*            /#omgeving  301

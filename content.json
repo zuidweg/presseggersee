@@ -368,7 +368,16 @@
     "Bovenop de top"
    ]
   ],
-  "bar_text": "Panorama Lodge · tot 6 personen"
+  "bar_text": "Panorama Lodge · tot 6 personen",
+  "about_eyebrow": "Over ons",
+  "about_h2": "Ons plekje in de bergen",
+  "about": [
+   "Ons vakantiehuis is ontstaan uit onze liefde voor de natuur en de rust van de bergen. Tijd samen met familie en vrienden: dat zijn voor ons de momenten die écht tellen.",
+   "Toen we de kans kregen om een huis te kopen op EuroParcs Presseggersee, viel alles op zijn plek. De ligging, de sfeer en de combinatie van meer, bergen en activiteiten waren precies wat we zochten.",
+   "EuroParcs verzorgt het beheer ter plekke. Jullie kunnen dus rekenen op lokale service en een warm welkom, en wij helpen graag met tips."
+  ],
+  "ph_about": "Zonnige ochtend op het terras",
+  "nav_about": "Over ons"
  },
  "de": {
   "book_code": "de",
@@ -739,7 +748,16 @@
     "Ganz oben am Gipfel"
    ]
   ],
-  "bar_text": "Panorama Lodge · bis 6 Personen"
+  "bar_text": "Panorama Lodge · bis 6 Personen",
+  "about_eyebrow": "Über uns",
+  "about_h2": "Unser Plätzchen in den Bergen",
+  "about": [
+   "Unser Ferienhaus ist aus unserer Liebe zur Natur und zur Ruhe der Berge entstanden. Zeit mit Familie und Freunden: Das sind für uns die Momente, die wirklich zählen.",
+   "Als wir die Chance bekamen, ein Haus im EuroParcs Pressegger See zu kaufen, passte alles zusammen. Die Lage, die Atmosphäre und die Kombination aus See, Bergen und Aktivitäten waren genau das, was wir gesucht haben.",
+   "EuroParcs kümmert sich vor Ort um die Verwaltung. Ihr könnt euch also auf lokalen Service und einen herzlichen Empfang verlassen, und wir helfen gern mit Tipps."
+  ],
+  "ph_about": "Sonniger Morgen auf der Terrasse",
+  "nav_about": "Über uns"
  },
  "en": {
   "book_code": "en-GB",
@@ -1110,7 +1128,16 @@
     "On top of the summit"
    ]
   ],
-  "bar_text": "Panorama Lodge · up to 6 guests"
+  "bar_text": "Panorama Lodge · up to 6 guests",
+  "about_eyebrow": "About us",
+  "about_h2": "Our little spot in the mountains",
+  "about": [
+   "Our holiday home grew out of our love for nature and the peace of the mountains. Time together with family and friends: for us, those are the moments that really count.",
+   "When we had the chance to buy a house at EuroParcs Pressegger See, everything fell into place. The location, the atmosphere and the mix of lake, mountains and activities were exactly what we were looking for.",
+   "EuroParcs takes care of everything on site. So you can count on local service and a warm welcome, and we're always happy to share tips."
+  ],
+  "ph_about": "Sunny morning on the terrace",
+  "nav_about": "About us"
  },
  "it": {
   "book_code": "it",
@@ -1481,7 +1508,16 @@
     "In cima alla vetta"
    ]
   ],
-  "bar_text": "Panorama Lodge · fino a 6 persone"
+  "bar_text": "Panorama Lodge · fino a 6 persone",
+  "about_eyebrow": "Chi siamo",
+  "about_h2": "Il nostro angolo tra le montagne",
+  "about": [
+   "La nostra casa vacanze è nata dall'amore per la natura e per la quiete delle montagne. Il tempo con la famiglia e gli amici: per noi sono questi i momenti che contano davvero.",
+   "Quando abbiamo avuto l'occasione di comprare una casa all'EuroParcs Pressegger See, tutto è andato al suo posto. La posizione, l'atmosfera e il mix di lago, montagne e attività erano proprio ciò che cercavamo.",
+   "EuroParcs si occupa della gestione sul posto. Potete quindi contare su un servizio locale e un'accoglienza calorosa, e noi vi diamo volentieri qualche consiglio."
+  ],
+  "ph_about": "Mattina di sole sulla terrazza",
+  "nav_about": "Chi siamo"
  },
  "pl": {
   "book_code": "pl",
@@ -1852,6 +1888,15 @@
     "Na samym szczycie"
    ]
   ],
-  "bar_text": "Panorama Lodge · do 6 osób"
+  "bar_text": "Panorama Lodge · do 6 osób",
+  "about_eyebrow": "O nas",
+  "about_h2": "Nasze miejsce w górach",
+  "about": [
+   "Nasz domek powstał z miłości do natury i górskiego spokoju. Czas z rodziną i przyjaciółmi: to dla nas chwile, które naprawdę się liczą.",
+   "Gdy pojawiła się szansa kupna domku w EuroParcs Pressegger See, wszystko do siebie pasowało. Położenie, atmosfera i połączenie jeziora, gór i atrakcji to dokładnie to, czego szukaliśmy.",
+   "Na miejscu wszystkim zajmuje się EuroParcs. Możecie więc liczyć na lokalną obsługę i serdeczne powitanie, a my chętnie podzielimy się wskazówkami."
+  ],
+  "ph_about": "Słoneczny poranek na tarasie",
+  "nav_about": "O nas"
  }
 }

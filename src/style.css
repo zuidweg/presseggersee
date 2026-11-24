@@ -145,3 +145,9 @@ footer .langs a{color:#C9D6CF}footer .langs [aria-current]{color:#fff}
  .act .when{flex-basis:100%}
 }
 @media (prefers-reduced-motion:reduce){.btn{transition:none}.btn:hover{transform:none}}
+.aboutgrid{display:flex;flex-wrap:wrap;gap:48px;align-items:center}
+.abouttxt{flex:1 1 420px;display:flex;flex-direction:column;gap:16px;font-size:17px;color:#3C5551}
+.abouttxt h2{color:#16302E}
+.aboutpic{flex:1 1 380px;margin:0;display:flex;flex-direction:column;gap:8px}
+.aboutpic img{width:100%;height:auto;border-radius:28px;transform:rotate(-1.2deg);box-shadow:0 14px 30px rgba(22,48,46,.15)}
+.aboutpic figcaption{font-size:14px;color:#3C5551}
