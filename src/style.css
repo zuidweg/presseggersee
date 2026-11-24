@@ -97,3 +97,4 @@ footer .links{align-items:center;flex-wrap:wrap}
 .morepics img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:16px;height:auto}
 .morepics figcaption{font-size:14px;color:#3C5551}
 .hero .photo .offer-badge{display:none}
+.morepics.nature{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}

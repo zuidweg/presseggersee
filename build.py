@@ -42,6 +42,7 @@ def page(code):
     facts = "".join(f"<span>✓ {e(f)}</span>" for f in t["facts"])
     f = t["form"]
     gal = "".join(f'<figure><img src="{src}" alt="{e(cap)}" loading="lazy" width="920" height="515"><figcaption>{e(cap)}</figcaption></figure>' for src, cap in t.get("gallery", []))
+    nature = "".join(f'<figure><img src="{src}" alt="{e(cap)}" loading="lazy" width="1200" height="675"><figcaption>{e(cap)}</figcaption></figure>' for src, cap in t.get("nature", []))
     tips = ""
     for cat, items in t["cats"]:
         cards = ""
@@ -98,6 +99,7 @@ def page(code):
 <button type="button" data-s="spring" aria-pressed="true">{e(t['spring_label'])}</button>
 <button type="button" data-s="autumn" aria-pressed="false">{e(t['autumn_label'])}</button>
 </div></div>
+<div class="morepics nature">{nature}</div>
 <div id="acts" aria-live="polite">{first}</div>
 <p class="small" style="margin-top:20px">{e(t['todo_note'])}</p>
 </div></section>

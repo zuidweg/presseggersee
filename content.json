@@ -266,6 +266,16 @@
     "/img/morning.jpg",
     "Zonnige winterochtend"
    ]
+  ],
+  "nature": [
+   [
+    "/img/forest.jpg",
+    "Wandelen door de bossen rond het park"
+   ],
+   [
+    "/img/nassfeld-march.jpg",
+    "Het Nassfeld in maart: nog volop sneeuw"
+   ]
   ]
  },
  "de": {
@@ -534,6 +544,16 @@
    [
     "/img/morning.jpg",
     "Sonniger Wintermorgen"
+   ]
+  ],
+  "nature": [
+   [
+    "/img/forest.jpg",
+    "Wandern in den Wäldern rund um den Park"
+   ],
+   [
+    "/img/nassfeld-march.jpg",
+    "Das Nassfeld im März: noch reichlich Schnee"
    ]
   ]
  },
@@ -804,6 +824,16 @@
     "/img/morning.jpg",
     "Sunny winter morning"
    ]
+  ],
+  "nature": [
+   [
+    "/img/forest.jpg",
+    "Walking in the forests around the park"
+   ],
+   [
+    "/img/nassfeld-march.jpg",
+    "The Nassfeld in March: still plenty of snow"
+   ]
   ]
  },
  "it": {
@@ -1073,6 +1103,16 @@
     "/img/morning.jpg",
     "Mattina d'inverno soleggiata"
    ]
+  ],
+  "nature": [
+   [
+    "/img/forest.jpg",
+    "Passeggiate nei boschi intorno al parco"
+   ],
+   [
+    "/img/nassfeld-march.jpg",
+    "Il Nassfeld a marzo: ancora tanta neve"
+   ]
   ]
  },
  "pl": {
@@ -1341,6 +1381,16 @@
    [
     "/img/morning.jpg",
     "Słoneczny zimowy poranek"
+   ]
+  ],
+  "nature": [
+   [
+    "/img/forest.jpg",
+    "Spacery po lasach wokół parku"
+   ],
+   [
+    "/img/nassfeld-march.jpg",
+    "Nassfeld w marcu: wciąż dużo śniegu"
    ]
   ]
  }
