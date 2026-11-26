@@ -48,6 +48,10 @@ def page(code):
         lis = "".join(f'<li><strong>{e(n)}</strong><span>{e(d)}</span></li>' for n, d in items)
         kids += f'<div class="kid kid{i}"><p class="age">{e(age)}</p><h3>{e(title)}</h3><ul>{lis}</ul></div>'
     kidpics = "".join(f'<figure><img src="{src}" alt="{e(cap)}" loading="lazy" width="1000" height="563"><figcaption>{e(cap)}</figcaption></figure>' for src, cap in t["kidpics"])
+    wfacts = "".join(f'<div class="wfact"><strong>{e(a)}</strong><span>{e(b)}</span></div>' for a, b in t["winter_facts"])
+    wcards = "".join(f'<div class="wcard"><h3>{e(h)}</h3><p>{e(x)}</p></div>' for h, x in t["winter_cards"])
+    wpics = [("/img/ski-kids.jpg", t["ph_ski1"]), ("/img/ski-powder.jpg", t["ph_ski2"]), ("/img/winter.jpg", t["ph_winterlodge"]), ("/img/nassfeld-march.jpg", t["ph_nassfeld"] if "ph_nassfeld" in t else "Nassfeld")]
+    wpics = "".join(f'<figure><img src="{a}" alt="{e(b)}" loading="lazy" width="1000" height="563"><figcaption>{e(b)}</figcaption></figure>' for a, b in wpics)
     ridge = '<svg class="ridge" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0 70V48l110-30 90 22 130-36 110 32 120-24 100 30 140-38 120 34 110-20 130 28 90-14 100 22v26z" fill="#16302E"/></svg>'
     tips = ""
     for cat, items in t["cats"]:
@@ -83,7 +87,7 @@ def page(code):
 <header class="top"><div class="wrap">
 <a class="logo" href="{path_of(code)}">presseggersee<span>.nl</span></a>
 <nav class="menu" aria-label="{e(t['nav_label'])}">
-<a href="#huis">{e(t['nav'][0])}</a><a href="#kids">{e(t['nav'][1])}</a><a href="#omgeving">{e(t['nav'][2])}</a><a href="#tips">{e(t['nav_tips'])}</a><a href="#boeken">{e(t['nav'][3])}</a>
+<a href="#huis">{e(t['nav'][0])}</a><a href="#kids">{e(t['nav'][1])}</a><a href="#omgeving">{e(t['nav'][2])}</a><a href="#winter">{e(t['nav_winter'])}</a><a href="#tips">{e(t['nav_tips'])}</a><a href="#boeken">{e(t['nav'][3])}</a>
 </nav>
 <div class="right"><div class="langs">{langs}</div>
 <a class="btn btn-accent btn-head" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
@@ -131,6 +135,14 @@ def page(code):
 <div class="morepics nature">{nature}</div>
 <div id="acts" aria-live="polite">{first}</div>
 <p class="small" style="margin-top:20px">{e(t['todo_note'])}</p>
+</div></section>
+
+<section id="winter" class="winter"><div class="wrap">
+<div class="head"><p class="eyebrow">{e(t['winter_eyebrow'])}</p><h2>{e(t['winter_h2'])}</h2><p style="font-size:18px">{e(t['winter_intro'])}</p></div>
+<div class="wfacts">{wfacts}</div>
+<div class="morepics winterpics">{wpics}</div>
+<div class="wcards">{wcards}</div>
+<p class="small" style="margin-top:20px">{e(t['winter_note'])}</p>
 </div></section>
 
 <section id="tips" class="white"><div class="wrap">

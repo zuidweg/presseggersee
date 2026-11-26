@@ -4,7 +4,7 @@
   "thanks_slug": "bedankt",
   "country": "Oostenrijk",
   "title": "Panorama Lodge aan de Presseggersee · Gezinsvakantie in Karinthië",
-  "meta": "Vrijstaande lodge voor gezinnen tot 6 personen op EuroParcs Pressegger See: 3 slaapkamers met stapelbed, zwembad en speeltuinen op het park. Ideaal in mei- en herfstvakantie.",
+  "meta": "Vrijstaande lodge voor gezinnen tot 6 personen op EuroParcs Pressegger See: 3 slaapkamers met stapelbed, zwembad en speeltuin op het park. Ideaal in mei- en herfstvakantie.",
   "nav_label": "Hoofdmenu",
   "nav": [
    "Het huis",
@@ -18,7 +18,7 @@
   "cta_book": "Beschikbaarheid & boeken",
   "eyebrow": "Gezinsvakantie in Karinthië, Oostenrijk",
   "h1": "Samen de bergen ontdekken. Zonder de drukte van de zomer.",
-  "lead": "Onze Panorama Lodge is gemaakt voor gezinnen: drie slaapkamers (ja, met stapelbed), een grote tafel voor gezellige avonden en een park met zwembad en speeltuinen. Het meer en de bergen liggen om de hoek.",
+  "lead": "Onze Panorama Lodge is gemaakt voor gezinnen: drie slaapkamers (ja, met stapelbed), een grote tafel voor gezellige avonden en een park met zwembad en speeltuin. Het meer en de bergen liggen om de hoek.",
   "facts": [
    "Tot 6 personen",
    "Kamer met stapelbed",
@@ -43,7 +43,11 @@
    ],
    [
     "Alles op het park",
-    "Zwembad, speeltuinen en sportvelden op het park, het meer op loopafstand. Ook handig op een regendag."
+    "Verwarmd buitenzwembad (half mei tot begin oktober), houten speeltuin, luchtkussen en een restaurant. Het strandbad aan het meer grenst aan het park."
+   ],
+   [
+    "Gratis +CARD Holiday",
+    "Logeer je tussen half mei en november, dan krijg je de +CARD: gratis regionale bus en gratis zomerbergbanen op het Nassfeld, plus kortingen in de regio."
    ]
   ],
   "todo_eyebrow": "Seizoenen",
@@ -56,6 +60,11 @@
     "Meivakantie",
     "Rondje Presseggersee",
     "5,9 km vlak langs het riet rond het meer, ongeveer anderhalf uur. Goed te doen met kleine beentjes."
+   ],
+   [
+    "Vanaf half mei",
+    "+CARD Holiday",
+    "Vanaf half mei krijg je bij aankomst de +CARD: gratis bus door de regio en gratis met de zomerbergbanen omhoog."
    ],
    [
     "Medio mei",
@@ -126,11 +135,13 @@
   ],
   "park_h3": "Op het park",
   "park": [
-   "Zwembad",
-   "Wellness",
-   "Fitness",
-   "Speel- en sportvoorzieningen",
-   "Loopafstand van het meer"
+   "Verwarmd buitenzwembad (half mei – begin okt.)",
+   "Houten speeltuin en luchtkussen",
+   "Restaurant en pizzeria",
+   "Broodjesservice en parkwinkel",
+   "Skidroogruimte",
+   "Strandbad Schluga grenst aan het park",
+   "Gratis AlpinSPA bij EuroParcs Hermagor·Nassfeld"
   ],
   "book_eyebrow": "Boeken",
   "book_h2": "Zin in een gezinsvakantie in de bergen?",
@@ -199,17 +210,18 @@
       "Dagje stad",
       "Twee sfeervolle Karinthische steden voor een dag winkelen, terrasjes en cultuur.",
       ""
-     ]
-    ]
-   ],
-   [
-    "Winter",
-    [
+     ],
      [
-      "Skiën vanaf de Millennium-Express",
-      "Tröpolach",
-      "Wij starten altijd bij de Millennium-Express. Tip: huur beneden een skikluisje, dan hoef je niets mee te sjouwen. Daarna après-ski bij Zum Alois.",
-      "https://www.nassfeld.at/"
+      "Kärnten Therme",
+      "Warmbad-Villach",
+      "Thermaal waterpark met glijbanen, een wildwaterbaan en een eigen gedeelte voor de kleintjes. Het hele jaar open, dus ideaal op een regendag.",
+      "https://www.kaerntentherme.com/"
+     ],
+     [
+      "Affenberg en Adlerarena",
+      "Burg Landskron, bij Villach",
+      "Rond de 180 Japanse makaken in een groot buitenverblijf, en vlak erboven een roofvogelshow bij de burcht. Van april tot en met oktober.",
+      "https://www.adlerarena.com/"
      ]
     ]
    ],
@@ -259,8 +271,8 @@
     "Gezellige avond binnen"
    ],
    [
-    "/img/winter.jpg",
-    "De lodge in de sneeuw"
+    "/img/terrace-summer.jpg",
+    "Overdekt terras met tafel voor zes"
    ],
    [
     "/img/morning.jpg",
@@ -279,10 +291,6 @@
    [
     "/img/forest-path.jpg",
     "Rustige bospaden"
-   ],
-   [
-    "/img/nassfeld-march.jpg",
-    "Het Nassfeld in maart: nog volop sneeuw"
    ]
   ],
   "og_locale": "nl_NL",
@@ -301,8 +309,8 @@
       "Speelpad van 1,5 km op de berg: dammen bouwen, waterfonteinen en een echt zeilbootje. Juni t/m september."
      ],
      [
-      "Zwembad en speeltuinen",
-      "Gewoon op het park, het hele jaar door handig."
+      "Op en rond het park",
+      "Speeltuin, luchtkussen, een Escape Box en de Yuki-speurtocht. In het seizoen het verwarmde buitenzwembad en strandbad Schluga met waterkussen, gratis met het oranje polsbandje."
      ],
      [
       "Erlebnispark aan het meer",
@@ -378,14 +386,67 @@
   ],
   "ph_about": "Zonnige ochtend op het terras",
   "nav_about": "Over ons",
-  "about_sign": "Groetjes, Sander & Maud"
+  "about_sign": "Groetjes, Sander & Maud",
+  "nav_winter": "Winter",
+  "winter_eyebrow": "Wintersport",
+  "winter_h2": "Skiën op het Nassfeld",
+  "winter_intro": "Wij skiën zelf elk jaar op het Nassfeld: het grootste en zonnigste skigebied van Karinthië, op korte afstand van de lodge. Volgens de regio heeft het zo'n 100 zonuren meer dan de noordelijke Alpen.",
+  "winter_facts": [
+   [
+    "110 km",
+    "piste: 30 km blauw, 69 km rood, 11 km zwart"
+   ],
+   [
+    "± 30",
+    "liften en gondels, tot ca. 2.000 m hoogte"
+   ],
+   [
+    "7,6 km",
+    "de Carnia-dalafdaling, de langste afdaling van het gebied"
+   ],
+   [
+    "dec – apr",
+    "skiseizoen, in 2026/27 van 4 december tot 4 april"
+   ]
+  ],
+  "winter_cards": [
+   [
+    "Met de Millennium-Express omhoog",
+    "Vanuit Tröpolach brengt de gondel je in drie secties naar bijna 1.900 m. De skibus stopt op een paar honderd meter van het park, dus de auto kan blijven staan."
+   ],
+   [
+    "Skiën met kinderen",
+    "Vier afgeschermde kindergebieden met tovertapijten, skischolen voor kinderen vanaf 4 jaar en kinderopvang vanaf 2,5 jaar. Kinderen onder de 10 krijgen hun ski-uitrusting gratis, en in bepaalde weken zijn er extra kinderkortingen."
+   ],
+   [
+    "Ons vaste rondje",
+    "Wij starten altijd bij de Millennium-Express en huren beneden een skikluisje, dan hoef je niets mee te sjouwen. Daarna après-ski bij Zum Alois, direct bij het dalstation."
+   ],
+   [
+    "Meer dan skiën",
+    "Rodelen op de natuurbanen van Guggenberg (2 km) en Weissbriach (3 km), 90 km langlaufloipes, 160 km winterwandelpaden en sneeuwschoenwandelen."
+   ],
+   [
+    "Schaatsen op de Weissensee",
+    "In de winter wordt de Weissensee de grootste geprepareerde natuurijsvlakte van Europa (6,5 km²). Hier rijden Nederlanders ook de Alternatieve Elfstedentocht. Check vooraf het ijsbericht."
+   ],
+   [
+    "Handig op het park",
+    "Een skidroogruimte (tegen betaling), verse broodjes bij de receptie en een parkwinkel voor de boodschappen."
+   ]
+  ],
+  "winter_note": "Seizoensdata, lifturen en kortingen verschillen per jaar. Kijk voor actuele info op nassfeld.at.",
+  "ph_ski1": "Op de piste met uitzicht over de Karnische Alpen",
+  "ph_ski2": "Verse poedersneeuw naast de lift",
+  "ph_nassfeld": "Het Nassfeld in maart: nog volop sneeuw",
+  "ph_winterlodge": "De lodge in de sneeuw"
  },
  "de": {
   "book_code": "de",
   "thanks_slug": "danke",
   "country": "Österreich",
   "title": "Panorama Lodge am Pressegger See · Familienurlaub in Kärnten",
-  "meta": "Freistehende Lodge für Familien bis 6 Personen im EuroParcs Pressegger See: 3 Schlafzimmer mit Etagenbett, Schwimmbad und Spielplätze im Park. Ideal für Pfingst- und Herbstferien.",
+  "meta": "Freistehende Lodge für Familien bis 6 Personen im EuroParcs Pressegger See: 3 Schlafzimmer mit Etagenbett, Freibad und Spielplatz im Park. Ideal für Pfingst- und Herbstferien.",
   "nav_label": "Hauptmenü",
   "nav": [
    "Das Haus",
@@ -399,7 +460,7 @@
   "cta_book": "Verfügbarkeit & buchen",
   "eyebrow": "Familienurlaub in Kärnten, Österreich",
   "h1": "Gemeinsam die Berge entdecken. Ohne den Trubel des Sommers.",
-  "lead": "Unsere Panorama Lodge ist wie gemacht für Familien: drei Schlafzimmer (ja, mit Etagenbett), ein großer Tisch für gemütliche Abende und ein Park mit Schwimmbad und Spielplätzen. See und Berge liegen gleich um die Ecke.",
+  "lead": "Unsere Panorama Lodge ist wie gemacht für Familien: drei Schlafzimmer (ja, mit Etagenbett), ein großer Tisch für gemütliche Abende und ein Park mit Freibad und Spielplatz. See und Berge liegen gleich um die Ecke.",
   "facts": [
    "Bis zu 6 Personen",
    "Zimmer mit Etagenbett",
@@ -424,7 +485,11 @@
    ],
    [
     "Alles im Park",
-    "Schwimmbad, Spielplätze und Sportplätze im Park, der See in Gehweite. Praktisch auch an Regentagen."
+    "Beheiztes Freibad (Mitte Mai bis Anfang Oktober), Holzspielplatz, Lufttrampolin und ein Restaurant. Das Strandbad am See grenzt direkt an den Park."
+   ],
+   [
+    "Gratis +CARD Holiday",
+    "Wer zwischen Mitte Mai und November übernachtet, bekommt die +CARD: gratis Regionalbus und gratis Sommerbergbahnen am Nassfeld, dazu Rabatte in der Region."
    ]
   ],
   "todo_eyebrow": "Jahreszeiten",
@@ -437,6 +502,11 @@
     "Frühling",
     "Rund um den Pressegger See",
     "5,9 km flach am Schilfgürtel entlang, etwa eineinhalb Stunden. Gut machbar mit kleinen Beinen."
+   ],
+   [
+    "Ab Mitte Mai",
+    "+CARD Holiday",
+    "Ab Mitte Mai bekommt ihr bei der Ankunft die +CARD: gratis Bus durch die Region und gratis mit den Sommerbergbahnen hinauf."
    ],
    [
     "Mitte Mai",
@@ -507,11 +577,13 @@
   ],
   "park_h3": "Im Park",
   "park": [
-   "Schwimmbad",
-   "Wellness",
-   "Fitness",
-   "Spiel- und Sportmöglichkeiten",
-   "Gehweite zum See"
+   "Beheiztes Freibad (Mitte Mai – Anfang Okt.)",
+   "Holzspielplatz und Lufttrampolin",
+   "Restaurant und Pizzeria",
+   "Brötchenservice und Parkshop",
+   "Skitrockenraum",
+   "Strandbad Schluga grenzt an den Park",
+   "Gratis AlpinSPA im EuroParcs Hermagor·Nassfeld"
   ],
   "book_eyebrow": "Buchen",
   "book_h2": "Lust auf Familienurlaub in den Bergen?",
@@ -529,8 +601,8 @@
    "privacy": "Wir verwenden eure Daten nur, um eure Frage zu beantworten."
   },
   "footer": "Private Eigentümer, Verwaltung durch EuroParcs",
-  "thanks_h": "Vielen Dank für Ihre Nachricht",
-  "thanks_p": "Wir melden uns so schnell wie möglich bei Ihnen.",
+  "thanks_h": "Vielen Dank für eure Nachricht",
+  "thanks_p": "Wir melden uns so schnell wie möglich bei euch.",
   "thanks_back": "Zurück zur Website",
   "tips_eyebrow": "Unsere Tipps",
   "tips_h2": "Getestet von unserer eigenen Familie",
@@ -580,17 +652,18 @@
       "Städtetrip",
       "Zwei stimmungsvolle Kärntner Städte für einen Tag mit Shopping, Cafés und Kultur.",
       ""
-     ]
-    ]
-   ],
-   [
-    "Winter",
-    [
+     ],
      [
-      "Skifahren ab dem Millennium-Express",
-      "Tröpolach",
-      "Wir starten immer am Millennium-Express. Tipp: unten ein Skidepot mieten, dann müsst ihr nichts schleppen. Danach Après-Ski im Zum Alois.",
-      "https://www.nassfeld.at/"
+      "Kärnten Therme",
+      "Warmbad-Villach",
+      "Thermen-Erlebniswelt mit Rutschen, Crazy River und eigenem Kleinkinderbereich. Ganzjährig geöffnet, ideal an Regentagen.",
+      "https://www.kaerntentherme.com/"
+     ],
+     [
+      "Affenberg und Adlerarena",
+      "Burg Landskron, bei Villach",
+      "Rund 180 Japanmakaken in einem großen Freigehege, und gleich darüber eine Greifvogelschau an der Burg. April bis Oktober.",
+      "https://www.adlerarena.com/"
      ]
     ]
    ],
@@ -640,8 +713,8 @@
     "Gemütlicher Abend drinnen"
    ],
    [
-    "/img/winter.jpg",
-    "Die Lodge im Schnee"
+    "/img/terrace-summer.jpg",
+    "Überdachte Terrasse mit Tisch für sechs"
    ],
    [
     "/img/morning.jpg",
@@ -660,10 +733,6 @@
    [
     "/img/forest-path.jpg",
     "Ruhige Waldwege"
-   ],
-   [
-    "/img/nassfeld-march.jpg",
-    "Das Nassfeld im März: noch reichlich Schnee"
    ]
   ],
   "og_locale": "de_DE",
@@ -682,8 +751,8 @@
       "1,5 km langer Erlebnisweg am Berg: Dämme bauen, Wasserfontänen und ein echtes Segelboot. Juni bis September."
      ],
      [
-      "Schwimmbad und Spielplätze",
-      "Direkt im Park, das ganze Jahr praktisch."
+      "Im und am Park",
+      "Spielplatz, Lufttrampolin, eine Escape Box und die Yuki-Schatzsuche. In der Saison das beheizte Freibad und das Strandbad Schluga mit Wasserkissen, gratis mit dem orangen Armband."
      ],
      [
       "Erlebnispark am See",
@@ -759,14 +828,67 @@
   ],
   "ph_about": "Sonniger Morgen auf der Terrasse",
   "nav_about": "Über uns",
-  "about_sign": "Liebe Grüße, Sander & Maud"
+  "about_sign": "Liebe Grüße, Sander & Maud",
+  "nav_winter": "Winter",
+  "winter_eyebrow": "Wintersport",
+  "winter_h2": "Skifahren am Nassfeld",
+  "winter_intro": "Wir fahren selbst jedes Jahr am Nassfeld Ski: Kärntens größtes und sonnigstes Skigebiet, nicht weit von der Lodge entfernt. Laut der Region hat es rund 100 Sonnenstunden mehr als die Nordalpen.",
+  "winter_facts": [
+   [
+    "110 km",
+    "Pisten: 30 km blau, 69 km rot, 11 km schwarz"
+   ],
+   [
+    "± 30",
+    "Lifte und Bahnen, bis ca. 2.000 m Höhe"
+   ],
+   [
+    "7,6 km",
+    "die Carnia-Talabfahrt, die längste Abfahrt im Gebiet"
+   ],
+   [
+    "Dez – Apr",
+    "Skisaison, 2026/27 vom 4. Dezember bis 4. April"
+   ]
+  ],
+  "winter_cards": [
+   [
+    "Mit dem Millennium-Express hinauf",
+    "Von Tröpolach bringt euch die Gondel in drei Sektionen auf fast 1.900 m. Der Skibus hält ein paar hundert Meter vom Park entfernt, das Auto kann also stehen bleiben."
+   ],
+   [
+    "Skifahren mit Kindern",
+    "Vier gesicherte Kinderbereiche mit Zauberteppichen, Skischulen für Kinder ab 4 Jahren und Kinderbetreuung ab 2,5 Jahren. Kinder unter 10 bekommen die Skiausrüstung gratis, und in bestimmten Wochen gibt es zusätzliche Kinderrabatte."
+   ],
+   [
+    "Unsere feste Runde",
+    "Wir starten immer am Millennium-Express und mieten unten ein Skidepot, dann müsst ihr nichts schleppen. Danach Après-Ski im Zum Alois, direkt an der Talstation."
+   ],
+   [
+    "Mehr als Skifahren",
+    "Rodeln auf den Naturbahnen Guggenberg (2 km) und Weissbriach (3 km), 90 km Loipen, 160 km Winterwanderwege und Schneeschuhwandern."
+   ],
+   [
+    "Eislaufen am Weissensee",
+    "Im Winter wird der Weissensee zur größten präparierten Natureisfläche Europas (6,5 km²). Hier findet auch die alternative holländische Elf-Städte-Tour statt. Vorher den Eisbericht prüfen."
+   ],
+   [
+    "Praktisch im Park",
+    "Ein Skitrockenraum (gegen Gebühr), frische Brötchen an der Rezeption und ein Parkshop für den Einkauf."
+   ]
+  ],
+  "winter_note": "Saisondaten, Liftzeiten und Rabatte ändern sich jährlich. Aktuelle Infos findet ihr auf nassfeld.at.",
+  "ph_ski1": "Auf der Piste mit Blick über die Karnischen Alpen",
+  "ph_ski2": "Frischer Pulverschnee neben dem Lift",
+  "ph_nassfeld": "Das Nassfeld im März: noch reichlich Schnee",
+  "ph_winterlodge": "Die Lodge im Schnee"
  },
  "en": {
   "book_code": "en-GB",
   "thanks_slug": "thanks",
   "country": "Austria",
   "title": "Panorama Lodge at Lake Presseggersee · Family holidays in Carinthia",
-  "meta": "Detached family lodge for up to 6 at EuroParcs Pressegger See: 3 bedrooms incl. bunk beds, pool and playgrounds on the park. Perfect for spring and autumn half-term.",
+  "meta": "Detached family lodge for up to 6 at EuroParcs Pressegger See: 3 bedrooms incl. bunk beds, pool and playground on the park. Perfect for spring and autumn half-term.",
   "nav_label": "Main menu",
   "nav": [
    "The house",
@@ -780,7 +902,7 @@
   "cta_book": "Availability & booking",
   "eyebrow": "Family holidays in Carinthia, Austria",
   "h1": "Explore the mountains together. Without the summer crowds.",
-  "lead": "Our Panorama Lodge is made for families: three bedrooms (yes, with bunk beds), a big table for cosy evenings and a park with a pool and playgrounds. The lake and the mountains are right around the corner.",
+  "lead": "Our Panorama Lodge is made for families: three bedrooms (yes, with bunk beds), a big table for cosy evenings and a park with a pool and playground. The lake and the mountains are right around the corner.",
   "facts": [
    "Up to 6 guests",
    "Bunk bed room",
@@ -805,7 +927,11 @@
    ],
    [
     "Everything on the park",
-    "Pool, playgrounds and sports pitches on the park, the lake within walking distance. Handy on a rainy day too."
+    "A heated outdoor pool (mid-May to early October), wooden playground, air trampoline and a restaurant. The lakeside beach borders the park."
+   ],
+   [
+    "Free +CARD Holiday",
+    "Stay between mid-May and November and you get the +CARD: free regional buses and free summer mountain lifts on the Nassfeld, plus discounts across the region."
    ]
   ],
   "todo_eyebrow": "Seasons",
@@ -818,6 +944,11 @@
     "May half-term",
     "Around Lake Presseggersee",
     "5.9 km on the flat through the reeds, about an hour and a half. Easy for little legs."
+   ],
+   [
+    "From mid-May",
+    "+CARD Holiday",
+    "From mid-May you get the +CARD on arrival: free buses around the region and free rides on the summer mountain lifts."
    ],
    [
     "Mid-May",
@@ -888,11 +1019,13 @@
   ],
   "park_h3": "On the park",
   "park": [
-   "Swimming pool",
-   "Wellness",
-   "Gym",
-   "Play and sports facilities",
-   "Walking distance to the lake"
+   "Heated outdoor pool (mid-May – early Oct.)",
+   "Wooden playground and air trampoline",
+   "Restaurant and pizzeria",
+   "Bread roll service and park shop",
+   "Ski drying room",
+   "Schluga lake beach borders the park",
+   "Free AlpinSPA at EuroParcs Hermagor·Nassfeld"
   ],
   "book_eyebrow": "Book",
   "book_h2": "Fancy a family break in the mountains?",
@@ -961,17 +1094,18 @@
       "City day out",
       "Two charming Carinthian towns for a day of shopping, cafés and culture.",
       ""
-     ]
-    ]
-   ],
-   [
-    "Winter",
-    [
+     ],
      [
-      "Skiing from the Millennium Express",
-      "Tröpolach",
-      "We always start at the Millennium Express. Tip: rent a ski locker at the bottom so you don't have to carry anything. Then après-ski at Zum Alois.",
-      "https://www.nassfeld.at/"
+      "Kärnten Therme",
+      "Warmbad-Villach",
+      "Thermal water park with slides, a crazy river and its own area for little ones. Open all year, ideal on a rainy day.",
+      "https://www.kaerntentherme.com/"
+     ],
+     [
+      "Monkey Mountain and Eagle Arena",
+      "Landskron Castle, near Villach",
+      "Around 180 Japanese macaques in a large outdoor enclosure, with a bird of prey show at the castle just above. April to October.",
+      "https://www.adlerarena.com/"
      ]
     ]
    ],
@@ -1021,8 +1155,8 @@
     "Cosy evening indoors"
    ],
    [
-    "/img/winter.jpg",
-    "The lodge in the snow"
+    "/img/terrace-summer.jpg",
+    "Covered terrace with a table for six"
    ],
    [
     "/img/morning.jpg",
@@ -1041,10 +1175,6 @@
    [
     "/img/forest-path.jpg",
     "Quiet forest trails"
-   ],
-   [
-    "/img/nassfeld-march.jpg",
-    "The Nassfeld in March: still plenty of snow"
    ]
   ],
   "og_locale": "en_GB",
@@ -1063,8 +1193,8 @@
       "A 1.5 km play trail on the mountain: build dams, play with fountains and climb aboard a real sailing boat. June to September."
      ],
      [
-      "Pool and playgrounds",
-      "Right on the park, handy all year round."
+      "On and around the park",
+      "Playground, air trampoline, an Escape Box and the Yuki treasure hunt. In season, the heated outdoor pool and Schluga lake beach with a water inflatable, free with the orange wristband."
      ],
      [
       "Adventure park by the lake",
@@ -1140,14 +1270,67 @@
   ],
   "ph_about": "Sunny morning on the terrace",
   "nav_about": "About us",
-  "about_sign": "Warm wishes, Sander & Maud"
+  "about_sign": "Warm wishes, Sander & Maud",
+  "nav_winter": "Winter",
+  "winter_eyebrow": "Winter sports",
+  "winter_h2": "Skiing on the Nassfeld",
+  "winter_intro": "We ski on the Nassfeld every year ourselves: Carinthia's largest and sunniest ski area, a short drive from the lodge. According to the region it gets around 100 more hours of sunshine than the northern Alps.",
+  "winter_facts": [
+   [
+    "110 km",
+    "of pistes: 30 km blue, 69 km red, 11 km black"
+   ],
+   [
+    "± 30",
+    "lifts and gondolas, up to around 2,000 m"
+   ],
+   [
+    "7.6 km",
+    "the Carnia valley run, the longest run in the area"
+   ],
+   [
+    "Dec – Apr",
+    "ski season, 4 December to 4 April in 2026/27"
+   ]
+  ],
+  "winter_cards": [
+   [
+    "Up with the Millennium Express",
+    "From Tröpolach the gondola takes you up in three sections to almost 1,900 m. The ski bus stops a few hundred metres from the park, so you can leave the car behind."
+   ],
+   [
+    "Skiing with kids",
+    "Four secured children's areas with magic carpets, ski schools for kids from age 4 and childcare from 2.5 years. Children under 10 get free ski equipment, and some weeks have extra children's discounts."
+   ],
+   [
+    "Our regular routine",
+    "We always start at the Millennium Express and rent a ski locker at the bottom, so there's nothing to carry. Then après-ski at Zum Alois, right by the valley station."
+   ],
+   [
+    "More than skiing",
+    "Tobogganing on the natural runs at Guggenberg (2 km) and Weissbriach (3 km), 90 km of cross-country trails, 160 km of winter walking paths and snowshoeing."
+   ],
+   [
+    "Skating on Lake Weissensee",
+    "In winter Lake Weissensee becomes Europe's largest prepared natural ice surface (6.5 km²). It's also where the Dutch skate their Alternative Elfstedentocht. Check the ice report first."
+   ],
+   [
+    "Handy on the park",
+    "A ski drying room (for a fee), fresh bread rolls at reception and a park shop for groceries."
+   ]
+  ],
+  "winter_note": "Season dates, lift times and discounts vary from year to year. See nassfeld.at for current information.",
+  "ph_ski1": "On the slopes with views across the Carnic Alps",
+  "ph_ski2": "Fresh powder next to the lift",
+  "ph_nassfeld": "The Nassfeld in March: still plenty of snow",
+  "ph_winterlodge": "The lodge in the snow"
  },
  "it": {
   "book_code": "it",
   "thanks_slug": "grazie",
   "country": "Austria",
   "title": "Panorama Lodge sul lago Pressegger See · Vacanze in famiglia in Carinzia",
-  "meta": "Lodge indipendente per famiglie fino a 6 persone all'EuroParcs Pressegger See: 3 camere con letto a castello, piscina e parchi giochi nel parco. Ideale in primavera e autunno.",
+  "meta": "Lodge indipendente per famiglie fino a 6 persone all'EuroParcs Pressegger See: 3 camere con letto a castello, piscina e parco giochi nel parco. Ideale in primavera e autunno.",
   "nav_label": "Menu principale",
   "nav": [
    "La casa",
@@ -1161,7 +1344,7 @@
   "cta_book": "Disponibilità e prenotazione",
   "eyebrow": "Vacanze in famiglia in Carinzia, Austria",
   "h1": "Scoprire le montagne insieme. Senza la folla dell'estate.",
-  "lead": "La nostra Panorama Lodge è fatta per le famiglie: tre camere (sì, con letto a castello), un grande tavolo per serate in compagnia e un parco con piscina e parchi giochi. Il lago e le montagne sono a due passi.",
+  "lead": "La nostra Panorama Lodge è fatta per le famiglie: tre camere (sì, con letto a castello), un grande tavolo per serate in compagnia e un parco con piscina e parco giochi. Il lago e le montagne sono a due passi.",
   "facts": [
    "Fino a 6 persone",
    "Camera con letto a castello",
@@ -1186,7 +1369,11 @@
    ],
    [
     "Tutto nel parco",
-    "Piscina, parchi giochi e campi sportivi nel parco, il lago a pochi passi. Comodo anche nei giorni di pioggia."
+    "Piscina esterna riscaldata (da metà maggio a inizio ottobre), parco giochi in legno, trampolino gonfiabile e un ristorante. Il lido sul lago confina con il parco."
+   ],
+   [
+    "+CARD Holiday gratuita",
+    "Soggiornando tra metà maggio e novembre ricevete la +CARD: autobus regionali gratuiti e impianti estivi del Nassfeld gratuiti, più sconti nella regione."
    ]
   ],
   "todo_eyebrow": "Stagioni",
@@ -1199,6 +1386,11 @@
     "Primavera",
     "Giro del lago Pressegger See",
     "5,9 km in piano tra i canneti, circa un'ora e mezza. Facile anche per le gambe piccole."
+   ],
+   [
+    "Da metà maggio",
+    "+CARD Holiday",
+    "Da metà maggio all'arrivo ricevete la +CARD: autobus gratuiti nella regione e salita gratuita con gli impianti estivi."
    ],
    [
     "Metà maggio",
@@ -1269,11 +1461,13 @@
   ],
   "park_h3": "Nel parco",
   "park": [
-   "Piscina",
-   "Wellness",
-   "Palestra",
-   "Giochi e strutture sportive",
-   "A pochi passi dal lago"
+   "Piscina esterna riscaldata (metà maggio – inizio ott.)",
+   "Parco giochi in legno e trampolino gonfiabile",
+   "Ristorante e pizzeria",
+   "Servizio panini e negozio",
+   "Locale asciuga-sci",
+   "Il lido Schluga confina con il parco",
+   "AlpinSPA gratuita all'EuroParcs Hermagor·Nassfeld"
   ],
   "book_eyebrow": "Prenota",
   "book_h2": "Voglia di una vacanza in famiglia in montagna?",
@@ -1342,17 +1536,18 @@
       "Giornata in città",
       "Due affascinanti città della Carinzia per una giornata di shopping, caffè e cultura.",
       ""
-     ]
-    ]
-   ],
-   [
-    "Inverno",
-    [
+     ],
      [
-      "Sciare dal Millennium Express",
-      "Tröpolach",
-      "Partiamo sempre dal Millennium Express. Consiglio: noleggia un armadietto per gli sci a valle, così non devi portare nulla. Poi après-ski allo Zum Alois.",
-      "https://www.nassfeld.at/"
+      "Kärnten Therme",
+      "Warmbad-Villach",
+      "Parco termale con scivoli, fiume a corrente e un'area per i più piccoli. Aperto tutto l'anno, ideale nei giorni di pioggia.",
+      "https://www.kaerntentherme.com/"
+     ],
+     [
+      "Affenberg e Adlerarena",
+      "Castello di Landskron, vicino a Villach",
+      "Circa 180 macachi giapponesi in un grande recinto all'aperto e, poco sopra, uno spettacolo di rapaci al castello. Da aprile a ottobre.",
+      "https://www.adlerarena.com/"
      ]
     ]
    ],
@@ -1402,8 +1597,8 @@
     "Serata accogliente"
    ],
    [
-    "/img/winter.jpg",
-    "Il lodge sotto la neve"
+    "/img/terrace-summer.jpg",
+    "Terrazza coperta con tavolo per sei"
    ],
    [
     "/img/morning.jpg",
@@ -1422,10 +1617,6 @@
    [
     "/img/forest-path.jpg",
     "Sentieri tranquilli nel bosco"
-   ],
-   [
-    "/img/nassfeld-march.jpg",
-    "Il Nassfeld a marzo: ancora tanta neve"
    ]
   ],
   "og_locale": "it_IT",
@@ -1444,8 +1635,8 @@
       "Percorso gioco di 1,5 km in montagna: costruire dighe, fontane e una vera barca a vela. Da giugno a settembre."
      ],
      [
-      "Piscina e parchi giochi",
-      "Direttamente nel parco, comodi tutto l'anno."
+      "Nel parco e dintorni",
+      "Parco giochi, trampolino gonfiabile, una Escape Box e la caccia al tesoro Yuki. In stagione la piscina esterna riscaldata e il lido Schluga con gonfiabile in acqua, gratis con il braccialetto arancione."
      ],
      [
       "Parco divertimenti sul lago",
@@ -1521,14 +1712,67 @@
   ],
   "ph_about": "Mattina di sole sulla terrazza",
   "nav_about": "Chi siamo",
-  "about_sign": "Un caro saluto, Sander & Maud"
+  "about_sign": "Un caro saluto, Sander & Maud",
+  "nav_winter": "Inverno",
+  "winter_eyebrow": "Sport invernali",
+  "winter_h2": "Sciare sul Nassfeld",
+  "winter_intro": "Noi stessi sciamo sul Nassfeld ogni anno: il comprensorio più grande e soleggiato della Carinzia, a poca distanza dal lodge. Secondo la regione ha circa 100 ore di sole in più rispetto alle Alpi settentrionali.",
+  "winter_facts": [
+   [
+    "110 km",
+    "di piste: 30 km blu, 69 km rosse, 11 km nere"
+   ],
+   [
+    "± 30",
+    "impianti di risalita, fino a circa 2.000 m"
+   ],
+   [
+    "7,6 km",
+    "la discesa a valle Carnia, la più lunga del comprensorio"
+   ],
+   [
+    "dic – apr",
+    "stagione sciistica, nel 2026/27 dal 4 dicembre al 4 aprile"
+   ]
+  ],
+  "winter_cards": [
+   [
+    "Su con il Millennium Express",
+    "Da Tröpolach la cabinovia vi porta in tre tratti a quasi 1.900 m. Lo skibus ferma a poche centinaia di metri dal parco, quindi l'auto può restare ferma."
+   ],
+   [
+    "Sciare con i bambini",
+    "Quattro aree bimbi protette con tapis roulant, scuole di sci per bambini dai 4 anni e assistenza all'infanzia dai 2,5 anni. Sotto i 10 anni l'attrezzatura da sci è gratuita, e in alcune settimane ci sono sconti extra per bambini."
+   ],
+   [
+    "Il nostro giro fisso",
+    "Partiamo sempre dal Millennium Express e noleggiamo un armadietto a valle, così non c'è nulla da portare. Poi après-ski allo Zum Alois, proprio alla stazione a valle."
+   ],
+   [
+    "Non solo sci",
+    "Slittino sulle piste naturali di Guggenberg (2 km) e Weissbriach (3 km), 90 km di piste da fondo, 160 km di sentieri invernali e ciaspolate."
+   ],
+   [
+    "Pattinare sul Weissensee",
+    "D'inverno il Weissensee diventa la più grande superficie di ghiaccio naturale preparata d'Europa (6,5 km²). Controllate prima il bollettino del ghiaccio."
+   ],
+   [
+    "Comodo nel parco",
+    "Un locale asciuga-sci (a pagamento), panini freschi alla reception e un negozio nel parco per la spesa."
+   ]
+  ],
+  "winter_note": "Date della stagione, orari degli impianti e sconti cambiano ogni anno. Informazioni aggiornate su nassfeld.at.",
+  "ph_ski1": "In pista con vista sulle Alpi Carniche",
+  "ph_ski2": "Neve fresca accanto all'impianto",
+  "ph_nassfeld": "Il Nassfeld a marzo: ancora tanta neve",
+  "ph_winterlodge": "Il lodge sotto la neve"
  },
  "pl": {
   "book_code": "pl",
   "thanks_slug": "dziekujemy",
   "country": "Austria",
   "title": "Panorama Lodge nad jeziorem Pressegger See · Rodzinne wakacje w Karyntii",
-  "meta": "Wolnostojący domek dla rodzin do 6 osób w EuroParcs Pressegger See: 3 sypialnie z łóżkiem piętrowym, basen i place zabaw w parku. Idealny na majówkę i jesień.",
+  "meta": "Wolnostojący domek dla rodzin do 6 osób w EuroParcs Pressegger See: 3 sypialnie z łóżkiem piętrowym, basen i plac zabaw w parku. Idealny na majówkę i jesień.",
   "nav_label": "Menu główne",
   "nav": [
    "Domek",
@@ -1542,7 +1786,7 @@
   "cta_book": "Dostępność i rezerwacja",
   "eyebrow": "Rodzinne wakacje w Karyntii, Austria",
   "h1": "Odkrywajcie góry razem. Bez letnich tłumów.",
-  "lead": "Nasz Panorama Lodge jest stworzony dla rodzin: trzy sypialnie (tak, z łóżkiem piętrowym), duży stół na wspólne wieczory i park z basenem i placami zabaw. Jezioro i góry są tuż obok.",
+  "lead": "Nasz Panorama Lodge jest stworzony dla rodzin: trzy sypialnie (tak, z łóżkiem piętrowym), duży stół na wspólne wieczory i park z basenem i placem zabaw. Jezioro i góry są tuż obok.",
   "facts": [
    "Do 6 osób",
    "Pokój z łóżkiem piętrowym",
@@ -1567,7 +1811,11 @@
    ],
    [
     "Wszystko w parku",
-    "Basen, place zabaw i boiska w parku, jezioro w zasięgu spaceru. Przydatne także w deszczowy dzień."
+    "Podgrzewany basen zewnętrzny (od połowy maja do początku października), drewniany plac zabaw, dmuchana trampolina i restauracja. Kąpielisko nad jeziorem graniczy z parkiem."
+   ],
+   [
+    "Bezpłatna +CARD Holiday",
+    "Przy pobycie od połowy maja do listopada dostajecie +CARD: bezpłatne autobusy regionalne i bezpłatne letnie kolejki na Nassfeld, a do tego zniżki w regionie."
    ]
   ],
   "todo_eyebrow": "Pory roku",
@@ -1580,6 +1828,11 @@
     "Majówka",
     "Wokół jeziora Pressegger See",
     "5,9 km po płaskim wśród trzcin, około półtorej godziny. Łatwe nawet dla małych nóżek."
+   ],
+   [
+    "Od połowy maja",
+    "+CARD Holiday",
+    "Od połowy maja przy przyjeździe dostajecie +CARD: bezpłatne autobusy po regionie i bezpłatny wjazd letnimi kolejkami."
    ],
    [
     "Połowa maja",
@@ -1650,11 +1903,13 @@
   ],
   "park_h3": "Na terenie parku",
   "park": [
-   "Basen",
-   "Strefa wellness",
-   "Siłownia",
-   "Place zabaw i obiekty sportowe",
-   "Blisko jeziora"
+   "Podgrzewany basen zewnętrzny (poł. maja – pocz. paź.)",
+   "Drewniany plac zabaw i dmuchana trampolina",
+   "Restauracja i pizzeria",
+   "Dostawa bułek i sklepik",
+   "Suszarnia nart",
+   "Kąpielisko Schluga graniczy z parkiem",
+   "Bezpłatne AlpinSPA w EuroParcs Hermagor·Nassfeld"
   ],
   "book_eyebrow": "Rezerwacja",
   "book_h2": "Macie ochotę na rodzinne wakacje w górach?",
@@ -1723,17 +1978,18 @@
       "Dzień w mieście",
       "Dwa urokliwe miasta Karyntii na dzień zakupów, kawiarni i kultury.",
       ""
-     ]
-    ]
-   ],
-   [
-    "Zima",
-    [
+     ],
      [
-      "Narty od Millennium Express",
-      "Tröpolach",
-      "Zawsze startujemy z Millennium Express. Wskazówka: wynajmij szafkę na narty na dole, nie trzeba nic nosić. Potem après-ski w Zum Alois.",
-      "https://www.nassfeld.at/"
+      "Kärnten Therme",
+      "Warmbad-Villach",
+      "Park wodny z termami, zjeżdżalniami, rwącą rzeką i strefą dla maluchów. Otwarty cały rok, idealny na deszczowy dzień.",
+      "https://www.kaerntentherme.com/"
+     ],
+     [
+      "Affenberg i Adlerarena",
+      "Zamek Landskron, koło Villach",
+      "Około 180 makaków japońskich na dużym wybiegu, a tuż powyżej pokaz ptaków drapieżnych przy zamku. Od kwietnia do października.",
+      "https://www.adlerarena.com/"
      ]
     ]
    ],
@@ -1783,8 +2039,8 @@
     "Przytulny wieczór"
    ],
    [
-    "/img/winter.jpg",
-    "Domek w śniegu"
+    "/img/terrace-summer.jpg",
+    "Zadaszony taras ze stołem dla sześciu osób"
    ],
    [
     "/img/morning.jpg",
@@ -1803,10 +2059,6 @@
    [
     "/img/forest-path.jpg",
     "Spokojne leśne ścieżki"
-   ],
-   [
-    "/img/nassfeld-march.jpg",
-    "Nassfeld w marcu: wciąż dużo śniegu"
    ]
   ],
   "og_locale": "pl_PL",
@@ -1825,8 +2077,8 @@
       "1,5 km ścieżka zabaw w górach: budowanie tam, fontanny i prawdziwa żaglówka. Od czerwca do września."
      ],
      [
-      "Basen i place zabaw",
-      "Na terenie parku, przydatne przez cały rok."
+      "W parku i wokół niego",
+      "Plac zabaw, dmuchana trampolina, Escape Box i poszukiwanie skarbów Yuki. W sezonie podgrzewany basen i kąpielisko Schluga z dmuchańcem na wodzie, bezpłatnie z pomarańczową opaską."
      ],
      [
       "Park rozrywki nad jeziorem",
@@ -1902,6 +2154,59 @@
   ],
   "ph_about": "Słoneczny poranek na tarasie",
   "nav_about": "O nas",
-  "about_sign": "Pozdrawiamy, Sander i Maud"
+  "about_sign": "Pozdrawiamy, Sander i Maud",
+  "nav_winter": "Zima",
+  "winter_eyebrow": "Sporty zimowe",
+  "winter_h2": "Narty na Nassfeld",
+  "winter_intro": "Sami co roku jeździmy na nartach na Nassfeld: to największy i najbardziej słoneczny ośrodek narciarski Karyntii, niedaleko od domku. Według regionu ma około 100 godzin słońca więcej niż Alpy północne.",
+  "winter_facts": [
+   [
+    "110 km",
+    "tras: 30 km niebieskich, 69 km czerwonych, 11 km czarnych"
+   ],
+   [
+    "± 30",
+    "wyciągów i kolejek, do ok. 2000 m"
+   ],
+   [
+    "7,6 km",
+    "zjazd do doliny Carnia, najdłuższa trasa w ośrodku"
+   ],
+   [
+    "gru – kwi",
+    "sezon narciarski, w 2026/27 od 4 grudnia do 4 kwietnia"
+   ]
+  ],
+  "winter_cards": [
+   [
+    "W górę kolejką Millennium-Express",
+    "Z Tröpolach gondola zabiera Was w trzech odcinkach na prawie 1900 m. Skibus zatrzymuje się kilkaset metrów od parku, więc samochód może zostać na miejscu."
+   ],
+   [
+    "Narty z dziećmi",
+    "Cztery zabezpieczone strefy dla dzieci z taśmociągami, szkoły narciarskie dla dzieci od 4 lat i opieka nad dziećmi od 2,5 roku. Dzieci poniżej 10 lat dostają sprzęt narciarski za darmo, a w niektórych tygodniach są dodatkowe zniżki dla dzieci."
+   ],
+   [
+    "Nasza stała trasa",
+    "Zawsze startujemy z Millennium-Express i wynajmujemy na dole szafkę na narty, więc nie trzeba nic nosić. Potem après-ski w Zum Alois, tuż przy dolnej stacji."
+   ],
+   [
+    "Nie tylko narty",
+    "Sanki na naturalnych torach Guggenberg (2 km) i Weissbriach (3 km), 90 km tras biegowych, 160 km zimowych szlaków i wędrówki w rakietach śnieżnych."
+   ],
+   [
+    "Łyżwy na Weissensee",
+    "Zimą Weissensee staje się największą przygotowaną naturalną taflą lodu w Europie (6,5 km²). Wcześniej sprawdźcie raport lodowy."
+   ],
+   [
+    "Wygodnie w parku",
+    "Suszarnia nart (płatna), świeże bułki w recepcji i sklepik w parku na zakupy."
+   ]
+  ],
+  "winter_note": "Daty sezonu, godziny pracy wyciągów i zniżki zmieniają się co roku. Aktualne informacje na nassfeld.at.",
+  "ph_ski1": "Na stoku z widokiem na Alpy Karnickie",
+  "ph_ski2": "Świeży puch obok wyciągu",
+  "ph_nassfeld": "Nassfeld w marcu: wciąż dużo śniegu",
+  "ph_winterlodge": "Domek w śniegu"
  }
 }
