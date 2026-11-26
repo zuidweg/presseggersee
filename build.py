@@ -176,8 +176,8 @@ def page(code):
 <label>{e(f['name'])}<input type="text" name="naam" required autocomplete="name"></label>
 <label>{e(f['email'])}<input type="email" name="email" required autocomplete="email"></label>
 <div class="row" style="gap:12px">
-<label>{e(f['arrive'])}<input type="date" name="aankomst"></label>
-<label>{e(f['leave'])}<input type="date" name="vertrek"></label>
+<label><span>{e(f['arrive'])} <small class="opt">({e(f['optional'])})</small></span><input type="date" name="aankomst"></label>
+<label><span>{e(f['leave'])} <small class="opt">({e(f['optional'])})</small></span><input type="date" name="vertrek"></label>
 <label style="flex-basis:100px">{e(f['guests'])}<input type="number" name="personen" min="1" max="6"></label>
 </div>
 <label>{e(f['msg'])}<textarea name="bericht" rows="3"></textarea></label>

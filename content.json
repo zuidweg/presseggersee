@@ -156,7 +156,8 @@
    "guests": "Personen",
    "msg": "Bericht (bijv. leeftijden van de kinderen)",
    "send": "Verstuur",
-   "privacy": "We gebruiken je gegevens alleen om je vraag te beantwoorden."
+   "privacy": "We gebruiken je gegevens alleen om je vraag te beantwoorden.",
+   "optional": "optioneel"
   },
   "footer": "Particuliere eigenaren, beheer door EuroParcs",
   "thanks_h": "Bedankt voor je bericht",
@@ -626,7 +627,8 @@
    "guests": "Personen",
    "msg": "Nachricht (z. B. Alter der Kinder)",
    "send": "Absenden",
-   "privacy": "Wir verwenden eure Daten nur, um eure Frage zu beantworten."
+   "privacy": "Wir verwenden eure Daten nur, um eure Frage zu beantworten.",
+   "optional": "optional"
   },
   "footer": "Private Eigentümer, Verwaltung durch EuroParcs",
   "thanks_h": "Vielen Dank für eure Nachricht",
@@ -1096,7 +1098,8 @@
    "guests": "Guests",
    "msg": "Message (e.g. your children's ages)",
    "send": "Send",
-   "privacy": "We only use your details to answer your question."
+   "privacy": "We only use your details to answer your question.",
+   "optional": "optional"
   },
   "footer": "Private owners, managed by EuroParcs",
   "thanks_h": "Thank you for your message",
@@ -1566,7 +1569,8 @@
    "guests": "Persone",
    "msg": "Messaggio (es. età dei bambini)",
    "send": "Invia",
-   "privacy": "Usiamo i tuoi dati solo per rispondere alla tua richiesta."
+   "privacy": "Usiamo i tuoi dati solo per rispondere alla tua richiesta.",
+   "optional": "facoltativo"
   },
   "footer": "Proprietari privati, gestione EuroParcs",
   "thanks_h": "Grazie per il tuo messaggio",
@@ -2036,7 +2040,8 @@
    "guests": "Liczba osób",
    "msg": "Wiadomość (np. wiek dzieci)",
    "send": "Wyślij",
-   "privacy": "Twoje dane wykorzystujemy wyłącznie do odpowiedzi na Twoje pytanie."
+   "privacy": "Twoje dane wykorzystujemy wyłącznie do odpowiedzi na Twoje pytanie.",
+   "optional": "opcjonalnie"
   },
   "footer": "Prywatni właściciele, zarządzanie EuroParcs",
   "thanks_h": "Dziękujemy za wiadomość",

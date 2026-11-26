@@ -177,3 +177,4 @@ footer .langs a{color:#C9D6CF}footer .langs [aria-current]{color:#fff}
 .card:nth-child(5){background:#F4B63F;border-top-color:#F4B63F;color:#16302E}
 .card:nth-child(5) p{color:#2A3B2E}
 .toggle .mo{font-weight:500;opacity:.75}
+form.req .opt{font-weight:400;color:#5A6E6A;font-size:12px}
