@@ -195,6 +195,10 @@ document.querySelectorAll('.toggle button').forEach(function(b){{b.addEventListe
 document.querySelectorAll('.toggle button').forEach(function(o){{o.setAttribute('aria-pressed',o===b)}});
 box.innerHTML=d[b.dataset.s].map(function(a){{return '<div class="act"><p class="when">'+esc(a[0])+'</p><div class="what"><h3>'+esc(a[1])+'</h3><p class="muted">'+esc(a[2])+'</p></div></div>'}}).join('');
 }})}});
+var fm=document.querySelector('form.req');if(fm){{fm.addEventListener('submit',function(ev){{ev.preventDefault();var btn=fm.querySelector('button[type=submit]');btn.disabled=true;
+fetch('/',{{method:'POST',headers:{{'Content-Type':'application/x-www-form-urlencoded'}},body:new URLSearchParams(new FormData(fm)).toString()}})
+.then(function(r){{if(!r.ok)throw new Error(r.status);window.location.href=fm.getAttribute('action')}})
+.catch(function(){{btn.disabled=false;fm.submit()}});}})}}
 var m=new Date().getMonth();var pick=(m>=5&&m<=7)?'summer':(m>=8?'autumn':'spring');if(pick!=='spring'){{document.querySelector('.toggle button[data-s='+pick+']').click()}}
 }})();
 </script>
