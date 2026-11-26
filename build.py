@@ -7,6 +7,8 @@ DIST = os.path.join(ROOT, "dist")
 BOOK = "https://app.bookingexperts.com/{code}/ra/2550/170233/yPRubT8wL8fEWsHmhLcCUjPLvu7WBb44R3rdTbEs"
 SITE = "https://presseggersee.nl"
 INDEXABLE = True  # False = noindex (niet in Google)
+# Bezoekstatistieken (GoatCounter, zonder cookies). Dashboard: https://presseggersee.goatcounter.com
+GOATCOUNTER = '<script data-goatcounter="https://presseggersee.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>'
 # Formulier: endpoint van de formulierdienst (FormSubmit AJAX: https://formsubmit.co/ajax/<adres-of-alias>).
 # Leeg = formulier wordt niet getoond (alleen de boekknop).
 FORM_ENDPOINT = "https://formsubmit.co/ajax/info@koers-control.nl"
@@ -96,6 +98,7 @@ def page(code):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
+{GOATCOUNTER}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -105,7 +108,7 @@ def page(code):
 <a href="#huis">{e(t['nav'][0])}</a><a href="#kids">{e(t['nav'][1])}</a><a href="#omgeving">{e(t['nav'][2])}</a><a href="#winter">{e(t['nav_winter'])}</a><a href="#tips">{e(t['nav_tips'])}</a><a href="#boeken">{e(t['nav'][3])}</a>
 </nav>
 <div class="right"><div class="langs">{langs}</div>
-<a class="btn btn-accent btn-head" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
+<a class="btn btn-accent btn-head" href="{book}" rel="noopener" data-goatcounter-click="boeken-{code}-header">{e(t['cta_avail'])}</a></div>
 </div></header>
 <main>
 <div class="wrap hero">
@@ -113,7 +116,7 @@ def page(code):
 <p class="eyebrow">{e(t['eyebrow'])}</p>
 <h1>{e(t['h1'])}</h1>
 <p class="lead muted">{e(t['lead'])}</p>
-<div class="row"><a class="btn btn-accent" href="{book}" rel="noopener">{e(t['cta_dates'])}</a><a class="btn btn-line" href="#huis">{e(t['cta_house'])}</a></div>
+<div class="row"><a class="btn btn-accent" href="{book}" rel="noopener" data-goatcounter-click="boeken-{code}-hero">{e(t['cta_dates'])}</a><a class="btn btn-line" href="#huis">{e(t['cta_house'])}</a></div>
 <div class="facts">{facts}</div>
 </div>
 <div class="heropic">{photo(t, 'hero', t['ph_hero'])}<span class="sticker">{e(t['sticker'])}</span><img class="inset" src="/img/family-walk.jpg" alt="{e(t['ph_family'])}" width="1000" height="563"></div>
@@ -176,7 +179,7 @@ def page(code):
 <p class="eyebrow">{e(t['book_eyebrow'])}</p>
 <h2>{e(t['book_h2'])}</h2>
 <p class="muted" style="font-size:17px">{e(t['book_text'])}</p>
-<a class="btn btn-accent" href="{book}" rel="noopener">{e(t['cta_book'])}</a>
+<a class="btn btn-accent" href="{book}" rel="noopener" data-goatcounter-click="boeken-{code}-onderaan">{e(t['cta_book'])}</a>
 <p style="margin-top:16px;font-weight:600">{e(t['addr_label'])}</p>
 <p class="muted">EuroParcs Pressegger See · Presseggen 29, 9620 Presseggen, {e(t["country"])}</p>
 </div>
@@ -195,7 +198,7 @@ def page(code):
 </form>{form_close}
 </div></section>
 </main>
-<div class="bookbar"><span>{e(t['bar_text'])}</span><a class="btn btn-accent" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
+<div class="bookbar"><span>{e(t['bar_text'])}</span><a class="btn btn-accent" href="{book}" rel="noopener" data-goatcounter-click="boeken-{code}-balk">{e(t['cta_avail'])}</a></div>
 <footer><div class="wrap"><p>© 2026 presseggersee.nl · {e(t['footer'])}</p><div class="links"><span>{e(t['social'])}:</span><a href="https://www.instagram.com/presseggersee310/" rel="noopener">Instagram</a><a href="https://www.facebook.com/people/Pressegger-See/100095342058628/" rel="noopener">Facebook</a><div class="langs">{langs}</div></div></div></footer>
 <script>
 (function(){{var d={acts};var box=document.getElementById('acts');
@@ -221,7 +224,7 @@ def thanks(code):
 <html lang="{code}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(t['thanks_h'])} · presseggersee.nl</title><meta name="robots" content="noindex">
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/style.css"></head>
+<link rel="stylesheet" href="/style.css">{GOATCOUNTER}</head>
 <body><main class="wrap thanks"><a class="logo" href="{path_of(code)}">presseggersee<span>.nl</span></a>
 <h1 style="font-size:44px">{e(t['thanks_h'])}</h1><p class="muted" style="font-size:18px">{e(t['thanks_p'])}</p>
 <a class="btn btn-dark" href="{path_of(code)}">{e(t['thanks_back'])}</a></main></body></html>
