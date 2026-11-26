@@ -1,2357 +1,2362 @@
 {
- "nl": {
-  "book_code": "nl",
-  "thanks_slug": "bedankt",
-  "country": "Oostenrijk",
-  "title": "Panorama Lodge aan de Presseggersee · Gezinsvakantie in Karinthië",
-  "meta": "Vrijstaande lodge voor gezinnen tot 6 personen op EuroParcs Pressegger See: 3 slaapkamers met stapelbed, zwembad en speeltuin op het park. Ideaal in mei- en herfstvakantie.",
-  "nav_label": "Hoofdmenu",
-  "nav": [
-   "Het huis",
-   "Voor de kids",
-   "Seizoenen",
-   "Boeken"
-  ],
-  "cta_avail": "Vrije data",
-  "cta_dates": "Bekijk vrije data en prijzen",
-  "cta_house": "Kijk binnen",
-  "cta_book": "Beschikbaarheid & boeken",
-  "eyebrow": "Gezinsvakantie in Karinthië, Oostenrijk",
-  "h1": "Samen de bergen ontdekken. Zonder de drukte van de zomer.",
-  "lead": "Onze Panorama Lodge is gemaakt voor gezinnen: drie slaapkamers (ja, met stapelbed), een grote tafel voor gezellige avonden en een park met zwembad en speeltuin. Het meer en de bergen liggen om de hoek.",
-  "facts": [
-   "Tot 6 personen",
-   "Kamer met stapelbed",
-   "Zwembad op het park",
-   "Gratis wifi"
-  ],
-  "ph_hero": "De Panorama Lodge in de zon, buiten het hoogseizoen",
-  "why_eyebrow": "Waarom in het voor- of naseizoen?",
-  "why_h2": "Meer tijd voor elkaar, minder wachten",
-  "why": [
-   [
-    "Geen wachtrijen",
-    "Buiten juli en augustus is het rustig bij de lift, op de paden en aan het meer. Meer ruimte om samen te ontdekken."
-   ],
-   [
-    "Mei- en herfstvakantie",
-    "Het voor- en naseizoen valt mooi samen met de mei- en herfstvakantie. Een korte, actieve vakantie in de bergen."
-   ],
-   [
-    "Ruimte voor iedereen",
-    "Vrijstaand chalet met drie slaapkamers. De kids hebben hun eigen kamer, jullie slapen rustig in de ouderslaapkamer."
-   ],
-   [
-    "Alles op het park",
-    "Verwarmd buitenzwembad (half mei tot begin oktober), houten speeltuin, luchtkussen en een restaurant. Het strandbad aan het meer grenst aan het park."
-   ],
-   [
-    "Gratis +CARD Holiday",
-    "Logeer je tussen half mei en november, dan krijg je de +CARD: gratis regionale bus en gratis zomerbergbanen op het Nassfeld, plus kortingen in de regio."
-   ]
-  ],
-  "todo_eyebrow": "Seizoenen",
-  "todo_h2": "Wat er per seizoen te doen is",
-  "toggle_label": "Kies seizoen",
-  "spring_label": "Voorjaar (apr–jun)",
-  "autumn_label": "Herfst (sep–nov)",
-  "spring": [
-   [
-    "Meivakantie",
-    "Rondje Presseggersee",
-    "5,9 km vlak langs het riet rond het meer, ongeveer anderhalf uur. Goed te doen met kleine beentjes."
-   ],
-   [
-    "Vanaf half mei",
-    "+CARD Holiday",
-    "Vanaf half mei krijg je bij aankomst de +CARD: gratis bus door de regio en gratis met de zomerbergbanen omhoog."
-   ],
-   [
-    "Medio mei",
-    "Kärntner Wanderopening",
-    "De regio opent het wandelseizoen met een feestelijk weekend in het nabijgelegen Lesachtal."
-   ],
-   [
-    "April–juni",
-    "Fietsen door het Gailtal",
-    "Vlakke dalroutes, ideaal voor kinderen op hun eigen fiets. In de regio zijn e-bikes te huur."
-   ],
-   [
-    "Vanaf juni",
-    "Aqua Trail en Pendolino",
-    "Als de bergbanen in juni opengaan: eerst spelen op de Aqua Trail, dan met de zomerrodelbaan naar beneden."
-   ],
-   [
-    "Hele voorjaar",
-    "Fossielen zoeken",
-    "In het Geopark Karnische Alpen loop je over oude zeebodem. Wie vindt de eerste fossiel?"
-   ]
-  ],
-  "autumn": [
-   [
-    "September",
-    "Klimmen in het Outdoor Park",
-    "Rotslabyrint en flying fox op het Nassfeld. In september dagelijks open bij goed weer, in oktober op aanvraag."
-   ],
-   [
-    "Sept – begin nov",
-    "Herfstprogramma van de regio",
-    "Begeleide wandelingen en fietstochten, met herfstpicknicks aan meren en rivieren."
-   ],
-   [
-    "Elke zaterdag",
-    "Boerenmarkt Hermagor",
-    "Brood, kaas en appelsap van de boer, in het stadje vlak bij het park."
-   ],
-   [
-    "Herfstvakantie",
-    "Gouden lariksen",
-    "Rustige wandel- en fietsroutes door het Gailtal, met de bergen in hun mooiste kleuren."
-   ],
-   [
-    "Dagtrip",
-    "Weissensee",
-    "Een van de schoonste meren van Oostenrijk. In de herfst stil en spiegelglad, perfect voor stenen keilen."
-   ]
-  ],
-  "todo_note": "Data en openingstijden verschillen per jaar. Het actuele programma staat op nassfeld.at.",
-  "house_eyebrow": "Het huis",
-  "house_text": "Overdag de bergen in, 's avonds met z'n allen aan de grote houten tafel. De kids hebben hun eigen kamer met stapelbed, jullie slapen rustig in de ouderslaapkamer. En op het zonneterras drink je een kop koffie terwijl de kinderen buiten spelen.",
-  "ph_living": "Woonkamer met panoramaramen",
-  "ph_kitchen": "Open keuken",
-  "ph_terrace": "Zonneterras met uitzicht",
-  "chips": [
-   "Tot 6 personen",
-   "Slaapkamer met tweepersoonsbed",
-   "Slaapkamer met 2 eenpersoonsbedden",
-   "Slaapkamer met stapelbed",
-   "Badkamer met douche",
-   "Apart toilet",
-   "Open keuken met vaatwasser en oven",
-   "Zithoek met tv",
-   "Zonneterras met tuinmeubels",
-   "Gratis wifi",
-   "1 parkeerplaats"
-  ],
-  "park_h3": "Op het park",
-  "park": [
-   "Verwarmd buitenzwembad (half mei – begin okt.)",
-   "Houten speeltuin en luchtkussen",
-   "Restaurant en pizzeria",
-   "Broodjesservice en parkwinkel",
-   "Skidroogruimte",
-   "Strandbad Schluga grenst aan het park",
-   "Gratis AlpinSPA bij EuroParcs Hermagor·Nassfeld"
-  ],
-  "book_eyebrow": "Boeken",
-  "book_h2": "Zin in een gezinsvakantie in de bergen?",
-  "book_text": "Bekijk vrije data en prijzen in ons boekingssysteem en boek direct. Vragen over de meivakantie, de herfstvakantie of wat er te doen is voor jullie kinderen? Stuur ons een bericht, we denken graag mee.",
-  "addr_label": "Adres",
-  "form": {
-   "h3": "Stel je vraag",
-   "name": "Naam",
-   "email": "E-mailadres",
-   "arrive": "Aankomst",
-   "leave": "Vertrek",
-   "guests": "Personen",
-   "msg": "Bericht (bijv. leeftijden van de kinderen)",
-   "send": "Verstuur",
-   "privacy": "We gebruiken je gegevens alleen om je vraag te beantwoorden.",
-   "optional": "optioneel"
+  "nl": {
+    "book_code": "nl",
+    "thanks_slug": "bedankt",
+    "country": "Oostenrijk",
+    "title": "Panorama Lodge aan de Presseggersee · Gezinsvakantie in Karinthië",
+    "meta": "Vrijstaande lodge voor gezinnen tot 6 personen op EuroParcs Pressegger See: 3 slaapkamers met stapelbed, zwembad en speeltuin op het park. Ideaal in mei- en herfstvakantie.",
+    "nav_label": "Hoofdmenu",
+    "nav": [
+      "Het huis",
+      "Voor de kids",
+      "Seizoenen",
+      "Boeken"
+    ],
+    "cta_avail": "Vrije data",
+    "cta_dates": "Bekijk vrije data en prijzen",
+    "cta_house": "Kijk binnen",
+    "cta_book": "Beschikbaarheid & boeken",
+    "eyebrow": "Gezinsvakantie in Karinthië, Oostenrijk",
+    "h1": "Samen de bergen ontdekken. Zonder de drukte van de zomer.",
+    "lead": "Onze Panorama Lodge is gemaakt voor gezinnen: drie slaapkamers (ja, met stapelbed), een grote tafel voor gezellige avonden en een park met zwembad en speeltuin. Het meer en de bergen liggen om de hoek.",
+    "facts": [
+      "Tot 6 personen",
+      "Kamer met stapelbed",
+      "Zwembad op het park",
+      "Gratis wifi"
+    ],
+    "ph_hero": "De Panorama Lodge in de zon, buiten het hoogseizoen",
+    "why_eyebrow": "Waarom in het voor- of naseizoen?",
+    "why_h2": "Meer tijd voor elkaar, minder wachten",
+    "why": [
+      [
+        "Geen wachtrijen",
+        "Buiten juli en augustus is het rustig bij de lift, op de paden en aan het meer. Meer ruimte om samen te ontdekken."
+      ],
+      [
+        "Mei- en herfstvakantie",
+        "Het voor- en naseizoen valt mooi samen met de mei- en herfstvakantie. Een korte, actieve vakantie in de bergen."
+      ],
+      [
+        "Ruimte voor iedereen",
+        "Vrijstaand chalet met drie slaapkamers. De kids hebben hun eigen kamer, jullie slapen rustig in de ouderslaapkamer."
+      ],
+      [
+        "Alles op het park",
+        "Verwarmd buitenzwembad (half mei tot begin oktober), houten speeltuin, luchtkussen en een restaurant. Het strandbad aan het meer grenst aan het park."
+      ],
+      [
+        "Gratis +CARD Holiday",
+        "Logeer je tussen half mei en november, dan krijg je de +CARD: gratis regionale bus en gratis zomerbergbanen op het Nassfeld, plus kortingen in de regio."
+      ]
+    ],
+    "todo_eyebrow": "Seizoenen",
+    "todo_h2": "Wat er per seizoen te doen is",
+    "toggle_label": "Kies seizoen",
+    "spring_label": "Voorjaar (apr–jun)",
+    "autumn_label": "Herfst (sep–nov)",
+    "spring": [
+      [
+        "Meivakantie",
+        "Rondje Presseggersee",
+        "5,9 km vlak langs het riet rond het meer, ongeveer anderhalf uur. Goed te doen met kleine beentjes."
+      ],
+      [
+        "Vanaf half mei",
+        "+CARD Holiday",
+        "Vanaf half mei krijg je bij aankomst de +CARD: gratis bus door de regio en gratis met de zomerbergbanen omhoog."
+      ],
+      [
+        "Medio mei",
+        "Kärntner Wanderopening",
+        "De regio opent het wandelseizoen met een feestelijk weekend in het nabijgelegen Lesachtal."
+      ],
+      [
+        "April–juni",
+        "Fietsen door het Gailtal",
+        "Vlakke dalroutes, ideaal voor kinderen op hun eigen fiets. In de regio zijn e-bikes te huur."
+      ],
+      [
+        "Vanaf juni",
+        "Aqua Trail en Pendolino",
+        "Als de bergbanen in juni opengaan: eerst spelen op de Aqua Trail, dan met de zomerrodelbaan naar beneden."
+      ],
+      [
+        "Hele voorjaar",
+        "Fossielen zoeken",
+        "In het Geopark Karnische Alpen loop je over oude zeebodem. Wie vindt de eerste fossiel?"
+      ]
+    ],
+    "autumn": [
+      [
+        "September",
+        "Klimmen in het Outdoor Park",
+        "Rotslabyrint en flying fox op het Nassfeld. In september dagelijks open bij goed weer, in oktober op aanvraag."
+      ],
+      [
+        "Sept – begin nov",
+        "Herfstprogramma van de regio",
+        "Begeleide wandelingen en fietstochten, met herfstpicknicks aan meren en rivieren."
+      ],
+      [
+        "Elke zaterdag",
+        "Boerenmarkt Hermagor",
+        "Brood, kaas en appelsap van de boer, in het stadje vlak bij het park."
+      ],
+      [
+        "Herfstvakantie",
+        "Gouden lariksen",
+        "Rustige wandel- en fietsroutes door het Gailtal, met de bergen in hun mooiste kleuren."
+      ],
+      [
+        "Dagtrip",
+        "Weissensee",
+        "Een van de schoonste meren van Oostenrijk. In de herfst stil en spiegelglad, perfect voor stenen keilen."
+      ]
+    ],
+    "todo_note": "Data en openingstijden verschillen per jaar. Het actuele programma staat op nassfeld.at.",
+    "house_eyebrow": "Het huis",
+    "house_text": "Overdag de bergen in, 's avonds met z'n allen aan de grote houten tafel. De kids hebben hun eigen kamer met stapelbed, jullie slapen rustig in de ouderslaapkamer. En op het zonneterras drink je een kop koffie terwijl de kinderen buiten spelen.",
+    "ph_living": "Woonkamer met panoramaramen",
+    "ph_kitchen": "Open keuken",
+    "ph_terrace": "Zonneterras met uitzicht",
+    "chips": [
+      "Tot 6 personen",
+      "Slaapkamer met tweepersoonsbed",
+      "Slaapkamer met 2 eenpersoonsbedden",
+      "Slaapkamer met stapelbed",
+      "Badkamer met douche",
+      "Apart toilet",
+      "Open keuken met vaatwasser en oven",
+      "Zithoek met tv",
+      "Zonneterras met tuinmeubels",
+      "Gratis wifi",
+      "1 parkeerplaats"
+    ],
+    "park_h3": "Op het park",
+    "park": [
+      "Verwarmd buitenzwembad (half mei – begin okt.)",
+      "Houten speeltuin en luchtkussen",
+      "Restaurant en pizzeria",
+      "Broodjesservice en parkwinkel",
+      "Skidroogruimte",
+      "Strandbad Schluga grenst aan het park",
+      "Gratis AlpinSPA bij EuroParcs Hermagor·Nassfeld"
+    ],
+    "book_eyebrow": "Boeken",
+    "book_h2": "Zin in een gezinsvakantie in de bergen?",
+    "book_text": "Bekijk vrije data en prijzen in ons boekingssysteem en boek direct. Vragen over de meivakantie, de herfstvakantie of wat er te doen is voor jullie kinderen? Stuur ons een bericht, we denken graag mee.",
+    "addr_label": "Adres",
+    "form": {
+      "h3": "Stel je vraag",
+      "name": "Naam",
+      "email": "E-mailadres",
+      "arrive": "Aankomst",
+      "leave": "Vertrek",
+      "guests": "Personen",
+      "msg": "Bericht (bijv. leeftijden van de kinderen)",
+      "send": "Verstuur",
+      "privacy": "We gebruiken je gegevens alleen om je vraag te beantwoorden.",
+      "optional": "optioneel",
+      "error": "Versturen lukte niet. Probeer het later nog eens, of boek direct via de boekknop."
+    },
+    "footer": "Particuliere eigenaren, beheer door EuroParcs",
+    "thanks_h": "Bedankt voor je bericht",
+    "thanks_p": "We nemen zo snel mogelijk contact met je op.",
+    "thanks_back": "Terug naar de website",
+    "tips_eyebrow": "Onze tips",
+    "tips_h2": "Getest door ons eigen gezin",
+    "tips_intro": "Onze favoriete adresjes in de buurt, verzameld tijdens onze eigen vakanties met de kinderen.",
+    "nav_tips": "Tips",
+    "cats": [
+      [
+        "Eten & drinken",
+        [
+          [
+            "Gasthof Waldemar",
+            "Kreuth, Hermagor",
+            "Echte Oostenrijkse keuken in een bijzondere omgeving. Wel even reserveren!",
+            "https://waldemar.at/"
+          ],
+          [
+            "Zeitwirt's",
+            "Aan de Presseggersee",
+            "Restaurant vlak aan het meer, op een paar minuten van het park.",
+            "http://www.zeitwirts.at"
+          ],
+          [
+            "Zum Alois",
+            "Tröpolach",
+            "Pizzeria en restaurant direct bij het dalstation van de Millennium-Express. In de winter ons vaste après-ski-adres.",
+            "https://www.zumalois.at/"
+          ]
+        ]
+      ],
+      [
+        "Uitstapjes",
+        [
+          [
+            "Garnitzenklamm",
+            "Möderndorf, bij Hermagor",
+            "Een kloof van zo'n 4,5 km met watervallen, steile rotswanden en smaragdgroene poelen. Open in het warme seizoen; sommige stukken vragen trefzekerheid.",
+            "https://www.garnitzenklamm.at/"
+          ],
+          [
+            "Suppen op de Presseggersee",
+            "Het meer",
+            "Op een SUP-board over het rustige, heldere water. Heerlijk op een zachte voor- of najaarsdag.",
+            ""
+          ],
+          [
+            "Villach en Klagenfurt",
+            "Dagje stad",
+            "Twee sfeervolle Karinthische steden voor een dag winkelen, terrasjes en cultuur.",
+            ""
+          ],
+          [
+            "Kärnten Therme",
+            "Warmbad-Villach",
+            "Thermaal waterpark met glijbanen, een wildwaterbaan en een eigen gedeelte voor de kleintjes. Het hele jaar open, dus ideaal op een regendag.",
+            "https://www.kaerntentherme.com/"
+          ],
+          [
+            "Affenberg en Adlerarena",
+            "Burg Landskron, bij Villach",
+            "Rond de 180 Japanse makaken in een groot buitenverblijf, en vlak erboven een roofvogelshow bij de burcht. Van april tot en met oktober.",
+            "https://www.adlerarena.com/"
+          ]
+        ]
+      ],
+      [
+        "Praktisch",
+        [
+          [
+            "Verplicht in de auto",
+            "Oostenrijk",
+            "Gevarendriehoek, een veiligheidshesje voor elke inzittende, een niet-verlopen verbanddoos en een vignet voor de snelweg (digitaal bij ASFINAG of bij een tankstation voor de grens). De politie controleert hier soms op.",
+            "https://shop.asfinag.at/"
+          ]
+        ]
+      ]
+    ],
+    "more": "Meer info",
+    "social": "Volg ons",
+    "photos": {
+      "hero": "/img/hero.jpg",
+      "living": "/img/living.jpg",
+      "kitchen": "/img/kitchen.jpg",
+      "terrace": "/img/terrace.jpg"
+    },
+    "gallery": [
+      [
+        "/img/fireplace.jpg",
+        "Zithoek met sfeerhaard"
+      ],
+      [
+        "/img/dining.jpg",
+        "Eettafel voor zes"
+      ],
+      [
+        "/img/bed-double.jpg",
+        "Slaapkamer met tweepersoonsbed"
+      ],
+      [
+        "/img/bed-twin.jpg",
+        "Slaapkamer met twee eenpersoonsbedden"
+      ],
+      [
+        "/img/bed-bunk.jpg",
+        "Kamer met stapelbed"
+      ],
+      [
+        "/img/evening.jpg",
+        "Gezellige avond binnen"
+      ],
+      [
+        "/img/terrace-summer.jpg",
+        "Overdekt terras met tafel voor zes"
+      ],
+      [
+        "/img/morning.jpg",
+        "Zonnige winterochtend"
+      ]
+    ],
+    "nature": [
+      [
+        "/img/alm-cows.jpg",
+        "Koeien op de alm"
+      ],
+      [
+        "/img/alpine-lake.jpg",
+        "Bergmeertjes en weides"
+      ],
+      [
+        "/img/forest-path.jpg",
+        "Rustige bospaden"
+      ]
+    ],
+    "og_locale": "nl_NL",
+    "nav_kids": "Voor de kids",
+    "sticker": "Avontuur voor het hele gezin!",
+    "kids_eyebrow": "Voor de kids",
+    "kids_h2": "Iets leuks voor elke leeftijd",
+    "kids_intro": "Van spetteren tot klimmen: dit zijn onze favorieten voor kinderen van 4 tot 16 jaar.",
+    "kids": [
+      [
+        "4–8 jaar",
+        "Spetteren en ontdekken",
+        [
+          [
+            "Aqua Trail op het Nassfeld",
+            "Speelpad van 1,5 km op de berg: dammen bouwen, waterfonteinen en een echt zeilbootje. Juni t/m september."
+          ],
+          [
+            "Op en rond het park",
+            "Speeltuin, luchtkussen, een Escape Box en de Yuki-speurtocht. In het seizoen het verwarmde buitenzwembad en strandbad Schluga met waterkussen, gratis met het oranje polsbandje."
+          ],
+          [
+            "Erlebnispark aan het meer",
+            "Glijbaan het meer in, minicars en een kinderland. Eind juni tot half september."
+          ]
+        ]
+      ],
+      [
+        "9–12 jaar",
+        "Snelheid en avontuur",
+        [
+          [
+            "Zomerrodelbaan Pendolino",
+            "Met de gondel omhoog en 2 km naar beneden op de langste zomerrodelbaan van Karinthië. Juni t/m september."
+          ],
+          [
+            "Garnitzenklamm",
+            "Watervallen, bruggetjes en een geopad door de kloof. Stevige schoenen aan!"
+          ],
+          [
+            "Suppen en fietsen",
+            "Op een SUP-board over het meer of op de fiets door het vlakke Gailtal."
+          ]
+        ]
+      ],
+      [
+        "13–16 jaar",
+        "Uitdaging en uitzicht",
+        [
+          [
+            "Outdoor Park Nassfeld",
+            "Rotslabyrint, flying fox en 3D-boogschieten. Juni en september dagelijks bij goed weer, eind mei en oktober op aanvraag."
+          ],
+          [
+            "Een echte top beklimmen",
+            "Samen naar een topkruis, met uitzicht tot over de grens met Italië."
+          ],
+          [
+            "Dagje Villach",
+            "Winkelen, ijsjes en terrasjes in de grootste stad van de regio."
+          ]
+        ]
+      ]
+    ],
+    "kids_note": "Openingstijden verschillen per seizoen en jaar. Check ze vooraf op nassfeld.at.",
+    "ph_family": "Samen op pad in de bossen",
+    "ph_summit": "Bovenop de top",
+    "kidpics": [
+      [
+        "/img/kids-donkey.jpg",
+        "Vriendjes maken onderweg"
+      ],
+      [
+        "/img/kids-water.jpg",
+        "Klimmen en springen op het water"
+      ],
+      [
+        "/img/kids-gorge.jpg",
+        "Op ontdekking in de kloof"
+      ],
+      [
+        "/img/summit.jpg",
+        "Bovenop de top"
+      ]
+    ],
+    "bar_text": "Panorama Lodge · tot 6 personen",
+    "about_eyebrow": "Over ons",
+    "about_h2": "Ons plekje in de bergen",
+    "about": [
+      "Ons vakantiehuis is ontstaan uit onze liefde voor de natuur en de rust van de bergen. Tijd samen met familie en vrienden: dat zijn voor ons de momenten die écht tellen.",
+      "Toen we de kans kregen om een huis te kopen op EuroParcs Presseggersee, viel alles op zijn plek. De ligging, de sfeer en de combinatie van meer, bergen en activiteiten waren precies wat we zochten.",
+      "EuroParcs verzorgt het beheer ter plekke. Jullie kunnen dus rekenen op lokale service en een warm welkom, en wij helpen graag met tips."
+    ],
+    "ph_about": "Zonnige ochtend op het terras",
+    "nav_about": "Over ons",
+    "about_sign": "Groetjes, Sander & Maud",
+    "nav_winter": "Winter",
+    "winter_eyebrow": "Wintersport",
+    "winter_h2": "Skiën op het Nassfeld",
+    "winter_intro": "Wij skiën zelf elk jaar op het Nassfeld: het grootste en zonnigste skigebied van Karinthië, op korte afstand van de lodge. Volgens de regio heeft het zo'n 100 zonuren meer dan de noordelijke Alpen.",
+    "winter_facts": [
+      [
+        "110 km",
+        "piste: 30 km blauw, 69 km rood, 11 km zwart"
+      ],
+      [
+        "± 30",
+        "liften en gondels, tot ca. 2.000 m hoogte"
+      ],
+      [
+        "7,6 km",
+        "de Carnia-dalafdaling, de langste afdaling van het gebied"
+      ],
+      [
+        "dec – apr",
+        "skiseizoen, in 2026/27 van 4 december tot 4 april"
+      ]
+    ],
+    "winter_cards": [
+      [
+        "Met de Millennium-Express omhoog",
+        "Vanuit Tröpolach brengt de gondel je in drie secties naar bijna 1.900 m. De skibus stopt op een paar honderd meter van het park, dus de auto kan blijven staan."
+      ],
+      [
+        "Skiën met kinderen",
+        "Vier afgeschermde kindergebieden met tovertapijten, skischolen voor kinderen vanaf 4 jaar en kinderopvang vanaf 2,5 jaar. Kinderen onder de 10 krijgen hun ski-uitrusting gratis, en in bepaalde weken zijn er extra kinderkortingen."
+      ],
+      [
+        "Ons vaste rondje",
+        "Wij starten altijd bij de Millennium-Express en huren beneden een skikluisje, dan hoef je niets mee te sjouwen. Daarna après-ski bij Zum Alois, direct bij het dalstation."
+      ],
+      [
+        "Meer dan skiën",
+        "Rodelen op de natuurbanen van Guggenberg (2 km) en Weissbriach (3 km), 90 km langlaufloipes, 160 km winterwandelpaden en sneeuwschoenwandelen."
+      ],
+      [
+        "Schaatsen op de Weissensee",
+        "In de winter wordt de Weissensee de grootste geprepareerde natuurijsvlakte van Europa (6,5 km²). Hier rijden Nederlanders ook de Alternatieve Elfstedentocht. Check vooraf het ijsbericht."
+      ],
+      [
+        "Handig op het park",
+        "Een skidroogruimte (tegen betaling), verse broodjes bij de receptie en een parkwinkel voor de boodschappen."
+      ]
+    ],
+    "winter_note": "Seizoensdata, lifturen en kortingen verschillen per jaar. Kijk voor actuele info op nassfeld.at.",
+    "ph_ski1": "Op de piste met uitzicht over de Karnische Alpen",
+    "ph_ski2": "Verse poedersneeuw naast de lift",
+    "ph_nassfeld": "Het Nassfeld in maart: nog volop sneeuw",
+    "ph_winterlodge": "De lodge in de sneeuw",
+    "summer_label": "Zomer (jul–aug)",
+    "summer": [
+      [
+        "Hele zomer",
+        "Zwemmen in de Presseggersee",
+        "Een van de warmste meren van Karinthië. Strandbad Schluga grenst aan het park, met waterkussen, beachvolleybal en voetbalveld."
+      ],
+      [
+        "Eind juni – half sept",
+        "Erlebnispark aan het meer",
+        "Glijbaan het meer in, minicars en een kinderland, op een paar minuten van het park."
+      ],
+      [
+        "Jul–aug",
+        "Pendolino en Aqua Trail",
+        "Alle zomerbergbanen op het Nassfeld rijden. Met de +CARD ga je gratis omhoog: eerst spelen op de Aqua Trail, dan met de zomerrodelbaan naar beneden."
+      ],
+      [
+        "Jul–aug",
+        "Garnitzenklamm",
+        "Verkoeling in de kloof bij Hermagor: watervallen, bruggetjes en smaragdgroene poelen. Stevige schoenen aan!"
+      ],
+      [
+        "Dagtrip",
+        "Affenberg en Adlerarena",
+        "Japanse makaken en een roofvogelshow bij Burg Landskron, vlak bij Villach."
+      ]
+    ]
   },
-  "footer": "Particuliere eigenaren, beheer door EuroParcs",
-  "thanks_h": "Bedankt voor je bericht",
-  "thanks_p": "We nemen zo snel mogelijk contact met je op.",
-  "thanks_back": "Terug naar de website",
-  "tips_eyebrow": "Onze tips",
-  "tips_h2": "Getest door ons eigen gezin",
-  "tips_intro": "Onze favoriete adresjes in de buurt, verzameld tijdens onze eigen vakanties met de kinderen.",
-  "nav_tips": "Tips",
-  "cats": [
-   [
-    "Eten & drinken",
-    [
-     [
-      "Gasthof Waldemar",
-      "Kreuth, Hermagor",
-      "Echte Oostenrijkse keuken in een bijzondere omgeving. Wel even reserveren!",
-      "https://waldemar.at/"
-     ],
-     [
-      "Zeitwirt's",
-      "Aan de Presseggersee",
-      "Restaurant vlak aan het meer, op een paar minuten van het park.",
-      "http://www.zeitwirts.at"
-     ],
-     [
-      "Zum Alois",
-      "Tröpolach",
-      "Pizzeria en restaurant direct bij het dalstation van de Millennium-Express. In de winter ons vaste après-ski-adres.",
-      "https://www.zumalois.at/"
-     ]
+  "de": {
+    "book_code": "de",
+    "thanks_slug": "danke",
+    "country": "Österreich",
+    "title": "Panorama Lodge am Pressegger See · Familienurlaub in Kärnten",
+    "meta": "Freistehende Lodge für Familien bis 6 Personen im EuroParcs Pressegger See: 3 Schlafzimmer mit Etagenbett, Freibad und Spielplatz im Park. Ideal für Pfingst- und Herbstferien.",
+    "nav_label": "Hauptmenü",
+    "nav": [
+      "Das Haus",
+      "Für Kinder",
+      "Jahreszeiten",
+      "Buchen"
+    ],
+    "cta_avail": "Freie Termine",
+    "cta_dates": "Freie Termine und Preise ansehen",
+    "cta_house": "Reinschauen",
+    "cta_book": "Verfügbarkeit & buchen",
+    "eyebrow": "Familienurlaub in Kärnten, Österreich",
+    "h1": "Gemeinsam die Berge entdecken. Ohne den Trubel des Sommers.",
+    "lead": "Unsere Panorama Lodge ist wie gemacht für Familien: drei Schlafzimmer (ja, mit Etagenbett), ein großer Tisch für gemütliche Abende und ein Park mit Freibad und Spielplatz. See und Berge liegen gleich um die Ecke.",
+    "facts": [
+      "Bis zu 6 Personen",
+      "Zimmer mit Etagenbett",
+      "Schwimmbad im Park",
+      "Kostenloses WLAN"
+    ],
+    "ph_hero": "Die Panorama Lodge in der Sonne, außerhalb der Hochsaison",
+    "why_eyebrow": "Warum in der Vor- oder Nachsaison?",
+    "why_h2": "Mehr Zeit füreinander, weniger Warten",
+    "why": [
+      [
+        "Keine Warteschlangen",
+        "Außerhalb von Juli und August ist es ruhig am Lift, auf den Wegen und am See. Mehr Platz, um gemeinsam zu entdecken."
+      ],
+      [
+        "Pfingst- und Herbstferien",
+        "Vor- und Nachsaison passen perfekt zu Pfingst- und Herbstferien. Ein kurzer, aktiver Urlaub in den Bergen."
+      ],
+      [
+        "Platz für alle",
+        "Freistehendes Chalet mit drei Schlafzimmern. Die Kinder haben ihr eigenes Zimmer, ihr schlaft ruhig im Elternschlafzimmer."
+      ],
+      [
+        "Alles im Park",
+        "Beheiztes Freibad (Mitte Mai bis Anfang Oktober), Holzspielplatz, Lufttrampolin und ein Restaurant. Das Strandbad am See grenzt direkt an den Park."
+      ],
+      [
+        "Gratis +CARD Holiday",
+        "Wer zwischen Mitte Mai und November übernachtet, bekommt die +CARD: gratis Regionalbus und gratis Sommerbergbahnen am Nassfeld, dazu Rabatte in der Region."
+      ]
+    ],
+    "todo_eyebrow": "Jahreszeiten",
+    "todo_h2": "Was es je Saison zu erleben gibt",
+    "toggle_label": "Saison wählen",
+    "spring_label": "Frühling (Apr–Jun)",
+    "autumn_label": "Herbst (Sep–Nov)",
+    "spring": [
+      [
+        "Frühling",
+        "Rund um den Pressegger See",
+        "5,9 km flach am Schilfgürtel entlang, etwa eineinhalb Stunden. Gut machbar mit kleinen Beinen."
+      ],
+      [
+        "Ab Mitte Mai",
+        "+CARD Holiday",
+        "Ab Mitte Mai bekommt ihr bei der Ankunft die +CARD: gratis Bus durch die Region und gratis mit den Sommerbergbahnen hinauf."
+      ],
+      [
+        "Mitte Mai",
+        "Kärntner Wanderopening",
+        "Die Region eröffnet die Wandersaison mit einem festlichen Wochenende im nahen Lesachtal."
+      ],
+      [
+        "April–Juni",
+        "Radfahren im Gailtal",
+        "Flache Talrouten, ideal für Kinder auf dem eigenen Rad. E-Bikes kann man in der Region leihen."
+      ],
+      [
+        "Ab Juni",
+        "Aqua Trail und Pendolino",
+        "Wenn im Juni die Bergbahnen öffnen: erst spielen am Aqua Trail, dann mit der Sommerrodelbahn hinunter."
+      ],
+      [
+        "Ganzer Frühling",
+        "Fossilien suchen",
+        "Im Geopark Karnische Alpen wandert ihr über ehemaligen Meeresboden. Wer findet das erste Fossil?"
+      ]
+    ],
+    "autumn": [
+      [
+        "September",
+        "Klettern im Outdoor Park",
+        "Felsenlabyrinth und Flying Fox am Nassfeld. Im September täglich bei schönem Wetter, im Oktober auf Anfrage."
+      ],
+      [
+        "Sept – Anfang Nov",
+        "Herbstprogramm der Region",
+        "Geführte Wanderungen und Radtouren, mit Herbst-Picknicks an Seen und Flüssen."
+      ],
+      [
+        "Jeden Samstag",
+        "Bauernmarkt Hermagor",
+        "Brot, Käse und Apfelsaft vom Bauern, im Städtchen ganz in der Nähe des Parks."
+      ],
+      [
+        "Herbstferien",
+        "Goldene Lärchen",
+        "Ruhige Wander- und Radwege durchs Gailtal, die Berge in ihren schönsten Farben."
+      ],
+      [
+        "Tagesausflug",
+        "Weissensee",
+        "Einer der saubersten Seen Österreichs. Im Herbst still und spiegelglatt, perfekt zum Steinehüpfen."
+      ]
+    ],
+    "todo_note": "Termine und Öffnungszeiten ändern sich jährlich. Das aktuelle Programm findet ihr auf nassfeld.at.",
+    "house_eyebrow": "Das Haus",
+    "house_text": "Tagsüber in die Berge, abends alle zusammen am großen Holztisch. Die Kinder haben ihr eigenes Zimmer mit Etagenbett, ihr schlaft ruhig im Elternschlafzimmer. Und auf der Sonnenterrasse trinkt ihr einen Kaffee, während die Kinder draußen spielen.",
+    "ph_living": "Wohnzimmer mit Panoramafenstern",
+    "ph_kitchen": "Offene Küche",
+    "ph_terrace": "Sonnenterrasse mit Aussicht",
+    "chips": [
+      "Bis zu 6 Personen",
+      "Schlafzimmer mit Doppelbett",
+      "Schlafzimmer mit 2 Einzelbetten",
+      "Schlafzimmer mit Etagenbett",
+      "Bad mit Dusche",
+      "Separates WC",
+      "Offene Küche mit Geschirrspüler und Backofen",
+      "Sitzecke mit TV",
+      "Sonnenterrasse mit Gartenmöbeln",
+      "Kostenloses WLAN",
+      "1 Parkplatz"
+    ],
+    "park_h3": "Im Park",
+    "park": [
+      "Beheiztes Freibad (Mitte Mai – Anfang Okt.)",
+      "Holzspielplatz und Lufttrampolin",
+      "Restaurant und Pizzeria",
+      "Brötchenservice und Parkshop",
+      "Skitrockenraum",
+      "Strandbad Schluga grenzt an den Park",
+      "Gratis AlpinSPA im EuroParcs Hermagor·Nassfeld"
+    ],
+    "book_eyebrow": "Buchen",
+    "book_h2": "Lust auf Familienurlaub in den Bergen?",
+    "book_text": "Freie Termine und Preise seht ihr in unserem Buchungssystem und könnt direkt buchen. Fragen zu Pfingst- oder Herbstferien oder was es für eure Kinder zu tun gibt? Schreibt uns, wir helfen gern.",
+    "addr_label": "Adresse",
+    "form": {
+      "h3": "Eure Frage",
+      "name": "Name",
+      "email": "E-Mail-Adresse",
+      "arrive": "Anreise",
+      "leave": "Abreise",
+      "guests": "Personen",
+      "msg": "Nachricht (z. B. Alter der Kinder)",
+      "send": "Absenden",
+      "privacy": "Wir verwenden eure Daten nur, um eure Frage zu beantworten.",
+      "optional": "optional",
+      "error": "Das Senden hat nicht geklappt. Versucht es bitte später noch einmal oder bucht direkt über den Buchungsbutton."
+    },
+    "footer": "Private Eigentümer, Verwaltung durch EuroParcs",
+    "thanks_h": "Vielen Dank für eure Nachricht",
+    "thanks_p": "Wir melden uns so schnell wie möglich bei euch.",
+    "thanks_back": "Zurück zur Website",
+    "tips_eyebrow": "Unsere Tipps",
+    "tips_h2": "Getestet von unserer eigenen Familie",
+    "tips_intro": "Unsere Lieblingsadressen in der Umgebung, gesammelt in unseren eigenen Urlauben mit den Kindern.",
+    "nav_tips": "Tipps",
+    "cats": [
+      [
+        "Essen & Trinken",
+        [
+          [
+            "Gasthof Waldemar",
+            "Kreuth, Hermagor",
+            "Echte österreichische Küche in besonderer Umgebung. Unbedingt reservieren!",
+            "https://waldemar.at/"
+          ],
+          [
+            "Zeitwirt's",
+            "Am Pressegger See",
+            "Restaurant direkt am See, nur wenige Minuten vom Park entfernt.",
+            "http://www.zeitwirts.at"
+          ],
+          [
+            "Zum Alois",
+            "Tröpolach",
+            "Pizzeria und Restaurant direkt an der Talstation des Millennium-Express. Im Winter unsere feste Après-Ski-Adresse.",
+            "https://www.zumalois.at/"
+          ]
+        ]
+      ],
+      [
+        "Ausflüge",
+        [
+          [
+            "Garnitzenklamm",
+            "Möderndorf, bei Hermagor",
+            "Eine rund 4,5 km lange Klamm mit Wasserfällen, steilen Felswänden und smaragdgrünen Gumpen. In der warmen Jahreszeit geöffnet; einige Abschnitte erfordern Trittsicherheit.",
+            "https://www.garnitzenklamm.at/"
+          ],
+          [
+            "Stand-up-Paddling auf dem Pressegger See",
+            "Der See",
+            "Mit dem SUP-Board über das ruhige, klare Wasser. Herrlich an einem milden Frühlings- oder Herbsttag.",
+            ""
+          ],
+          [
+            "Villach und Klagenfurt",
+            "Städtetrip",
+            "Zwei stimmungsvolle Kärntner Städte für einen Tag mit Shopping, Cafés und Kultur.",
+            ""
+          ],
+          [
+            "Kärnten Therme",
+            "Warmbad-Villach",
+            "Thermen-Erlebniswelt mit Rutschen, Crazy River und eigenem Kleinkinderbereich. Ganzjährig geöffnet, ideal an Regentagen.",
+            "https://www.kaerntentherme.com/"
+          ],
+          [
+            "Affenberg und Adlerarena",
+            "Burg Landskron, bei Villach",
+            "Rund 180 Japanmakaken in einem großen Freigehege, und gleich darüber eine Greifvogelschau an der Burg. April bis Oktober.",
+            "https://www.adlerarena.com/"
+          ]
+        ]
+      ],
+      [
+        "Praktisch",
+        [
+          [
+            "Pflicht im Auto",
+            "Österreich",
+            "Warndreieck, eine Warnweste für jeden Insassen, ein nicht abgelaufener Verbandkasten und eine Vignette für die Autobahn (digital bei der ASFINAG oder an einer Tankstelle vor der Grenze). Die Polizei kontrolliert das gelegentlich.",
+            "https://shop.asfinag.at/"
+          ]
+        ]
+      ]
+    ],
+    "more": "Mehr Infos",
+    "social": "Folgt uns",
+    "photos": {
+      "hero": "/img/hero.jpg",
+      "living": "/img/living.jpg",
+      "kitchen": "/img/kitchen.jpg",
+      "terrace": "/img/terrace.jpg"
+    },
+    "gallery": [
+      [
+        "/img/fireplace.jpg",
+        "Sitzecke mit Kaminfeuer"
+      ],
+      [
+        "/img/dining.jpg",
+        "Esstisch für sechs"
+      ],
+      [
+        "/img/bed-double.jpg",
+        "Schlafzimmer mit Doppelbett"
+      ],
+      [
+        "/img/bed-twin.jpg",
+        "Schlafzimmer mit zwei Einzelbetten"
+      ],
+      [
+        "/img/bed-bunk.jpg",
+        "Zimmer mit Etagenbett"
+      ],
+      [
+        "/img/evening.jpg",
+        "Gemütlicher Abend drinnen"
+      ],
+      [
+        "/img/terrace-summer.jpg",
+        "Überdachte Terrasse mit Tisch für sechs"
+      ],
+      [
+        "/img/morning.jpg",
+        "Sonniger Wintermorgen"
+      ]
+    ],
+    "nature": [
+      [
+        "/img/alm-cows.jpg",
+        "Kühe auf der Alm"
+      ],
+      [
+        "/img/alpine-lake.jpg",
+        "Bergseen und Almwiesen"
+      ],
+      [
+        "/img/forest-path.jpg",
+        "Ruhige Waldwege"
+      ]
+    ],
+    "og_locale": "de_DE",
+    "nav_kids": "Für Kinder",
+    "sticker": "Abenteuer für die ganze Familie!",
+    "kids_eyebrow": "Für Kinder",
+    "kids_h2": "Für jedes Alter etwas dabei",
+    "kids_intro": "Vom Planschen bis zum Klettern: unsere Favoriten für Kinder von 4 bis 16 Jahren.",
+    "kids": [
+      [
+        "4–8 Jahre",
+        "Planschen und entdecken",
+        [
+          [
+            "Aqua Trail am Nassfeld",
+            "1,5 km langer Erlebnisweg am Berg: Dämme bauen, Wasserfontänen und ein echtes Segelboot. Juni bis September."
+          ],
+          [
+            "Im und am Park",
+            "Spielplatz, Lufttrampolin, eine Escape Box und die Yuki-Schatzsuche. In der Saison das beheizte Freibad und das Strandbad Schluga mit Wasserkissen, gratis mit dem orangen Armband."
+          ],
+          [
+            "Erlebnispark am See",
+            "Rutsche in den See, Miniautos und ein Kinderland. Ende Juni bis Mitte September."
+          ]
+        ]
+      ],
+      [
+        "9–12 Jahre",
+        "Tempo und Abenteuer",
+        [
+          [
+            "Sommerrodelbahn Pendolino",
+            "Mit der Gondel hinauf und 2 km hinunter auf Kärntens längster Sommerrodelbahn. Juni bis September."
+          ],
+          [
+            "Garnitzenklamm",
+            "Wasserfälle, Brücken und ein Geotrail durch die Klamm. Feste Schuhe anziehen!"
+          ],
+          [
+            "SUP und Rad",
+            "Mit dem SUP-Board über den See oder mit dem Rad durchs flache Gailtal."
+          ]
+        ]
+      ],
+      [
+        "13–16 Jahre",
+        "Herausforderung und Aussicht",
+        [
+          [
+            "Outdoor Park Nassfeld",
+            "Felsenlabyrinth, Flying Fox und 3D-Bogenschießen. Juni und September täglich bei schönem Wetter, Ende Mai und Oktober auf Anfrage."
+          ],
+          [
+            "Einen echten Gipfel erklimmen",
+            "Gemeinsam zum Gipfelkreuz, mit Blick bis über die Grenze nach Italien."
+          ],
+          [
+            "Ausflug nach Villach",
+            "Shoppen, Eis essen und Cafés in der größten Stadt der Region."
+          ]
+        ]
+      ]
+    ],
+    "kids_note": "Öffnungszeiten ändern sich je nach Saison und Jahr. Bitte vorher auf nassfeld.at prüfen.",
+    "ph_family": "Gemeinsam unterwegs im Wald",
+    "ph_summit": "Ganz oben am Gipfel",
+    "kidpics": [
+      [
+        "/img/kids-donkey.jpg",
+        "Neue Freunde unterwegs"
+      ],
+      [
+        "/img/kids-water.jpg",
+        "Klettern und Springen auf dem Wasser"
+      ],
+      [
+        "/img/kids-gorge.jpg",
+        "Auf Entdeckungstour in der Klamm"
+      ],
+      [
+        "/img/summit.jpg",
+        "Ganz oben am Gipfel"
+      ]
+    ],
+    "bar_text": "Panorama Lodge · bis 6 Personen",
+    "about_eyebrow": "Über uns",
+    "about_h2": "Unser Plätzchen in den Bergen",
+    "about": [
+      "Unser Ferienhaus ist aus unserer Liebe zur Natur und zur Ruhe der Berge entstanden. Zeit mit Familie und Freunden: Das sind für uns die Momente, die wirklich zählen.",
+      "Als wir die Chance bekamen, ein Haus im EuroParcs Pressegger See zu kaufen, passte alles zusammen. Die Lage, die Atmosphäre und die Kombination aus See, Bergen und Aktivitäten waren genau das, was wir gesucht haben.",
+      "EuroParcs kümmert sich vor Ort um die Verwaltung. Ihr könnt euch also auf lokalen Service und einen herzlichen Empfang verlassen, und wir helfen gern mit Tipps."
+    ],
+    "ph_about": "Sonniger Morgen auf der Terrasse",
+    "nav_about": "Über uns",
+    "about_sign": "Liebe Grüße, Sander & Maud",
+    "nav_winter": "Winter",
+    "winter_eyebrow": "Wintersport",
+    "winter_h2": "Skifahren am Nassfeld",
+    "winter_intro": "Wir fahren selbst jedes Jahr am Nassfeld Ski: Kärntens größtes und sonnigstes Skigebiet, nicht weit von der Lodge entfernt. Laut der Region hat es rund 100 Sonnenstunden mehr als die Nordalpen.",
+    "winter_facts": [
+      [
+        "110 km",
+        "Pisten: 30 km blau, 69 km rot, 11 km schwarz"
+      ],
+      [
+        "± 30",
+        "Lifte und Bahnen, bis ca. 2.000 m Höhe"
+      ],
+      [
+        "7,6 km",
+        "die Carnia-Talabfahrt, die längste Abfahrt im Gebiet"
+      ],
+      [
+        "Dez – Apr",
+        "Skisaison, 2026/27 vom 4. Dezember bis 4. April"
+      ]
+    ],
+    "winter_cards": [
+      [
+        "Mit dem Millennium-Express hinauf",
+        "Von Tröpolach bringt euch die Gondel in drei Sektionen auf fast 1.900 m. Der Skibus hält ein paar hundert Meter vom Park entfernt, das Auto kann also stehen bleiben."
+      ],
+      [
+        "Skifahren mit Kindern",
+        "Vier gesicherte Kinderbereiche mit Zauberteppichen, Skischulen für Kinder ab 4 Jahren und Kinderbetreuung ab 2,5 Jahren. Kinder unter 10 bekommen die Skiausrüstung gratis, und in bestimmten Wochen gibt es zusätzliche Kinderrabatte."
+      ],
+      [
+        "Unsere feste Runde",
+        "Wir starten immer am Millennium-Express und mieten unten ein Skidepot, dann müsst ihr nichts schleppen. Danach Après-Ski im Zum Alois, direkt an der Talstation."
+      ],
+      [
+        "Mehr als Skifahren",
+        "Rodeln auf den Naturbahnen Guggenberg (2 km) und Weissbriach (3 km), 90 km Loipen, 160 km Winterwanderwege und Schneeschuhwandern."
+      ],
+      [
+        "Eislaufen am Weissensee",
+        "Im Winter wird der Weissensee zur größten präparierten Natureisfläche Europas (6,5 km²). Hier findet auch die alternative holländische Elf-Städte-Tour statt. Vorher den Eisbericht prüfen."
+      ],
+      [
+        "Praktisch im Park",
+        "Ein Skitrockenraum (gegen Gebühr), frische Brötchen an der Rezeption und ein Parkshop für den Einkauf."
+      ]
+    ],
+    "winter_note": "Saisondaten, Liftzeiten und Rabatte ändern sich jährlich. Aktuelle Infos findet ihr auf nassfeld.at.",
+    "ph_ski1": "Auf der Piste mit Blick über die Karnischen Alpen",
+    "ph_ski2": "Frischer Pulverschnee neben dem Lift",
+    "ph_nassfeld": "Das Nassfeld im März: noch reichlich Schnee",
+    "ph_winterlodge": "Die Lodge im Schnee",
+    "summer_label": "Sommer (Jul–Aug)",
+    "summer": [
+      [
+        "Ganzer Sommer",
+        "Baden im Pressegger See",
+        "Einer der wärmsten Seen Kärntens. Das Strandbad Schluga grenzt an den Park, mit Wasserkissen, Beachvolleyball und Fußballplatz."
+      ],
+      [
+        "Ende Juni – Mitte Sept",
+        "Erlebnispark am See",
+        "Rutsche in den See, Miniautos und ein Kinderland, nur wenige Minuten vom Park."
+      ],
+      [
+        "Jul–Aug",
+        "Pendolino und Aqua Trail",
+        "Alle Sommerbergbahnen am Nassfeld fahren. Mit der +CARD geht's gratis hinauf: erst spielen am Aqua Trail, dann mit der Sommerrodelbahn hinunter."
+      ],
+      [
+        "Jul–Aug",
+        "Garnitzenklamm",
+        "Abkühlung in der Klamm bei Hermagor: Wasserfälle, Brücken und smaragdgrüne Gumpen. Feste Schuhe anziehen!"
+      ],
+      [
+        "Tagesausflug",
+        "Affenberg und Adlerarena",
+        "Japanmakaken und eine Greifvogelschau an der Burg Landskron, nahe Villach."
+      ]
     ]
-   ],
-   [
-    "Uitstapjes",
-    [
-     [
-      "Garnitzenklamm",
-      "Möderndorf, bij Hermagor",
-      "Een kloof van zo'n 4,5 km met watervallen, steile rotswanden en smaragdgroene poelen. Open in het warme seizoen; sommige stukken vragen trefzekerheid.",
-      "https://www.garnitzenklamm.at/"
-     ],
-     [
-      "Suppen op de Presseggersee",
-      "Het meer",
-      "Op een SUP-board over het rustige, heldere water. Heerlijk op een zachte voor- of najaarsdag.",
-      ""
-     ],
-     [
-      "Villach en Klagenfurt",
-      "Dagje stad",
-      "Twee sfeervolle Karinthische steden voor een dag winkelen, terrasjes en cultuur.",
-      ""
-     ],
-     [
-      "Kärnten Therme",
-      "Warmbad-Villach",
-      "Thermaal waterpark met glijbanen, een wildwaterbaan en een eigen gedeelte voor de kleintjes. Het hele jaar open, dus ideaal op een regendag.",
-      "https://www.kaerntentherme.com/"
-     ],
-     [
-      "Affenberg en Adlerarena",
-      "Burg Landskron, bij Villach",
-      "Rond de 180 Japanse makaken in een groot buitenverblijf, en vlak erboven een roofvogelshow bij de burcht. Van april tot en met oktober.",
-      "https://www.adlerarena.com/"
-     ]
-    ]
-   ],
-   [
-    "Praktisch",
-    [
-     [
-      "Verplicht in de auto",
-      "Oostenrijk",
-      "Gevarendriehoek, een veiligheidshesje voor elke inzittende, een niet-verlopen verbanddoos en een vignet voor de snelweg (digitaal bij ASFINAG of bij een tankstation voor de grens). De politie controleert hier soms op.",
-      "https://shop.asfinag.at/"
-     ]
-    ]
-   ]
-  ],
-  "more": "Meer info",
-  "social": "Volg ons",
-  "photos": {
-   "hero": "/img/hero.jpg",
-   "living": "/img/living.jpg",
-   "kitchen": "/img/kitchen.jpg",
-   "terrace": "/img/terrace.jpg"
   },
-  "gallery": [
-   [
-    "/img/fireplace.jpg",
-    "Zithoek met sfeerhaard"
-   ],
-   [
-    "/img/dining.jpg",
-    "Eettafel voor zes"
-   ],
-   [
-    "/img/bed-double.jpg",
-    "Slaapkamer met tweepersoonsbed"
-   ],
-   [
-    "/img/bed-twin.jpg",
-    "Slaapkamer met twee eenpersoonsbedden"
-   ],
-   [
-    "/img/bed-bunk.jpg",
-    "Kamer met stapelbed"
-   ],
-   [
-    "/img/evening.jpg",
-    "Gezellige avond binnen"
-   ],
-   [
-    "/img/terrace-summer.jpg",
-    "Overdekt terras met tafel voor zes"
-   ],
-   [
-    "/img/morning.jpg",
-    "Zonnige winterochtend"
-   ]
-  ],
-  "nature": [
-   [
-    "/img/alm-cows.jpg",
-    "Koeien op de alm"
-   ],
-   [
-    "/img/alpine-lake.jpg",
-    "Bergmeertjes en weides"
-   ],
-   [
-    "/img/forest-path.jpg",
-    "Rustige bospaden"
-   ]
-  ],
-  "og_locale": "nl_NL",
-  "nav_kids": "Voor de kids",
-  "sticker": "Avontuur voor het hele gezin!",
-  "kids_eyebrow": "Voor de kids",
-  "kids_h2": "Iets leuks voor elke leeftijd",
-  "kids_intro": "Van spetteren tot klimmen: dit zijn onze favorieten voor kinderen van 4 tot 16 jaar.",
-  "kids": [
-   [
-    "4–8 jaar",
-    "Spetteren en ontdekken",
-    [
-     [
-      "Aqua Trail op het Nassfeld",
-      "Speelpad van 1,5 km op de berg: dammen bouwen, waterfonteinen en een echt zeilbootje. Juni t/m september."
-     ],
-     [
-      "Op en rond het park",
-      "Speeltuin, luchtkussen, een Escape Box en de Yuki-speurtocht. In het seizoen het verwarmde buitenzwembad en strandbad Schluga met waterkussen, gratis met het oranje polsbandje."
-     ],
-     [
-      "Erlebnispark aan het meer",
-      "Glijbaan het meer in, minicars en een kinderland. Eind juni tot half september."
-     ]
+  "en": {
+    "book_code": "en-GB",
+    "thanks_slug": "thanks",
+    "country": "Austria",
+    "title": "Panorama Lodge at Lake Presseggersee · Family holidays in Carinthia",
+    "meta": "Detached family lodge for up to 6 at EuroParcs Pressegger See: 3 bedrooms incl. bunk beds, pool and playground on the park. Perfect for spring and autumn half-term.",
+    "nav_label": "Main menu",
+    "nav": [
+      "The house",
+      "For kids",
+      "Seasons",
+      "Book"
+    ],
+    "cta_avail": "Free dates",
+    "cta_dates": "See available dates and prices",
+    "cta_house": "Take a look inside",
+    "cta_book": "Availability & booking",
+    "eyebrow": "Family holidays in Carinthia, Austria",
+    "h1": "Explore the mountains together. Without the summer crowds.",
+    "lead": "Our Panorama Lodge is made for families: three bedrooms (yes, with bunk beds), a big table for cosy evenings and a park with a pool and playground. The lake and the mountains are right around the corner.",
+    "facts": [
+      "Up to 6 guests",
+      "Bunk bed room",
+      "Pool on the park",
+      "Free Wi-Fi"
+    ],
+    "ph_hero": "The Panorama Lodge in the sun, outside high season",
+    "why_eyebrow": "Why spring or autumn?",
+    "why_h2": "More time together, less queuing",
+    "why": [
+      [
+        "No queues",
+        "Outside July and August it's quiet at the lifts, on the trails and by the lake. More space to explore together."
+      ],
+      [
+        "Half-term friendly",
+        "Spring and autumn fit perfectly with May and October half-term. A short, active break in the mountains."
+      ],
+      [
+        "Room for everyone",
+        "A detached chalet with three bedrooms. The kids get their own room, you sleep peacefully in the main bedroom."
+      ],
+      [
+        "Everything on the park",
+        "A heated outdoor pool (mid-May to early October), wooden playground, air trampoline and a restaurant. The lakeside beach borders the park."
+      ],
+      [
+        "Free +CARD Holiday",
+        "Stay between mid-May and November and you get the +CARD: free regional buses and free summer mountain lifts on the Nassfeld, plus discounts across the region."
+      ]
+    ],
+    "todo_eyebrow": "Seasons",
+    "todo_h2": "What to do each season",
+    "toggle_label": "Choose season",
+    "spring_label": "Spring (Apr–Jun)",
+    "autumn_label": "Autumn (Sep–Nov)",
+    "spring": [
+      [
+        "May half-term",
+        "Around Lake Presseggersee",
+        "5.9 km on the flat through the reeds, about an hour and a half. Easy for little legs."
+      ],
+      [
+        "From mid-May",
+        "+CARD Holiday",
+        "From mid-May you get the +CARD on arrival: free buses around the region and free rides on the summer mountain lifts."
+      ],
+      [
+        "Mid-May",
+        "Carinthian Hiking Opening",
+        "The region opens the hiking season with a festive weekend in the nearby Lesachtal valley."
+      ],
+      [
+        "April–June",
+        "Cycling the Gailtal valley",
+        "Flat valley routes, ideal for kids on their own bikes. E-bikes can be hired locally."
+      ],
+      [
+        "From June",
+        "Aqua Trail and Pendolino",
+        "Once the mountain lifts open in June: play on the Aqua Trail first, then toboggan back down."
+      ],
+      [
+        "All spring",
+        "Fossil hunting",
+        "In the Carnic Alps Geopark you walk across ancient seabed. Who'll find the first fossil?"
+      ]
+    ],
+    "autumn": [
+      [
+        "September",
+        "Climbing at the Outdoor Park",
+        "Rock labyrinth and flying fox on the Nassfeld. Daily in September in good weather, in October on request."
+      ],
+      [
+        "Sept – early Nov",
+        "Regional autumn programme",
+        "Guided walks and bike tours, with autumn picnics by lakes and rivers."
+      ],
+      [
+        "Every Saturday",
+        "Hermagor farmers' market",
+        "Farm bread, cheese and apple juice in the little town near the park."
+      ],
+      [
+        "October half-term",
+        "Golden larches",
+        "Quiet walking and cycling routes through the Gailtal valley, with the mountains at their most colourful."
+      ],
+      [
+        "Day trip",
+        "Lake Weissensee",
+        "One of Austria's cleanest lakes. Still and glassy in autumn, perfect for skimming stones."
+      ]
+    ],
+    "todo_note": "Dates and opening times vary from year to year. See nassfeld.at for the current programme.",
+    "house_eyebrow": "The house",
+    "house_text": "Into the mountains by day, all together around the big wooden table at night. The kids have their own room with bunk beds, you sleep peacefully in the main bedroom. And on the sun terrace you can enjoy a coffee while the children play outside.",
+    "ph_living": "Living room with panoramic windows",
+    "ph_kitchen": "Open-plan kitchen",
+    "ph_terrace": "Sun terrace with a view",
+    "chips": [
+      "Up to 6 guests",
+      "Bedroom with double bed",
+      "Bedroom with 2 single beds",
+      "Bedroom with bunk bed",
+      "Bathroom with shower",
+      "Separate toilet",
+      "Open kitchen with dishwasher and oven",
+      "Lounge area with TV",
+      "Sun terrace with garden furniture",
+      "Free Wi-Fi",
+      "1 parking space"
+    ],
+    "park_h3": "On the park",
+    "park": [
+      "Heated outdoor pool (mid-May – early Oct.)",
+      "Wooden playground and air trampoline",
+      "Restaurant and pizzeria",
+      "Bread roll service and park shop",
+      "Ski drying room",
+      "Schluga lake beach borders the park",
+      "Free AlpinSPA at EuroParcs Hermagor·Nassfeld"
+    ],
+    "book_eyebrow": "Book",
+    "book_h2": "Fancy a family break in the mountains?",
+    "book_text": "See available dates and prices in our booking system and book straight away. Questions about half-term or what there is to do for your kids? Send us a message, we're happy to help.",
+    "addr_label": "Address",
+    "form": {
+      "h3": "Ask us anything",
+      "name": "Name",
+      "email": "Email address",
+      "arrive": "Arrival",
+      "leave": "Departure",
+      "guests": "Guests",
+      "msg": "Message (e.g. your children's ages)",
+      "send": "Send",
+      "privacy": "We only use your details to answer your question.",
+      "optional": "optional",
+      "error": "Sending didn't work. Please try again later, or book directly with the booking button."
+    },
+    "footer": "Private owners, managed by EuroParcs",
+    "thanks_h": "Thank you for your message",
+    "thanks_p": "We'll get back to you as soon as possible.",
+    "thanks_back": "Back to the website",
+    "tips_eyebrow": "Our tips",
+    "tips_h2": "Tested by our own family",
+    "tips_intro": "Our favourite places nearby, collected on our own holidays with the kids.",
+    "nav_tips": "Tips",
+    "cats": [
+      [
+        "Food & drink",
+        [
+          [
+            "Gasthof Waldemar",
+            "Kreuth, Hermagor",
+            "Authentic Austrian cooking in a special setting. Do book ahead!",
+            "https://waldemar.at/"
+          ],
+          [
+            "Zeitwirt's",
+            "By Lake Presseggersee",
+            "A restaurant right by the lake, a few minutes from the park.",
+            "http://www.zeitwirts.at"
+          ],
+          [
+            "Zum Alois",
+            "Tröpolach",
+            "Pizzeria and restaurant right at the bottom of the Millennium Express. Our go-to après-ski spot in winter.",
+            "https://www.zumalois.at/"
+          ]
+        ]
+      ],
+      [
+        "Day trips",
+        [
+          [
+            "Garnitzenklamm gorge",
+            "Möderndorf, near Hermagor",
+            "A gorge about 4.5 km long with waterfalls, sheer rock walls and emerald pools. Open in the warmer months; some sections need sure footing.",
+            "https://www.garnitzenklamm.at/"
+          ],
+          [
+            "Paddleboarding on the lake",
+            "Lake Presseggersee",
+            "Glide over the calm, clear water on a SUP board. Lovely on a mild spring or autumn day.",
+            ""
+          ],
+          [
+            "Villach and Klagenfurt",
+            "City day out",
+            "Two charming Carinthian towns for a day of shopping, cafés and culture.",
+            ""
+          ],
+          [
+            "Kärnten Therme",
+            "Warmbad-Villach",
+            "Thermal water park with slides, a crazy river and its own area for little ones. Open all year, ideal on a rainy day.",
+            "https://www.kaerntentherme.com/"
+          ],
+          [
+            "Monkey Mountain and Eagle Arena",
+            "Landskron Castle, near Villach",
+            "Around 180 Japanese macaques in a large outdoor enclosure, with a bird of prey show at the castle just above. April to October.",
+            "https://www.adlerarena.com/"
+          ]
+        ]
+      ],
+      [
+        "Practical",
+        [
+          [
+            "Required in your car",
+            "Austria",
+            "A warning triangle, a high-vis vest for every passenger, an in-date first-aid kit and a motorway vignette (digital from ASFINAG or at a petrol station before the border). Police do sometimes check.",
+            "https://shop.asfinag.at/"
+          ]
+        ]
+      ]
+    ],
+    "more": "More info",
+    "social": "Follow us",
+    "photos": {
+      "hero": "/img/hero.jpg",
+      "living": "/img/living.jpg",
+      "kitchen": "/img/kitchen.jpg",
+      "terrace": "/img/terrace.jpg"
+    },
+    "gallery": [
+      [
+        "/img/fireplace.jpg",
+        "Lounge with fireplace"
+      ],
+      [
+        "/img/dining.jpg",
+        "Dining table for six"
+      ],
+      [
+        "/img/bed-double.jpg",
+        "Bedroom with double bed"
+      ],
+      [
+        "/img/bed-twin.jpg",
+        "Bedroom with two single beds"
+      ],
+      [
+        "/img/bed-bunk.jpg",
+        "Room with bunk bed"
+      ],
+      [
+        "/img/evening.jpg",
+        "Cosy evening indoors"
+      ],
+      [
+        "/img/terrace-summer.jpg",
+        "Covered terrace with a table for six"
+      ],
+      [
+        "/img/morning.jpg",
+        "Sunny winter morning"
+      ]
+    ],
+    "nature": [
+      [
+        "/img/alm-cows.jpg",
+        "Cows on the alpine pasture"
+      ],
+      [
+        "/img/alpine-lake.jpg",
+        "Mountain lakes and meadows"
+      ],
+      [
+        "/img/forest-path.jpg",
+        "Quiet forest trails"
+      ]
+    ],
+    "og_locale": "en_GB",
+    "nav_kids": "For kids",
+    "sticker": "Adventure for the whole family!",
+    "kids_eyebrow": "For kids",
+    "kids_h2": "Something fun for every age",
+    "kids_intro": "From splashing to climbing: our favourites for kids aged 4 to 16.",
+    "kids": [
+      [
+        "Ages 4–8",
+        "Splash and discover",
+        [
+          [
+            "Aqua Trail on the Nassfeld",
+            "A 1.5 km play trail on the mountain: build dams, play with fountains and climb aboard a real sailing boat. June to September."
+          ],
+          [
+            "On and around the park",
+            "Playground, air trampoline, an Escape Box and the Yuki treasure hunt. In season, the heated outdoor pool and Schluga lake beach with a water inflatable, free with the orange wristband."
+          ],
+          [
+            "Adventure park by the lake",
+            "A slide into the lake, mini cars and a kids' zone. Late June to mid-September."
+          ]
+        ]
+      ],
+      [
+        "Ages 9–12",
+        "Speed and adventure",
+        [
+          [
+            "Pendolino summer toboggan",
+            "Ride the gondola up and race 2 km down Carinthia's longest summer toboggan run. June to September."
+          ],
+          [
+            "Garnitzenklamm gorge",
+            "Waterfalls, little bridges and a geo trail through the gorge. Wear sturdy shoes!"
+          ],
+          [
+            "Paddleboarding and cycling",
+            "Out on the lake on a SUP board, or cycling through the flat Gailtal valley."
+          ]
+        ]
+      ],
+      [
+        "Ages 13–16",
+        "Challenge and views",
+        [
+          [
+            "Nassfeld Outdoor Park",
+            "Rock labyrinth, flying fox and 3D archery. Daily in June and September in good weather, late May and October on request."
+          ],
+          [
+            "Climb a real summit",
+            "Reach a summit cross together, with views across the border into Italy."
+          ],
+          [
+            "Day out in Villach",
+            "Shopping, ice cream and cafés in the region's biggest town."
+          ]
+        ]
+      ]
+    ],
+    "kids_note": "Opening times vary by season and year. Check nassfeld.at before you go.",
+    "ph_family": "Out together in the forest",
+    "ph_summit": "On top of the summit",
+    "kidpics": [
+      [
+        "/img/kids-donkey.jpg",
+        "Making friends along the way"
+      ],
+      [
+        "/img/kids-water.jpg",
+        "Climbing and jumping on the water"
+      ],
+      [
+        "/img/kids-gorge.jpg",
+        "Exploring the gorge"
+      ],
+      [
+        "/img/summit.jpg",
+        "On top of the summit"
+      ]
+    ],
+    "bar_text": "Panorama Lodge · up to 6 guests",
+    "about_eyebrow": "About us",
+    "about_h2": "Our little spot in the mountains",
+    "about": [
+      "Our holiday home grew out of our love for nature and the peace of the mountains. Time together with family and friends: for us, those are the moments that really count.",
+      "When we had the chance to buy a house at EuroParcs Pressegger See, everything fell into place. The location, the atmosphere and the mix of lake, mountains and activities were exactly what we were looking for.",
+      "EuroParcs takes care of everything on site. So you can count on local service and a warm welcome, and we're always happy to share tips."
+    ],
+    "ph_about": "Sunny morning on the terrace",
+    "nav_about": "About us",
+    "about_sign": "Warm wishes, Sander & Maud",
+    "nav_winter": "Winter",
+    "winter_eyebrow": "Winter sports",
+    "winter_h2": "Skiing on the Nassfeld",
+    "winter_intro": "We ski on the Nassfeld every year ourselves: Carinthia's largest and sunniest ski area, a short drive from the lodge. According to the region it gets around 100 more hours of sunshine than the northern Alps.",
+    "winter_facts": [
+      [
+        "110 km",
+        "of pistes: 30 km blue, 69 km red, 11 km black"
+      ],
+      [
+        "± 30",
+        "lifts and gondolas, up to around 2,000 m"
+      ],
+      [
+        "7.6 km",
+        "the Carnia valley run, the longest run in the area"
+      ],
+      [
+        "Dec – Apr",
+        "ski season, 4 December to 4 April in 2026/27"
+      ]
+    ],
+    "winter_cards": [
+      [
+        "Up with the Millennium Express",
+        "From Tröpolach the gondola takes you up in three sections to almost 1,900 m. The ski bus stops a few hundred metres from the park, so you can leave the car behind."
+      ],
+      [
+        "Skiing with kids",
+        "Four secured children's areas with magic carpets, ski schools for kids from age 4 and childcare from 2.5 years. Children under 10 get free ski equipment, and some weeks have extra children's discounts."
+      ],
+      [
+        "Our regular routine",
+        "We always start at the Millennium Express and rent a ski locker at the bottom, so there's nothing to carry. Then après-ski at Zum Alois, right by the valley station."
+      ],
+      [
+        "More than skiing",
+        "Tobogganing on the natural runs at Guggenberg (2 km) and Weissbriach (3 km), 90 km of cross-country trails, 160 km of winter walking paths and snowshoeing."
+      ],
+      [
+        "Skating on Lake Weissensee",
+        "In winter Lake Weissensee becomes Europe's largest prepared natural ice surface (6.5 km²). It's also where the Dutch skate their Alternative Elfstedentocht. Check the ice report first."
+      ],
+      [
+        "Handy on the park",
+        "A ski drying room (for a fee), fresh bread rolls at reception and a park shop for groceries."
+      ]
+    ],
+    "winter_note": "Season dates, lift times and discounts vary from year to year. See nassfeld.at for current information.",
+    "ph_ski1": "On the slopes with views across the Carnic Alps",
+    "ph_ski2": "Fresh powder next to the lift",
+    "ph_nassfeld": "The Nassfeld in March: still plenty of snow",
+    "ph_winterlodge": "The lodge in the snow",
+    "summer_label": "Summer (Jul–Aug)",
+    "summer": [
+      [
+        "All summer",
+        "Swimming in Lake Presseggersee",
+        "One of Carinthia's warmest lakes. Schluga lake beach borders the park, with a water inflatable, beach volleyball and a football pitch."
+      ],
+      [
+        "Late June – mid-Sept",
+        "Adventure park by the lake",
+        "A slide into the lake, mini cars and a kids' zone, a few minutes from the park."
+      ],
+      [
+        "Jul–Aug",
+        "Pendolino and Aqua Trail",
+        "All the Nassfeld summer lifts are running. With the +CARD you ride up for free: play on the Aqua Trail first, then toboggan back down."
+      ],
+      [
+        "Jul–Aug",
+        "Garnitzenklamm gorge",
+        "Cool off in the gorge near Hermagor: waterfalls, little bridges and emerald pools. Wear sturdy shoes!"
+      ],
+      [
+        "Day trip",
+        "Monkey Mountain and Eagle Arena",
+        "Japanese macaques and a bird of prey show at Landskron Castle, near Villach."
+      ]
     ]
-   ],
-   [
-    "9–12 jaar",
-    "Snelheid en avontuur",
-    [
-     [
-      "Zomerrodelbaan Pendolino",
-      "Met de gondel omhoog en 2 km naar beneden op de langste zomerrodelbaan van Karinthië. Juni t/m september."
-     ],
-     [
-      "Garnitzenklamm",
-      "Watervallen, bruggetjes en een geopad door de kloof. Stevige schoenen aan!"
-     ],
-     [
-      "Suppen en fietsen",
-      "Op een SUP-board over het meer of op de fiets door het vlakke Gailtal."
-     ]
-    ]
-   ],
-   [
-    "13–16 jaar",
-    "Uitdaging en uitzicht",
-    [
-     [
-      "Outdoor Park Nassfeld",
-      "Rotslabyrint, flying fox en 3D-boogschieten. Juni en september dagelijks bij goed weer, eind mei en oktober op aanvraag."
-     ],
-     [
-      "Een echte top beklimmen",
-      "Samen naar een topkruis, met uitzicht tot over de grens met Italië."
-     ],
-     [
-      "Dagje Villach",
-      "Winkelen, ijsjes en terrasjes in de grootste stad van de regio."
-     ]
-    ]
-   ]
-  ],
-  "kids_note": "Openingstijden verschillen per seizoen en jaar. Check ze vooraf op nassfeld.at.",
-  "ph_family": "Samen op pad in de bossen",
-  "ph_summit": "Bovenop de top",
-  "kidpics": [
-   [
-    "/img/kids-donkey.jpg",
-    "Vriendjes maken onderweg"
-   ],
-   [
-    "/img/kids-water.jpg",
-    "Klimmen en springen op het water"
-   ],
-   [
-    "/img/kids-gorge.jpg",
-    "Op ontdekking in de kloof"
-   ],
-   [
-    "/img/summit.jpg",
-    "Bovenop de top"
-   ]
-  ],
-  "bar_text": "Panorama Lodge · tot 6 personen",
-  "about_eyebrow": "Over ons",
-  "about_h2": "Ons plekje in de bergen",
-  "about": [
-   "Ons vakantiehuis is ontstaan uit onze liefde voor de natuur en de rust van de bergen. Tijd samen met familie en vrienden: dat zijn voor ons de momenten die écht tellen.",
-   "Toen we de kans kregen om een huis te kopen op EuroParcs Presseggersee, viel alles op zijn plek. De ligging, de sfeer en de combinatie van meer, bergen en activiteiten waren precies wat we zochten.",
-   "EuroParcs verzorgt het beheer ter plekke. Jullie kunnen dus rekenen op lokale service en een warm welkom, en wij helpen graag met tips."
-  ],
-  "ph_about": "Zonnige ochtend op het terras",
-  "nav_about": "Over ons",
-  "about_sign": "Groetjes, Sander & Maud",
-  "nav_winter": "Winter",
-  "winter_eyebrow": "Wintersport",
-  "winter_h2": "Skiën op het Nassfeld",
-  "winter_intro": "Wij skiën zelf elk jaar op het Nassfeld: het grootste en zonnigste skigebied van Karinthië, op korte afstand van de lodge. Volgens de regio heeft het zo'n 100 zonuren meer dan de noordelijke Alpen.",
-  "winter_facts": [
-   [
-    "110 km",
-    "piste: 30 km blauw, 69 km rood, 11 km zwart"
-   ],
-   [
-    "± 30",
-    "liften en gondels, tot ca. 2.000 m hoogte"
-   ],
-   [
-    "7,6 km",
-    "de Carnia-dalafdaling, de langste afdaling van het gebied"
-   ],
-   [
-    "dec – apr",
-    "skiseizoen, in 2026/27 van 4 december tot 4 april"
-   ]
-  ],
-  "winter_cards": [
-   [
-    "Met de Millennium-Express omhoog",
-    "Vanuit Tröpolach brengt de gondel je in drie secties naar bijna 1.900 m. De skibus stopt op een paar honderd meter van het park, dus de auto kan blijven staan."
-   ],
-   [
-    "Skiën met kinderen",
-    "Vier afgeschermde kindergebieden met tovertapijten, skischolen voor kinderen vanaf 4 jaar en kinderopvang vanaf 2,5 jaar. Kinderen onder de 10 krijgen hun ski-uitrusting gratis, en in bepaalde weken zijn er extra kinderkortingen."
-   ],
-   [
-    "Ons vaste rondje",
-    "Wij starten altijd bij de Millennium-Express en huren beneden een skikluisje, dan hoef je niets mee te sjouwen. Daarna après-ski bij Zum Alois, direct bij het dalstation."
-   ],
-   [
-    "Meer dan skiën",
-    "Rodelen op de natuurbanen van Guggenberg (2 km) en Weissbriach (3 km), 90 km langlaufloipes, 160 km winterwandelpaden en sneeuwschoenwandelen."
-   ],
-   [
-    "Schaatsen op de Weissensee",
-    "In de winter wordt de Weissensee de grootste geprepareerde natuurijsvlakte van Europa (6,5 km²). Hier rijden Nederlanders ook de Alternatieve Elfstedentocht. Check vooraf het ijsbericht."
-   ],
-   [
-    "Handig op het park",
-    "Een skidroogruimte (tegen betaling), verse broodjes bij de receptie en een parkwinkel voor de boodschappen."
-   ]
-  ],
-  "winter_note": "Seizoensdata, lifturen en kortingen verschillen per jaar. Kijk voor actuele info op nassfeld.at.",
-  "ph_ski1": "Op de piste met uitzicht over de Karnische Alpen",
-  "ph_ski2": "Verse poedersneeuw naast de lift",
-  "ph_nassfeld": "Het Nassfeld in maart: nog volop sneeuw",
-  "ph_winterlodge": "De lodge in de sneeuw",
-  "summer_label": "Zomer (jul–aug)",
-  "summer": [
-   [
-    "Hele zomer",
-    "Zwemmen in de Presseggersee",
-    "Een van de warmste meren van Karinthië. Strandbad Schluga grenst aan het park, met waterkussen, beachvolleybal en voetbalveld."
-   ],
-   [
-    "Eind juni – half sept",
-    "Erlebnispark aan het meer",
-    "Glijbaan het meer in, minicars en een kinderland, op een paar minuten van het park."
-   ],
-   [
-    "Jul–aug",
-    "Pendolino en Aqua Trail",
-    "Alle zomerbergbanen op het Nassfeld rijden. Met de +CARD ga je gratis omhoog: eerst spelen op de Aqua Trail, dan met de zomerrodelbaan naar beneden."
-   ],
-   [
-    "Jul–aug",
-    "Garnitzenklamm",
-    "Verkoeling in de kloof bij Hermagor: watervallen, bruggetjes en smaragdgroene poelen. Stevige schoenen aan!"
-   ],
-   [
-    "Dagtrip",
-    "Affenberg en Adlerarena",
-    "Japanse makaken en een roofvogelshow bij Burg Landskron, vlak bij Villach."
-   ]
-  ]
- },
- "de": {
-  "book_code": "de",
-  "thanks_slug": "danke",
-  "country": "Österreich",
-  "title": "Panorama Lodge am Pressegger See · Familienurlaub in Kärnten",
-  "meta": "Freistehende Lodge für Familien bis 6 Personen im EuroParcs Pressegger See: 3 Schlafzimmer mit Etagenbett, Freibad und Spielplatz im Park. Ideal für Pfingst- und Herbstferien.",
-  "nav_label": "Hauptmenü",
-  "nav": [
-   "Das Haus",
-   "Für Kinder",
-   "Jahreszeiten",
-   "Buchen"
-  ],
-  "cta_avail": "Freie Termine",
-  "cta_dates": "Freie Termine und Preise ansehen",
-  "cta_house": "Reinschauen",
-  "cta_book": "Verfügbarkeit & buchen",
-  "eyebrow": "Familienurlaub in Kärnten, Österreich",
-  "h1": "Gemeinsam die Berge entdecken. Ohne den Trubel des Sommers.",
-  "lead": "Unsere Panorama Lodge ist wie gemacht für Familien: drei Schlafzimmer (ja, mit Etagenbett), ein großer Tisch für gemütliche Abende und ein Park mit Freibad und Spielplatz. See und Berge liegen gleich um die Ecke.",
-  "facts": [
-   "Bis zu 6 Personen",
-   "Zimmer mit Etagenbett",
-   "Schwimmbad im Park",
-   "Kostenloses WLAN"
-  ],
-  "ph_hero": "Die Panorama Lodge in der Sonne, außerhalb der Hochsaison",
-  "why_eyebrow": "Warum in der Vor- oder Nachsaison?",
-  "why_h2": "Mehr Zeit füreinander, weniger Warten",
-  "why": [
-   [
-    "Keine Warteschlangen",
-    "Außerhalb von Juli und August ist es ruhig am Lift, auf den Wegen und am See. Mehr Platz, um gemeinsam zu entdecken."
-   ],
-   [
-    "Pfingst- und Herbstferien",
-    "Vor- und Nachsaison passen perfekt zu Pfingst- und Herbstferien. Ein kurzer, aktiver Urlaub in den Bergen."
-   ],
-   [
-    "Platz für alle",
-    "Freistehendes Chalet mit drei Schlafzimmern. Die Kinder haben ihr eigenes Zimmer, ihr schlaft ruhig im Elternschlafzimmer."
-   ],
-   [
-    "Alles im Park",
-    "Beheiztes Freibad (Mitte Mai bis Anfang Oktober), Holzspielplatz, Lufttrampolin und ein Restaurant. Das Strandbad am See grenzt direkt an den Park."
-   ],
-   [
-    "Gratis +CARD Holiday",
-    "Wer zwischen Mitte Mai und November übernachtet, bekommt die +CARD: gratis Regionalbus und gratis Sommerbergbahnen am Nassfeld, dazu Rabatte in der Region."
-   ]
-  ],
-  "todo_eyebrow": "Jahreszeiten",
-  "todo_h2": "Was es je Saison zu erleben gibt",
-  "toggle_label": "Saison wählen",
-  "spring_label": "Frühling (Apr–Jun)",
-  "autumn_label": "Herbst (Sep–Nov)",
-  "spring": [
-   [
-    "Frühling",
-    "Rund um den Pressegger See",
-    "5,9 km flach am Schilfgürtel entlang, etwa eineinhalb Stunden. Gut machbar mit kleinen Beinen."
-   ],
-   [
-    "Ab Mitte Mai",
-    "+CARD Holiday",
-    "Ab Mitte Mai bekommt ihr bei der Ankunft die +CARD: gratis Bus durch die Region und gratis mit den Sommerbergbahnen hinauf."
-   ],
-   [
-    "Mitte Mai",
-    "Kärntner Wanderopening",
-    "Die Region eröffnet die Wandersaison mit einem festlichen Wochenende im nahen Lesachtal."
-   ],
-   [
-    "April–Juni",
-    "Radfahren im Gailtal",
-    "Flache Talrouten, ideal für Kinder auf dem eigenen Rad. E-Bikes kann man in der Region leihen."
-   ],
-   [
-    "Ab Juni",
-    "Aqua Trail und Pendolino",
-    "Wenn im Juni die Bergbahnen öffnen: erst spielen am Aqua Trail, dann mit der Sommerrodelbahn hinunter."
-   ],
-   [
-    "Ganzer Frühling",
-    "Fossilien suchen",
-    "Im Geopark Karnische Alpen wandert ihr über ehemaligen Meeresboden. Wer findet das erste Fossil?"
-   ]
-  ],
-  "autumn": [
-   [
-    "September",
-    "Klettern im Outdoor Park",
-    "Felsenlabyrinth und Flying Fox am Nassfeld. Im September täglich bei schönem Wetter, im Oktober auf Anfrage."
-   ],
-   [
-    "Sept – Anfang Nov",
-    "Herbstprogramm der Region",
-    "Geführte Wanderungen und Radtouren, mit Herbst-Picknicks an Seen und Flüssen."
-   ],
-   [
-    "Jeden Samstag",
-    "Bauernmarkt Hermagor",
-    "Brot, Käse und Apfelsaft vom Bauern, im Städtchen ganz in der Nähe des Parks."
-   ],
-   [
-    "Herbstferien",
-    "Goldene Lärchen",
-    "Ruhige Wander- und Radwege durchs Gailtal, die Berge in ihren schönsten Farben."
-   ],
-   [
-    "Tagesausflug",
-    "Weissensee",
-    "Einer der saubersten Seen Österreichs. Im Herbst still und spiegelglatt, perfekt zum Steinehüpfen."
-   ]
-  ],
-  "todo_note": "Termine und Öffnungszeiten ändern sich jährlich. Das aktuelle Programm findet ihr auf nassfeld.at.",
-  "house_eyebrow": "Das Haus",
-  "house_text": "Tagsüber in die Berge, abends alle zusammen am großen Holztisch. Die Kinder haben ihr eigenes Zimmer mit Etagenbett, ihr schlaft ruhig im Elternschlafzimmer. Und auf der Sonnenterrasse trinkt ihr einen Kaffee, während die Kinder draußen spielen.",
-  "ph_living": "Wohnzimmer mit Panoramafenstern",
-  "ph_kitchen": "Offene Küche",
-  "ph_terrace": "Sonnenterrasse mit Aussicht",
-  "chips": [
-   "Bis zu 6 Personen",
-   "Schlafzimmer mit Doppelbett",
-   "Schlafzimmer mit 2 Einzelbetten",
-   "Schlafzimmer mit Etagenbett",
-   "Bad mit Dusche",
-   "Separates WC",
-   "Offene Küche mit Geschirrspüler und Backofen",
-   "Sitzecke mit TV",
-   "Sonnenterrasse mit Gartenmöbeln",
-   "Kostenloses WLAN",
-   "1 Parkplatz"
-  ],
-  "park_h3": "Im Park",
-  "park": [
-   "Beheiztes Freibad (Mitte Mai – Anfang Okt.)",
-   "Holzspielplatz und Lufttrampolin",
-   "Restaurant und Pizzeria",
-   "Brötchenservice und Parkshop",
-   "Skitrockenraum",
-   "Strandbad Schluga grenzt an den Park",
-   "Gratis AlpinSPA im EuroParcs Hermagor·Nassfeld"
-  ],
-  "book_eyebrow": "Buchen",
-  "book_h2": "Lust auf Familienurlaub in den Bergen?",
-  "book_text": "Freie Termine und Preise seht ihr in unserem Buchungssystem und könnt direkt buchen. Fragen zu Pfingst- oder Herbstferien oder was es für eure Kinder zu tun gibt? Schreibt uns, wir helfen gern.",
-  "addr_label": "Adresse",
-  "form": {
-   "h3": "Eure Frage",
-   "name": "Name",
-   "email": "E-Mail-Adresse",
-   "arrive": "Anreise",
-   "leave": "Abreise",
-   "guests": "Personen",
-   "msg": "Nachricht (z. B. Alter der Kinder)",
-   "send": "Absenden",
-   "privacy": "Wir verwenden eure Daten nur, um eure Frage zu beantworten.",
-   "optional": "optional"
   },
-  "footer": "Private Eigentümer, Verwaltung durch EuroParcs",
-  "thanks_h": "Vielen Dank für eure Nachricht",
-  "thanks_p": "Wir melden uns so schnell wie möglich bei euch.",
-  "thanks_back": "Zurück zur Website",
-  "tips_eyebrow": "Unsere Tipps",
-  "tips_h2": "Getestet von unserer eigenen Familie",
-  "tips_intro": "Unsere Lieblingsadressen in der Umgebung, gesammelt in unseren eigenen Urlauben mit den Kindern.",
-  "nav_tips": "Tipps",
-  "cats": [
-   [
-    "Essen & Trinken",
-    [
-     [
-      "Gasthof Waldemar",
-      "Kreuth, Hermagor",
-      "Echte österreichische Küche in besonderer Umgebung. Unbedingt reservieren!",
-      "https://waldemar.at/"
-     ],
-     [
-      "Zeitwirt's",
-      "Am Pressegger See",
-      "Restaurant direkt am See, nur wenige Minuten vom Park entfernt.",
-      "http://www.zeitwirts.at"
-     ],
-     [
-      "Zum Alois",
-      "Tröpolach",
-      "Pizzeria und Restaurant direkt an der Talstation des Millennium-Express. Im Winter unsere feste Après-Ski-Adresse.",
-      "https://www.zumalois.at/"
-     ]
+  "it": {
+    "book_code": "it",
+    "thanks_slug": "grazie",
+    "country": "Austria",
+    "title": "Panorama Lodge sul lago Pressegger See · Vacanze in famiglia in Carinzia",
+    "meta": "Lodge indipendente per famiglie fino a 6 persone all'EuroParcs Pressegger See: 3 camere con letto a castello, piscina e parco giochi nel parco. Ideale in primavera e autunno.",
+    "nav_label": "Menu principale",
+    "nav": [
+      "La casa",
+      "Per i bambini",
+      "Stagioni",
+      "Prenota"
+    ],
+    "cta_avail": "Date libere",
+    "cta_dates": "Vedi date libere e prezzi",
+    "cta_house": "Guarda dentro",
+    "cta_book": "Disponibilità e prenotazione",
+    "eyebrow": "Vacanze in famiglia in Carinzia, Austria",
+    "h1": "Scoprire le montagne insieme. Senza la folla dell'estate.",
+    "lead": "La nostra Panorama Lodge è fatta per le famiglie: tre camere (sì, con letto a castello), un grande tavolo per serate in compagnia e un parco con piscina e parco giochi. Il lago e le montagne sono a due passi.",
+    "facts": [
+      "Fino a 6 persone",
+      "Camera con letto a castello",
+      "Piscina nel parco",
+      "Wi-Fi gratuito"
+    ],
+    "ph_hero": "Il Panorama Lodge al sole, fuori stagione",
+    "why_eyebrow": "Perché in primavera o in autunno?",
+    "why_h2": "Più tempo insieme, meno code",
+    "why": [
+      [
+        "Niente code",
+        "Fuori da luglio e agosto c'è calma agli impianti, sui sentieri e al lago. Più spazio per scoprire insieme."
+      ],
+      [
+        "Ponti e vacanze brevi",
+        "Primavera e autunno sono perfetti per i ponti di maggio e una pausa d'autunno. Una vacanza breve e attiva in montagna."
+      ],
+      [
+        "Spazio per tutti",
+        "Uno chalet indipendente con tre camere. I bambini hanno la loro stanza, voi dormite tranquilli nella camera matrimoniale."
+      ],
+      [
+        "Tutto nel parco",
+        "Piscina esterna riscaldata (da metà maggio a inizio ottobre), parco giochi in legno, trampolino gonfiabile e un ristorante. Il lido sul lago confina con il parco."
+      ],
+      [
+        "+CARD Holiday gratuita",
+        "Soggiornando tra metà maggio e novembre ricevete la +CARD: autobus regionali gratuiti e impianti estivi del Nassfeld gratuiti, più sconti nella regione."
+      ]
+    ],
+    "todo_eyebrow": "Stagioni",
+    "todo_h2": "Cosa fare in ogni stagione",
+    "toggle_label": "Scegli la stagione",
+    "spring_label": "Primavera (apr–giu)",
+    "autumn_label": "Autunno (set–nov)",
+    "spring": [
+      [
+        "Primavera",
+        "Giro del lago Pressegger See",
+        "5,9 km in piano tra i canneti, circa un'ora e mezza. Facile anche per le gambe piccole."
+      ],
+      [
+        "Da metà maggio",
+        "+CARD Holiday",
+        "Da metà maggio all'arrivo ricevete la +CARD: autobus gratuiti nella regione e salita gratuita con gli impianti estivi."
+      ],
+      [
+        "Metà maggio",
+        "Kärntner Wanderopening",
+        "La regione apre la stagione escursionistica con un weekend di festa nella vicina Lesachtal."
+      ],
+      [
+        "Aprile–giugno",
+        "In bici nella valle del Gail",
+        "Percorsi pianeggianti, ideali per i bambini con la propria bici. In zona si noleggiano e-bike."
+      ],
+      [
+        "Da giugno",
+        "Aqua Trail e Pendolino",
+        "Quando a giugno aprono gli impianti: prima si gioca sull'Aqua Trail, poi giù con lo slittino estivo."
+      ],
+      [
+        "Tutta la primavera",
+        "Caccia ai fossili",
+        "Nel Geoparco delle Alpi Carniche si cammina su un antico fondale marino. Chi trova il primo fossile?"
+      ]
+    ],
+    "autumn": [
+      [
+        "Settembre",
+        "Arrampicata all'Outdoor Park",
+        "Labirinto di roccia e flying fox sul Nassfeld. A settembre ogni giorno col bel tempo, a ottobre su richiesta."
+      ],
+      [
+        "Set – inizio nov",
+        "Programma autunnale della regione",
+        "Escursioni guidate e giri in bici, con picnic autunnali lungo laghi e fiumi."
+      ],
+      [
+        "Ogni sabato",
+        "Mercato contadino di Hermagor",
+        "Pane, formaggi e succo di mela del contadino, nella cittadina vicino al parco."
+      ],
+      [
+        "Ottobre",
+        "Larici dorati",
+        "Percorsi tranquilli a piedi e in bici nella valle del Gail, con le montagne nei loro colori più belli."
+      ],
+      [
+        "Gita in giornata",
+        "Lago Weissensee",
+        "Uno dei laghi più puliti d'Austria. In autunno calmo e liscio, perfetto per far rimbalzare i sassi."
+      ]
+    ],
+    "todo_note": "Date e orari variano ogni anno. Il programma aggiornato è su nassfeld.at.",
+    "house_eyebrow": "La casa",
+    "house_text": "Di giorno in montagna, la sera tutti insieme intorno al grande tavolo di legno. I bambini hanno la loro camera con letto a castello, voi dormite tranquilli nella matrimoniale. E sulla terrazza al sole vi godete un caffè mentre i bambini giocano fuori.",
+    "ph_living": "Soggiorno con finestre panoramiche",
+    "ph_kitchen": "Cucina a vista",
+    "ph_terrace": "Terrazza al sole con vista",
+    "chips": [
+      "Fino a 6 persone",
+      "Camera con letto matrimoniale",
+      "Camera con 2 letti singoli",
+      "Camera con letto a castello",
+      "Bagno con doccia",
+      "WC separato",
+      "Cucina a vista con lavastoviglie e forno",
+      "Angolo salotto con TV",
+      "Terrazza al sole con mobili da giardino",
+      "Wi-Fi gratuito",
+      "1 posto auto"
+    ],
+    "park_h3": "Nel parco",
+    "park": [
+      "Piscina esterna riscaldata (metà maggio – inizio ott.)",
+      "Parco giochi in legno e trampolino gonfiabile",
+      "Ristorante e pizzeria",
+      "Servizio panini e negozio",
+      "Locale asciuga-sci",
+      "Il lido Schluga confina con il parco",
+      "AlpinSPA gratuita all'EuroParcs Hermagor·Nassfeld"
+    ],
+    "book_eyebrow": "Prenota",
+    "book_h2": "Voglia di una vacanza in famiglia in montagna?",
+    "book_text": "Consultate date libere e prezzi nel nostro sistema di prenotazione e prenotate subito. Domande sui periodi di vacanza o su cosa fare con i vostri figli? Scriveteci, vi aiutiamo volentieri.",
+    "addr_label": "Indirizzo",
+    "form": {
+      "h3": "Scriveteci",
+      "name": "Nome",
+      "email": "Indirizzo e-mail",
+      "arrive": "Arrivo",
+      "leave": "Partenza",
+      "guests": "Persone",
+      "msg": "Messaggio (es. età dei bambini)",
+      "send": "Invia",
+      "privacy": "Usiamo i tuoi dati solo per rispondere alla tua richiesta.",
+      "optional": "facoltativo",
+      "error": "Invio non riuscito. Riprova più tardi oppure prenota direttamente con il pulsante di prenotazione."
+    },
+    "footer": "Proprietari privati, gestione EuroParcs",
+    "thanks_h": "Grazie per il tuo messaggio",
+    "thanks_p": "Ti risponderemo il prima possibile.",
+    "thanks_back": "Torna al sito",
+    "tips_eyebrow": "I nostri consigli",
+    "tips_h2": "Testati dalla nostra famiglia",
+    "tips_intro": "I nostri posti preferiti nei dintorni, raccolti durante le vacanze con i nostri figli.",
+    "nav_tips": "Consigli",
+    "cats": [
+      [
+        "Mangiare e bere",
+        [
+          [
+            "Gasthof Waldemar",
+            "Kreuth, Hermagor",
+            "Autentica cucina austriaca in un ambiente speciale. Meglio prenotare!",
+            "https://waldemar.at/"
+          ],
+          [
+            "Zeitwirt's",
+            "Sul lago Pressegger See",
+            "Ristorante in riva al lago, a pochi minuti dal parco.",
+            "http://www.zeitwirts.at"
+          ],
+          [
+            "Zum Alois",
+            "Tröpolach",
+            "Pizzeria e ristorante proprio alla stazione a valle del Millennium Express. D'inverno il nostro indirizzo fisso per l'après-ski.",
+            "https://www.zumalois.at/"
+          ]
+        ]
+      ],
+      [
+        "Gite",
+        [
+          [
+            "Gola Garnitzenklamm",
+            "Möderndorf, vicino a Hermagor",
+            "Una gola lunga circa 4,5 km con cascate, pareti rocciose e pozze color smeraldo. Aperta nella stagione calda; alcuni tratti richiedono passo sicuro.",
+            "https://www.garnitzenklamm.at/"
+          ],
+          [
+            "SUP sul lago",
+            "Lago Pressegger See",
+            "In piedi sulla tavola sull'acqua calma e limpida. Bellissimo in una giornata mite di primavera o d'autunno.",
+            ""
+          ],
+          [
+            "Villach e Klagenfurt",
+            "Giornata in città",
+            "Due affascinanti città della Carinzia per una giornata di shopping, caffè e cultura.",
+            ""
+          ],
+          [
+            "Kärnten Therme",
+            "Warmbad-Villach",
+            "Parco termale con scivoli, fiume a corrente e un'area per i più piccoli. Aperto tutto l'anno, ideale nei giorni di pioggia.",
+            "https://www.kaerntentherme.com/"
+          ],
+          [
+            "Affenberg e Adlerarena",
+            "Castello di Landskron, vicino a Villach",
+            "Circa 180 macachi giapponesi in un grande recinto all'aperto e, poco sopra, uno spettacolo di rapaci al castello. Da aprile a ottobre.",
+            "https://www.adlerarena.com/"
+          ]
+        ]
+      ],
+      [
+        "Informazioni utili",
+        [
+          [
+            "Obbligatorio in auto",
+            "Austria",
+            "Triangolo, un giubbotto catarifrangente per ogni passeggero, una cassetta di pronto soccorso non scaduta e la vignetta autostradale (digitale da ASFINAG o in un distributore prima del confine). La polizia a volte controlla.",
+            "https://shop.asfinag.at/"
+          ]
+        ]
+      ]
+    ],
+    "more": "Più info",
+    "social": "Seguici",
+    "photos": {
+      "hero": "/img/hero.jpg",
+      "living": "/img/living.jpg",
+      "kitchen": "/img/kitchen.jpg",
+      "terrace": "/img/terrace.jpg"
+    },
+    "gallery": [
+      [
+        "/img/fireplace.jpg",
+        "Salotto con camino"
+      ],
+      [
+        "/img/dining.jpg",
+        "Tavolo da pranzo per sei"
+      ],
+      [
+        "/img/bed-double.jpg",
+        "Camera con letto matrimoniale"
+      ],
+      [
+        "/img/bed-twin.jpg",
+        "Camera con due letti singoli"
+      ],
+      [
+        "/img/bed-bunk.jpg",
+        "Camera con letto a castello"
+      ],
+      [
+        "/img/evening.jpg",
+        "Serata accogliente"
+      ],
+      [
+        "/img/terrace-summer.jpg",
+        "Terrazza coperta con tavolo per sei"
+      ],
+      [
+        "/img/morning.jpg",
+        "Mattina d'inverno soleggiata"
+      ]
+    ],
+    "nature": [
+      [
+        "/img/alm-cows.jpg",
+        "Mucche all'alpeggio"
+      ],
+      [
+        "/img/alpine-lake.jpg",
+        "Laghetti e pascoli alpini"
+      ],
+      [
+        "/img/forest-path.jpg",
+        "Sentieri tranquilli nel bosco"
+      ]
+    ],
+    "og_locale": "it_IT",
+    "nav_kids": "Per i bambini",
+    "sticker": "Avventura per tutta la famiglia!",
+    "kids_eyebrow": "Per i bambini",
+    "kids_h2": "Qualcosa di divertente per ogni età",
+    "kids_intro": "Dagli schizzi all'arrampicata: i nostri preferiti per bambini e ragazzi dai 4 ai 16 anni.",
+    "kids": [
+      [
+        "4–8 anni",
+        "Schizzi e scoperte",
+        [
+          [
+            "Aqua Trail sul Nassfeld",
+            "Percorso gioco di 1,5 km in montagna: costruire dighe, fontane e una vera barca a vela. Da giugno a settembre."
+          ],
+          [
+            "Nel parco e dintorni",
+            "Parco giochi, trampolino gonfiabile, una Escape Box e la caccia al tesoro Yuki. In stagione la piscina esterna riscaldata e il lido Schluga con gonfiabile in acqua, gratis con il braccialetto arancione."
+          ],
+          [
+            "Parco divertimenti sul lago",
+            "Scivolo nel lago, mini auto e un'area bimbi. Da fine giugno a metà settembre."
+          ]
+        ]
+      ],
+      [
+        "9–12 anni",
+        "Velocità e avventura",
+        [
+          [
+            "Slittino estivo Pendolino",
+            "Su in cabinovia e giù per 2 km sulla pista di slittino estivo più lunga della Carinzia. Da giugno a settembre."
+          ],
+          [
+            "Gola Garnitzenklamm",
+            "Cascate, ponticelli e un geotrail nella gola. Scarpe robuste!"
+          ],
+          [
+            "SUP e bici",
+            "In SUP sul lago o in bici nella valle pianeggiante del Gail."
+          ]
+        ]
+      ],
+      [
+        "13–16 anni",
+        "Sfide e panorami",
+        [
+          [
+            "Outdoor Park Nassfeld",
+            "Labirinto di roccia, flying fox e tiro con l'arco 3D. A giugno e settembre ogni giorno col bel tempo, fine maggio e ottobre su richiesta."
+          ],
+          [
+            "Conquistare una vetta",
+            "Insieme fino alla croce di vetta, con vista oltre il confine italiano."
+          ],
+          [
+            "Giornata a Villach",
+            "Shopping, gelati e caffè nella città più grande della zona."
+          ]
+        ]
+      ]
+    ],
+    "kids_note": "Gli orari variano per stagione e anno. Controllate prima su nassfeld.at.",
+    "ph_family": "Insieme nel bosco",
+    "ph_summit": "In cima alla vetta",
+    "kidpics": [
+      [
+        "/img/kids-donkey.jpg",
+        "Nuovi amici lungo il cammino"
+      ],
+      [
+        "/img/kids-water.jpg",
+        "Arrampicarsi e tuffarsi in acqua"
+      ],
+      [
+        "/img/kids-gorge.jpg",
+        "Alla scoperta della gola"
+      ],
+      [
+        "/img/summit.jpg",
+        "In cima alla vetta"
+      ]
+    ],
+    "bar_text": "Panorama Lodge · fino a 6 persone",
+    "about_eyebrow": "Chi siamo",
+    "about_h2": "Il nostro angolo tra le montagne",
+    "about": [
+      "La nostra casa vacanze è nata dall'amore per la natura e per la quiete delle montagne. Il tempo con la famiglia e gli amici: per noi sono questi i momenti che contano davvero.",
+      "Quando abbiamo avuto l'occasione di comprare una casa all'EuroParcs Pressegger See, tutto è andato al suo posto. La posizione, l'atmosfera e il mix di lago, montagne e attività erano proprio ciò che cercavamo.",
+      "EuroParcs si occupa della gestione sul posto. Potete quindi contare su un servizio locale e un'accoglienza calorosa, e noi vi diamo volentieri qualche consiglio."
+    ],
+    "ph_about": "Mattina di sole sulla terrazza",
+    "nav_about": "Chi siamo",
+    "about_sign": "Un caro saluto, Sander & Maud",
+    "nav_winter": "Inverno",
+    "winter_eyebrow": "Sport invernali",
+    "winter_h2": "Sciare sul Nassfeld",
+    "winter_intro": "Noi stessi sciamo sul Nassfeld ogni anno: il comprensorio più grande e soleggiato della Carinzia, a poca distanza dal lodge. Secondo la regione ha circa 100 ore di sole in più rispetto alle Alpi settentrionali.",
+    "winter_facts": [
+      [
+        "110 km",
+        "di piste: 30 km blu, 69 km rosse, 11 km nere"
+      ],
+      [
+        "± 30",
+        "impianti di risalita, fino a circa 2.000 m"
+      ],
+      [
+        "7,6 km",
+        "la discesa a valle Carnia, la più lunga del comprensorio"
+      ],
+      [
+        "dic – apr",
+        "stagione sciistica, nel 2026/27 dal 4 dicembre al 4 aprile"
+      ]
+    ],
+    "winter_cards": [
+      [
+        "Su con il Millennium Express",
+        "Da Tröpolach la cabinovia vi porta in tre tratti a quasi 1.900 m. Lo skibus ferma a poche centinaia di metri dal parco, quindi l'auto può restare ferma."
+      ],
+      [
+        "Sciare con i bambini",
+        "Quattro aree bimbi protette con tapis roulant, scuole di sci per bambini dai 4 anni e assistenza all'infanzia dai 2,5 anni. Sotto i 10 anni l'attrezzatura da sci è gratuita, e in alcune settimane ci sono sconti extra per bambini."
+      ],
+      [
+        "Il nostro giro fisso",
+        "Partiamo sempre dal Millennium Express e noleggiamo un armadietto a valle, così non c'è nulla da portare. Poi après-ski allo Zum Alois, proprio alla stazione a valle."
+      ],
+      [
+        "Non solo sci",
+        "Slittino sulle piste naturali di Guggenberg (2 km) e Weissbriach (3 km), 90 km di piste da fondo, 160 km di sentieri invernali e ciaspolate."
+      ],
+      [
+        "Pattinare sul Weissensee",
+        "D'inverno il Weissensee diventa la più grande superficie di ghiaccio naturale preparata d'Europa (6,5 km²). Controllate prima il bollettino del ghiaccio."
+      ],
+      [
+        "Comodo nel parco",
+        "Un locale asciuga-sci (a pagamento), panini freschi alla reception e un negozio nel parco per la spesa."
+      ]
+    ],
+    "winter_note": "Date della stagione, orari degli impianti e sconti cambiano ogni anno. Informazioni aggiornate su nassfeld.at.",
+    "ph_ski1": "In pista con vista sulle Alpi Carniche",
+    "ph_ski2": "Neve fresca accanto all'impianto",
+    "ph_nassfeld": "Il Nassfeld a marzo: ancora tanta neve",
+    "ph_winterlodge": "Il lodge sotto la neve",
+    "summer_label": "Estate (lug–ago)",
+    "summer": [
+      [
+        "Tutta l'estate",
+        "Nuotare nel Pressegger See",
+        "Uno dei laghi più caldi della Carinzia. Il lido Schluga confina con il parco, con gonfiabile in acqua, beach volley e campo da calcio."
+      ],
+      [
+        "Fine giugno – metà sett",
+        "Parco divertimenti sul lago",
+        "Scivolo nel lago, mini auto e un'area bimbi, a pochi minuti dal parco."
+      ],
+      [
+        "Lug–ago",
+        "Pendolino e Aqua Trail",
+        "Tutti gli impianti estivi del Nassfeld sono aperti. Con la +CARD salite gratis: prima si gioca sull'Aqua Trail, poi giù con lo slittino estivo."
+      ],
+      [
+        "Lug–ago",
+        "Gola Garnitzenklamm",
+        "Un po' di fresco nella gola vicino a Hermagor: cascate, ponticelli e pozze smeraldo. Scarpe robuste!"
+      ],
+      [
+        "Gita in giornata",
+        "Affenberg e Adlerarena",
+        "Macachi giapponesi e uno spettacolo di rapaci al castello di Landskron, vicino a Villach."
+      ]
     ]
-   ],
-   [
-    "Ausflüge",
-    [
-     [
-      "Garnitzenklamm",
-      "Möderndorf, bei Hermagor",
-      "Eine rund 4,5 km lange Klamm mit Wasserfällen, steilen Felswänden und smaragdgrünen Gumpen. In der warmen Jahreszeit geöffnet; einige Abschnitte erfordern Trittsicherheit.",
-      "https://www.garnitzenklamm.at/"
-     ],
-     [
-      "Stand-up-Paddling auf dem Pressegger See",
-      "Der See",
-      "Mit dem SUP-Board über das ruhige, klare Wasser. Herrlich an einem milden Frühlings- oder Herbsttag.",
-      ""
-     ],
-     [
-      "Villach und Klagenfurt",
-      "Städtetrip",
-      "Zwei stimmungsvolle Kärntner Städte für einen Tag mit Shopping, Cafés und Kultur.",
-      ""
-     ],
-     [
-      "Kärnten Therme",
-      "Warmbad-Villach",
-      "Thermen-Erlebniswelt mit Rutschen, Crazy River und eigenem Kleinkinderbereich. Ganzjährig geöffnet, ideal an Regentagen.",
-      "https://www.kaerntentherme.com/"
-     ],
-     [
-      "Affenberg und Adlerarena",
-      "Burg Landskron, bei Villach",
-      "Rund 180 Japanmakaken in einem großen Freigehege, und gleich darüber eine Greifvogelschau an der Burg. April bis Oktober.",
-      "https://www.adlerarena.com/"
-     ]
-    ]
-   ],
-   [
-    "Praktisch",
-    [
-     [
-      "Pflicht im Auto",
-      "Österreich",
-      "Warndreieck, eine Warnweste für jeden Insassen, ein nicht abgelaufener Verbandkasten und eine Vignette für die Autobahn (digital bei der ASFINAG oder an einer Tankstelle vor der Grenze). Die Polizei kontrolliert das gelegentlich.",
-      "https://shop.asfinag.at/"
-     ]
-    ]
-   ]
-  ],
-  "more": "Mehr Infos",
-  "social": "Folgt uns",
-  "photos": {
-   "hero": "/img/hero.jpg",
-   "living": "/img/living.jpg",
-   "kitchen": "/img/kitchen.jpg",
-   "terrace": "/img/terrace.jpg"
   },
-  "gallery": [
-   [
-    "/img/fireplace.jpg",
-    "Sitzecke mit Kaminfeuer"
-   ],
-   [
-    "/img/dining.jpg",
-    "Esstisch für sechs"
-   ],
-   [
-    "/img/bed-double.jpg",
-    "Schlafzimmer mit Doppelbett"
-   ],
-   [
-    "/img/bed-twin.jpg",
-    "Schlafzimmer mit zwei Einzelbetten"
-   ],
-   [
-    "/img/bed-bunk.jpg",
-    "Zimmer mit Etagenbett"
-   ],
-   [
-    "/img/evening.jpg",
-    "Gemütlicher Abend drinnen"
-   ],
-   [
-    "/img/terrace-summer.jpg",
-    "Überdachte Terrasse mit Tisch für sechs"
-   ],
-   [
-    "/img/morning.jpg",
-    "Sonniger Wintermorgen"
-   ]
-  ],
-  "nature": [
-   [
-    "/img/alm-cows.jpg",
-    "Kühe auf der Alm"
-   ],
-   [
-    "/img/alpine-lake.jpg",
-    "Bergseen und Almwiesen"
-   ],
-   [
-    "/img/forest-path.jpg",
-    "Ruhige Waldwege"
-   ]
-  ],
-  "og_locale": "de_DE",
-  "nav_kids": "Für Kinder",
-  "sticker": "Abenteuer für die ganze Familie!",
-  "kids_eyebrow": "Für Kinder",
-  "kids_h2": "Für jedes Alter etwas dabei",
-  "kids_intro": "Vom Planschen bis zum Klettern: unsere Favoriten für Kinder von 4 bis 16 Jahren.",
-  "kids": [
-   [
-    "4–8 Jahre",
-    "Planschen und entdecken",
-    [
-     [
-      "Aqua Trail am Nassfeld",
-      "1,5 km langer Erlebnisweg am Berg: Dämme bauen, Wasserfontänen und ein echtes Segelboot. Juni bis September."
-     ],
-     [
-      "Im und am Park",
-      "Spielplatz, Lufttrampolin, eine Escape Box und die Yuki-Schatzsuche. In der Saison das beheizte Freibad und das Strandbad Schluga mit Wasserkissen, gratis mit dem orangen Armband."
-     ],
-     [
-      "Erlebnispark am See",
-      "Rutsche in den See, Miniautos und ein Kinderland. Ende Juni bis Mitte September."
-     ]
+  "pl": {
+    "book_code": "pl",
+    "thanks_slug": "dziekujemy",
+    "country": "Austria",
+    "title": "Panorama Lodge nad jeziorem Pressegger See · Rodzinne wakacje w Karyntii",
+    "meta": "Wolnostojący domek dla rodzin do 6 osób w EuroParcs Pressegger See: 3 sypialnie z łóżkiem piętrowym, basen i plac zabaw w parku. Idealny na majówkę i jesień.",
+    "nav_label": "Menu główne",
+    "nav": [
+      "Domek",
+      "Dla dzieci",
+      "Pory roku",
+      "Rezerwacja"
+    ],
+    "cta_avail": "Wolne terminy",
+    "cta_dates": "Zobacz wolne terminy i ceny",
+    "cta_house": "Zajrzyj do środka",
+    "cta_book": "Dostępność i rezerwacja",
+    "eyebrow": "Rodzinne wakacje w Karyntii, Austria",
+    "h1": "Odkrywajcie góry razem. Bez letnich tłumów.",
+    "lead": "Nasz Panorama Lodge jest stworzony dla rodzin: trzy sypialnie (tak, z łóżkiem piętrowym), duży stół na wspólne wieczory i park z basenem i placem zabaw. Jezioro i góry są tuż obok.",
+    "facts": [
+      "Do 6 osób",
+      "Pokój z łóżkiem piętrowym",
+      "Basen w parku",
+      "Bezpłatne Wi-Fi"
+    ],
+    "ph_hero": "Panorama Lodge w słońcu, poza sezonem",
+    "why_eyebrow": "Dlaczego wiosną lub jesienią?",
+    "why_h2": "Więcej czasu razem, mniej czekania",
+    "why": [
+      [
+        "Bez kolejek",
+        "Poza lipcem i sierpniem przy wyciągach, na szlakach i nad jeziorem jest spokojnie. Więcej miejsca na wspólne odkrywanie."
+      ],
+      [
+        "Majówka i jesień",
+        "Wiosna i jesień to idealny czas na majówkę lub krótki jesienny wyjazd. Aktywny odpoczynek w górach."
+      ],
+      [
+        "Miejsce dla wszystkich",
+        "Wolnostojący domek z trzema sypialniami. Dzieci mają swój pokój, a Wy śpicie spokojnie w sypialni rodziców."
+      ],
+      [
+        "Wszystko w parku",
+        "Podgrzewany basen zewnętrzny (od połowy maja do początku października), drewniany plac zabaw, dmuchana trampolina i restauracja. Kąpielisko nad jeziorem graniczy z parkiem."
+      ],
+      [
+        "Bezpłatna +CARD Holiday",
+        "Przy pobycie od połowy maja do listopada dostajecie +CARD: bezpłatne autobusy regionalne i bezpłatne letnie kolejki na Nassfeld, a do tego zniżki w regionie."
+      ]
+    ],
+    "todo_eyebrow": "Pory roku",
+    "todo_h2": "Co robić w każdym sezonie",
+    "toggle_label": "Wybierz sezon",
+    "spring_label": "Wiosna (kwi–cze)",
+    "autumn_label": "Jesień (wrz–lis)",
+    "spring": [
+      [
+        "Majówka",
+        "Wokół jeziora Pressegger See",
+        "5,9 km po płaskim wśród trzcin, około półtorej godziny. Łatwe nawet dla małych nóżek."
+      ],
+      [
+        "Od połowy maja",
+        "+CARD Holiday",
+        "Od połowy maja przy przyjeździe dostajecie +CARD: bezpłatne autobusy po regionie i bezpłatny wjazd letnimi kolejkami."
+      ],
+      [
+        "Połowa maja",
+        "Kärntner Wanderopening",
+        "Region otwiera sezon wędrówek świątecznym weekendem w pobliskiej dolinie Lesachtal."
+      ],
+      [
+        "Kwiecień–czerwiec",
+        "Rowerem przez dolinę Gail",
+        "Płaskie trasy, idealne dla dzieci na własnych rowerach. W okolicy można wypożyczyć e-rowery."
+      ],
+      [
+        "Od czerwca",
+        "Aqua Trail i Pendolino",
+        "Gdy w czerwcu ruszają kolejki: najpierw zabawa na Aqua Trail, potem w dół letnim torem saneczkowym."
+      ],
+      [
+        "Cała wiosna",
+        "Szukanie skamieniałości",
+        "W Geoparku Alp Karnickich chodzicie po dawnym dnie morza. Kto znajdzie pierwszą skamieniałość?"
+      ]
+    ],
+    "autumn": [
+      [
+        "Wrzesień",
+        "Wspinaczka w Outdoor Park",
+        "Skalny labirynt i tyrolka na Nassfeld. We wrześniu codziennie przy dobrej pogodzie, w październiku na zapytanie."
+      ],
+      [
+        "Wrz – pocz. lis",
+        "Jesienny program regionu",
+        "Wędrówki z przewodnikiem i wycieczki rowerowe, z jesiennymi piknikami nad jeziorami i rzekami."
+      ],
+      [
+        "Każda sobota",
+        "Targ rolniczy w Hermagor",
+        "Chleb, sery i sok jabłkowy od rolników, w miasteczku blisko parku."
+      ],
+      [
+        "Październik",
+        "Złote modrzewie",
+        "Spokojne trasy piesze i rowerowe przez dolinę Gail, góry w najpiękniejszych kolorach."
+      ],
+      [
+        "Wycieczka",
+        "Jezioro Weissensee",
+        "Jedno z najczystszych jezior Austrii. Jesienią ciche i gładkie, idealne do puszczania kaczek."
+      ]
+    ],
+    "todo_note": "Terminy i godziny otwarcia zmieniają się co roku. Aktualny program znajdziecie na nassfeld.at.",
+    "house_eyebrow": "Domek",
+    "house_text": "W dzień w góry, wieczorem wszyscy razem przy dużym drewnianym stole. Dzieci mają swój pokój z łóżkiem piętrowym, a Wy śpicie spokojnie w sypialni rodziców. A na słonecznym tarasie wypijecie kawę, gdy dzieci bawią się na zewnątrz.",
+    "ph_living": "Salon z panoramicznymi oknami",
+    "ph_kitchen": "Otwarta kuchnia",
+    "ph_terrace": "Słoneczny taras z widokiem",
+    "chips": [
+      "Do 6 osób",
+      "Sypialnia z łóżkiem podwójnym",
+      "Sypialnia z 2 łóżkami pojedynczymi",
+      "Sypialnia z łóżkiem piętrowym",
+      "Łazienka z prysznicem",
+      "Osobna toaleta",
+      "Otwarta kuchnia ze zmywarką i piekarnikiem",
+      "Kącik wypoczynkowy z TV",
+      "Słoneczny taras z meblami ogrodowymi",
+      "Bezpłatne Wi-Fi",
+      "1 miejsce parkingowe"
+    ],
+    "park_h3": "Na terenie parku",
+    "park": [
+      "Podgrzewany basen zewnętrzny (poł. maja – pocz. paź.)",
+      "Drewniany plac zabaw i dmuchana trampolina",
+      "Restauracja i pizzeria",
+      "Dostawa bułek i sklepik",
+      "Suszarnia nart",
+      "Kąpielisko Schluga graniczy z parkiem",
+      "Bezpłatne AlpinSPA w EuroParcs Hermagor·Nassfeld"
+    ],
+    "book_eyebrow": "Rezerwacja",
+    "book_h2": "Macie ochotę na rodzinne wakacje w górach?",
+    "book_text": "Sprawdźcie wolne terminy i ceny w naszym systemie rezerwacji i zarezerwujcie od razu. Pytania o majówkę, jesień albo atrakcje dla Waszych dzieci? Napiszcie do nas, chętnie pomożemy.",
+    "addr_label": "Adres",
+    "form": {
+      "h3": "Zadajcie pytanie",
+      "name": "Imię i nazwisko",
+      "email": "Adres e-mail",
+      "arrive": "Przyjazd",
+      "leave": "Wyjazd",
+      "guests": "Liczba osób",
+      "msg": "Wiadomość (np. wiek dzieci)",
+      "send": "Wyślij",
+      "privacy": "Twoje dane wykorzystujemy wyłącznie do odpowiedzi na Twoje pytanie.",
+      "optional": "opcjonalnie",
+      "error": "Nie udało się wysłać. Spróbuj ponownie później albo zarezerwuj bezpośrednio przyciskiem rezerwacji."
+    },
+    "footer": "Prywatni właściciele, zarządzanie EuroParcs",
+    "thanks_h": "Dziękujemy za wiadomość",
+    "thanks_p": "Odpowiemy najszybciej, jak to możliwe.",
+    "thanks_back": "Powrót do strony",
+    "tips_eyebrow": "Nasze wskazówki",
+    "tips_h2": "Sprawdzone przez naszą rodzinę",
+    "tips_intro": "Nasze ulubione miejsca w okolicy, zebrane podczas wakacji z dziećmi.",
+    "nav_tips": "Wskazówki",
+    "cats": [
+      [
+        "Jedzenie i picie",
+        [
+          [
+            "Gasthof Waldemar",
+            "Kreuth, Hermagor",
+            "Prawdziwa austriacka kuchnia w wyjątkowym otoczeniu. Warto zarezerwować!",
+            "https://waldemar.at/"
+          ],
+          [
+            "Zeitwirt's",
+            "Nad jeziorem Pressegger See",
+            "Restauracja tuż nad jeziorem, kilka minut od parku.",
+            "http://www.zeitwirts.at"
+          ],
+          [
+            "Zum Alois",
+            "Tröpolach",
+            "Pizzeria i restauracja przy dolnej stacji kolejki Millennium Express. Zimą nasze stałe miejsce na après-ski.",
+            "https://www.zumalois.at/"
+          ]
+        ]
+      ],
+      [
+        "Wycieczki",
+        [
+          [
+            "Wąwóz Garnitzenklamm",
+            "Möderndorf, koło Hermagor",
+            "Wąwóz długości ok. 4,5 km z wodospadami, stromymi ścianami skalnymi i szmaragdowymi oczkami wodnymi. Otwarty w cieplejszych miesiącach; niektóre odcinki wymagają pewnego kroku.",
+            "https://www.garnitzenklamm.at/"
+          ],
+          [
+            "SUP na jeziorze",
+            "Jezioro Pressegger See",
+            "Na desce SUP po spokojnej, czystej wodzie. Cudownie w łagodny wiosenny lub jesienny dzień.",
+            ""
+          ],
+          [
+            "Villach i Klagenfurt",
+            "Dzień w mieście",
+            "Dwa urokliwe miasta Karyntii na dzień zakupów, kawiarni i kultury.",
+            ""
+          ],
+          [
+            "Kärnten Therme",
+            "Warmbad-Villach",
+            "Park wodny z termami, zjeżdżalniami, rwącą rzeką i strefą dla maluchów. Otwarty cały rok, idealny na deszczowy dzień.",
+            "https://www.kaerntentherme.com/"
+          ],
+          [
+            "Affenberg i Adlerarena",
+            "Zamek Landskron, koło Villach",
+            "Około 180 makaków japońskich na dużym wybiegu, a tuż powyżej pokaz ptaków drapieżnych przy zamku. Od kwietnia do października.",
+            "https://www.adlerarena.com/"
+          ]
+        ]
+      ],
+      [
+        "Praktyczne",
+        [
+          [
+            "Obowiązkowo w samochodzie",
+            "Austria",
+            "Trójkąt ostrzegawczy, kamizelka odblaskowa dla każdego pasażera, ważna apteczka i winieta autostradowa (cyfrowa w ASFINAG lub na stacji przed granicą). Policja czasem to sprawdza.",
+            "https://shop.asfinag.at/"
+          ]
+        ]
+      ]
+    ],
+    "more": "Więcej",
+    "social": "Obserwuj nas",
+    "photos": {
+      "hero": "/img/hero.jpg",
+      "living": "/img/living.jpg",
+      "kitchen": "/img/kitchen.jpg",
+      "terrace": "/img/terrace.jpg"
+    },
+    "gallery": [
+      [
+        "/img/fireplace.jpg",
+        "Kącik wypoczynkowy z kominkiem"
+      ],
+      [
+        "/img/dining.jpg",
+        "Stół dla sześciu osób"
+      ],
+      [
+        "/img/bed-double.jpg",
+        "Sypialnia z łóżkiem podwójnym"
+      ],
+      [
+        "/img/bed-twin.jpg",
+        "Sypialnia z dwoma łóżkami"
+      ],
+      [
+        "/img/bed-bunk.jpg",
+        "Pokój z łóżkiem piętrowym"
+      ],
+      [
+        "/img/evening.jpg",
+        "Przytulny wieczór"
+      ],
+      [
+        "/img/terrace-summer.jpg",
+        "Zadaszony taras ze stołem dla sześciu osób"
+      ],
+      [
+        "/img/morning.jpg",
+        "Słoneczny zimowy poranek"
+      ]
+    ],
+    "nature": [
+      [
+        "/img/alm-cows.jpg",
+        "Krowy na hali"
+      ],
+      [
+        "/img/alpine-lake.jpg",
+        "Górskie jeziorka i łąki"
+      ],
+      [
+        "/img/forest-path.jpg",
+        "Spokojne leśne ścieżki"
+      ]
+    ],
+    "og_locale": "pl_PL",
+    "nav_kids": "Dla dzieci",
+    "sticker": "Przygoda dla całej rodziny!",
+    "kids_eyebrow": "Dla dzieci",
+    "kids_h2": "Coś fajnego dla każdego wieku",
+    "kids_intro": "Od pluskania po wspinaczkę: nasze ulubione atrakcje dla dzieci od 4 do 16 lat.",
+    "kids": [
+      [
+        "4–8 lat",
+        "Pluskanie i odkrywanie",
+        [
+          [
+            "Aqua Trail na Nassfeld",
+            "1,5 km ścieżka zabaw w górach: budowanie tam, fontanny i prawdziwa żaglówka. Od czerwca do września."
+          ],
+          [
+            "W parku i wokół niego",
+            "Plac zabaw, dmuchana trampolina, Escape Box i poszukiwanie skarbów Yuki. W sezonie podgrzewany basen i kąpielisko Schluga z dmuchańcem na wodzie, bezpłatnie z pomarańczową opaską."
+          ],
+          [
+            "Park rozrywki nad jeziorem",
+            "Zjeżdżalnia do jeziora, mini samochodziki i strefa dla dzieci. Od końca czerwca do połowy września."
+          ]
+        ]
+      ],
+      [
+        "9–12 lat",
+        "Prędkość i przygoda",
+        [
+          [
+            "Letni tor saneczkowy Pendolino",
+            "Gondolą w górę i 2 km w dół najdłuższym letnim torem saneczkowym Karyntii. Od czerwca do września."
+          ],
+          [
+            "Wąwóz Garnitzenklamm",
+            "Wodospady, mostki i geościeżka przez wąwóz. Załóżcie solidne buty!"
+          ],
+          [
+            "SUP i rower",
+            "Na desce SUP po jeziorze albo rowerem przez płaską dolinę Gail."
+          ]
+        ]
+      ],
+      [
+        "13–16 lat",
+        "Wyzwania i widoki",
+        [
+          [
+            "Outdoor Park Nassfeld",
+            "Skalny labirynt, tyrolka i łucznictwo 3D. W czerwcu i wrześniu codziennie przy dobrej pogodzie, pod koniec maja i w październiku na zapytanie."
+          ],
+          [
+            "Zdobyć prawdziwy szczyt",
+            "Razem pod krzyż szczytowy, z widokiem aż za granicę włoską."
+          ],
+          [
+            "Dzień w Villach",
+            "Zakupy, lody i kawiarnie w największym mieście regionu."
+          ]
+        ]
+      ]
+    ],
+    "kids_note": "Godziny otwarcia zależą od sezonu i roku. Sprawdźcie je wcześniej na nassfeld.at.",
+    "ph_family": "Razem na leśnej ścieżce",
+    "ph_summit": "Na samym szczycie",
+    "kidpics": [
+      [
+        "/img/kids-donkey.jpg",
+        "Nowi przyjaciele po drodze"
+      ],
+      [
+        "/img/kids-water.jpg",
+        "Wspinaczka i skoki na wodzie"
+      ],
+      [
+        "/img/kids-gorge.jpg",
+        "Odkrywanie wąwozu"
+      ],
+      [
+        "/img/summit.jpg",
+        "Na samym szczycie"
+      ]
+    ],
+    "bar_text": "Panorama Lodge · do 6 osób",
+    "about_eyebrow": "O nas",
+    "about_h2": "Nasze miejsce w górach",
+    "about": [
+      "Nasz domek powstał z miłości do natury i górskiego spokoju. Czas z rodziną i przyjaciółmi: to dla nas chwile, które naprawdę się liczą.",
+      "Gdy pojawiła się szansa kupna domku w EuroParcs Pressegger See, wszystko do siebie pasowało. Położenie, atmosfera i połączenie jeziora, gór i atrakcji to dokładnie to, czego szukaliśmy.",
+      "Na miejscu wszystkim zajmuje się EuroParcs. Możecie więc liczyć na lokalną obsługę i serdeczne powitanie, a my chętnie podzielimy się wskazówkami."
+    ],
+    "ph_about": "Słoneczny poranek na tarasie",
+    "nav_about": "O nas",
+    "about_sign": "Pozdrawiamy, Sander i Maud",
+    "nav_winter": "Zima",
+    "winter_eyebrow": "Sporty zimowe",
+    "winter_h2": "Narty na Nassfeld",
+    "winter_intro": "Sami co roku jeździmy na nartach na Nassfeld: to największy i najbardziej słoneczny ośrodek narciarski Karyntii, niedaleko od domku. Według regionu ma około 100 godzin słońca więcej niż Alpy północne.",
+    "winter_facts": [
+      [
+        "110 km",
+        "tras: 30 km niebieskich, 69 km czerwonych, 11 km czarnych"
+      ],
+      [
+        "± 30",
+        "wyciągów i kolejek, do ok. 2000 m"
+      ],
+      [
+        "7,6 km",
+        "zjazd do doliny Carnia, najdłuższa trasa w ośrodku"
+      ],
+      [
+        "gru – kwi",
+        "sezon narciarski, w 2026/27 od 4 grudnia do 4 kwietnia"
+      ]
+    ],
+    "winter_cards": [
+      [
+        "W górę kolejką Millennium-Express",
+        "Z Tröpolach gondola zabiera Was w trzech odcinkach na prawie 1900 m. Skibus zatrzymuje się kilkaset metrów od parku, więc samochód może zostać na miejscu."
+      ],
+      [
+        "Narty z dziećmi",
+        "Cztery zabezpieczone strefy dla dzieci z taśmociągami, szkoły narciarskie dla dzieci od 4 lat i opieka nad dziećmi od 2,5 roku. Dzieci poniżej 10 lat dostają sprzęt narciarski za darmo, a w niektórych tygodniach są dodatkowe zniżki dla dzieci."
+      ],
+      [
+        "Nasza stała trasa",
+        "Zawsze startujemy z Millennium-Express i wynajmujemy na dole szafkę na narty, więc nie trzeba nic nosić. Potem après-ski w Zum Alois, tuż przy dolnej stacji."
+      ],
+      [
+        "Nie tylko narty",
+        "Sanki na naturalnych torach Guggenberg (2 km) i Weissbriach (3 km), 90 km tras biegowych, 160 km zimowych szlaków i wędrówki w rakietach śnieżnych."
+      ],
+      [
+        "Łyżwy na Weissensee",
+        "Zimą Weissensee staje się największą przygotowaną naturalną taflą lodu w Europie (6,5 km²). Wcześniej sprawdźcie raport lodowy."
+      ],
+      [
+        "Wygodnie w parku",
+        "Suszarnia nart (płatna), świeże bułki w recepcji i sklepik w parku na zakupy."
+      ]
+    ],
+    "winter_note": "Daty sezonu, godziny pracy wyciągów i zniżki zmieniają się co roku. Aktualne informacje na nassfeld.at.",
+    "ph_ski1": "Na stoku z widokiem na Alpy Karnickie",
+    "ph_ski2": "Świeży puch obok wyciągu",
+    "ph_nassfeld": "Nassfeld w marcu: wciąż dużo śniegu",
+    "ph_winterlodge": "Domek w śniegu",
+    "summer_label": "Lato (lip–sie)",
+    "summer": [
+      [
+        "Całe lato",
+        "Kąpiel w Pressegger See",
+        "Jedno z najcieplejszych jezior Karyntii. Kąpielisko Schluga graniczy z parkiem, z dmuchańcem na wodzie, siatkówką plażową i boiskiem."
+      ],
+      [
+        "Koniec czerwca – poł. wrz.",
+        "Park rozrywki nad jeziorem",
+        "Zjeżdżalnia do jeziora, mini samochodziki i strefa dla dzieci, kilka minut od parku."
+      ],
+      [
+        "Lip–sie",
+        "Pendolino i Aqua Trail",
+        "Działają wszystkie letnie kolejki na Nassfeld. Z +CARD wjeżdżacie za darmo: najpierw zabawa na Aqua Trail, potem w dół letnim torem saneczkowym."
+      ],
+      [
+        "Lip–sie",
+        "Wąwóz Garnitzenklamm",
+        "Ochłoda w wąwozie koło Hermagor: wodospady, mostki i szmaragdowe oczka wodne. Solidne buty!"
+      ],
+      [
+        "Wycieczka",
+        "Affenberg i Adlerarena",
+        "Makaki japońskie i pokaz ptaków drapieżnych przy zamku Landskron, koło Villach."
+      ]
     ]
-   ],
-   [
-    "9–12 Jahre",
-    "Tempo und Abenteuer",
-    [
-     [
-      "Sommerrodelbahn Pendolino",
-      "Mit der Gondel hinauf und 2 km hinunter auf Kärntens längster Sommerrodelbahn. Juni bis September."
-     ],
-     [
-      "Garnitzenklamm",
-      "Wasserfälle, Brücken und ein Geotrail durch die Klamm. Feste Schuhe anziehen!"
-     ],
-     [
-      "SUP und Rad",
-      "Mit dem SUP-Board über den See oder mit dem Rad durchs flache Gailtal."
-     ]
-    ]
-   ],
-   [
-    "13–16 Jahre",
-    "Herausforderung und Aussicht",
-    [
-     [
-      "Outdoor Park Nassfeld",
-      "Felsenlabyrinth, Flying Fox und 3D-Bogenschießen. Juni und September täglich bei schönem Wetter, Ende Mai und Oktober auf Anfrage."
-     ],
-     [
-      "Einen echten Gipfel erklimmen",
-      "Gemeinsam zum Gipfelkreuz, mit Blick bis über die Grenze nach Italien."
-     ],
-     [
-      "Ausflug nach Villach",
-      "Shoppen, Eis essen und Cafés in der größten Stadt der Region."
-     ]
-    ]
-   ]
-  ],
-  "kids_note": "Öffnungszeiten ändern sich je nach Saison und Jahr. Bitte vorher auf nassfeld.at prüfen.",
-  "ph_family": "Gemeinsam unterwegs im Wald",
-  "ph_summit": "Ganz oben am Gipfel",
-  "kidpics": [
-   [
-    "/img/kids-donkey.jpg",
-    "Neue Freunde unterwegs"
-   ],
-   [
-    "/img/kids-water.jpg",
-    "Klettern und Springen auf dem Wasser"
-   ],
-   [
-    "/img/kids-gorge.jpg",
-    "Auf Entdeckungstour in der Klamm"
-   ],
-   [
-    "/img/summit.jpg",
-    "Ganz oben am Gipfel"
-   ]
-  ],
-  "bar_text": "Panorama Lodge · bis 6 Personen",
-  "about_eyebrow": "Über uns",
-  "about_h2": "Unser Plätzchen in den Bergen",
-  "about": [
-   "Unser Ferienhaus ist aus unserer Liebe zur Natur und zur Ruhe der Berge entstanden. Zeit mit Familie und Freunden: Das sind für uns die Momente, die wirklich zählen.",
-   "Als wir die Chance bekamen, ein Haus im EuroParcs Pressegger See zu kaufen, passte alles zusammen. Die Lage, die Atmosphäre und die Kombination aus See, Bergen und Aktivitäten waren genau das, was wir gesucht haben.",
-   "EuroParcs kümmert sich vor Ort um die Verwaltung. Ihr könnt euch also auf lokalen Service und einen herzlichen Empfang verlassen, und wir helfen gern mit Tipps."
-  ],
-  "ph_about": "Sonniger Morgen auf der Terrasse",
-  "nav_about": "Über uns",
-  "about_sign": "Liebe Grüße, Sander & Maud",
-  "nav_winter": "Winter",
-  "winter_eyebrow": "Wintersport",
-  "winter_h2": "Skifahren am Nassfeld",
-  "winter_intro": "Wir fahren selbst jedes Jahr am Nassfeld Ski: Kärntens größtes und sonnigstes Skigebiet, nicht weit von der Lodge entfernt. Laut der Region hat es rund 100 Sonnenstunden mehr als die Nordalpen.",
-  "winter_facts": [
-   [
-    "110 km",
-    "Pisten: 30 km blau, 69 km rot, 11 km schwarz"
-   ],
-   [
-    "± 30",
-    "Lifte und Bahnen, bis ca. 2.000 m Höhe"
-   ],
-   [
-    "7,6 km",
-    "die Carnia-Talabfahrt, die längste Abfahrt im Gebiet"
-   ],
-   [
-    "Dez – Apr",
-    "Skisaison, 2026/27 vom 4. Dezember bis 4. April"
-   ]
-  ],
-  "winter_cards": [
-   [
-    "Mit dem Millennium-Express hinauf",
-    "Von Tröpolach bringt euch die Gondel in drei Sektionen auf fast 1.900 m. Der Skibus hält ein paar hundert Meter vom Park entfernt, das Auto kann also stehen bleiben."
-   ],
-   [
-    "Skifahren mit Kindern",
-    "Vier gesicherte Kinderbereiche mit Zauberteppichen, Skischulen für Kinder ab 4 Jahren und Kinderbetreuung ab 2,5 Jahren. Kinder unter 10 bekommen die Skiausrüstung gratis, und in bestimmten Wochen gibt es zusätzliche Kinderrabatte."
-   ],
-   [
-    "Unsere feste Runde",
-    "Wir starten immer am Millennium-Express und mieten unten ein Skidepot, dann müsst ihr nichts schleppen. Danach Après-Ski im Zum Alois, direkt an der Talstation."
-   ],
-   [
-    "Mehr als Skifahren",
-    "Rodeln auf den Naturbahnen Guggenberg (2 km) und Weissbriach (3 km), 90 km Loipen, 160 km Winterwanderwege und Schneeschuhwandern."
-   ],
-   [
-    "Eislaufen am Weissensee",
-    "Im Winter wird der Weissensee zur größten präparierten Natureisfläche Europas (6,5 km²). Hier findet auch die alternative holländische Elf-Städte-Tour statt. Vorher den Eisbericht prüfen."
-   ],
-   [
-    "Praktisch im Park",
-    "Ein Skitrockenraum (gegen Gebühr), frische Brötchen an der Rezeption und ein Parkshop für den Einkauf."
-   ]
-  ],
-  "winter_note": "Saisondaten, Liftzeiten und Rabatte ändern sich jährlich. Aktuelle Infos findet ihr auf nassfeld.at.",
-  "ph_ski1": "Auf der Piste mit Blick über die Karnischen Alpen",
-  "ph_ski2": "Frischer Pulverschnee neben dem Lift",
-  "ph_nassfeld": "Das Nassfeld im März: noch reichlich Schnee",
-  "ph_winterlodge": "Die Lodge im Schnee",
-  "summer_label": "Sommer (Jul–Aug)",
-  "summer": [
-   [
-    "Ganzer Sommer",
-    "Baden im Pressegger See",
-    "Einer der wärmsten Seen Kärntens. Das Strandbad Schluga grenzt an den Park, mit Wasserkissen, Beachvolleyball und Fußballplatz."
-   ],
-   [
-    "Ende Juni – Mitte Sept",
-    "Erlebnispark am See",
-    "Rutsche in den See, Miniautos und ein Kinderland, nur wenige Minuten vom Park."
-   ],
-   [
-    "Jul–Aug",
-    "Pendolino und Aqua Trail",
-    "Alle Sommerbergbahnen am Nassfeld fahren. Mit der +CARD geht's gratis hinauf: erst spielen am Aqua Trail, dann mit der Sommerrodelbahn hinunter."
-   ],
-   [
-    "Jul–Aug",
-    "Garnitzenklamm",
-    "Abkühlung in der Klamm bei Hermagor: Wasserfälle, Brücken und smaragdgrüne Gumpen. Feste Schuhe anziehen!"
-   ],
-   [
-    "Tagesausflug",
-    "Affenberg und Adlerarena",
-    "Japanmakaken und eine Greifvogelschau an der Burg Landskron, nahe Villach."
-   ]
-  ]
- },
- "en": {
-  "book_code": "en-GB",
-  "thanks_slug": "thanks",
-  "country": "Austria",
-  "title": "Panorama Lodge at Lake Presseggersee · Family holidays in Carinthia",
-  "meta": "Detached family lodge for up to 6 at EuroParcs Pressegger See: 3 bedrooms incl. bunk beds, pool and playground on the park. Perfect for spring and autumn half-term.",
-  "nav_label": "Main menu",
-  "nav": [
-   "The house",
-   "For kids",
-   "Seasons",
-   "Book"
-  ],
-  "cta_avail": "Free dates",
-  "cta_dates": "See available dates and prices",
-  "cta_house": "Take a look inside",
-  "cta_book": "Availability & booking",
-  "eyebrow": "Family holidays in Carinthia, Austria",
-  "h1": "Explore the mountains together. Without the summer crowds.",
-  "lead": "Our Panorama Lodge is made for families: three bedrooms (yes, with bunk beds), a big table for cosy evenings and a park with a pool and playground. The lake and the mountains are right around the corner.",
-  "facts": [
-   "Up to 6 guests",
-   "Bunk bed room",
-   "Pool on the park",
-   "Free Wi-Fi"
-  ],
-  "ph_hero": "The Panorama Lodge in the sun, outside high season",
-  "why_eyebrow": "Why spring or autumn?",
-  "why_h2": "More time together, less queuing",
-  "why": [
-   [
-    "No queues",
-    "Outside July and August it's quiet at the lifts, on the trails and by the lake. More space to explore together."
-   ],
-   [
-    "Half-term friendly",
-    "Spring and autumn fit perfectly with May and October half-term. A short, active break in the mountains."
-   ],
-   [
-    "Room for everyone",
-    "A detached chalet with three bedrooms. The kids get their own room, you sleep peacefully in the main bedroom."
-   ],
-   [
-    "Everything on the park",
-    "A heated outdoor pool (mid-May to early October), wooden playground, air trampoline and a restaurant. The lakeside beach borders the park."
-   ],
-   [
-    "Free +CARD Holiday",
-    "Stay between mid-May and November and you get the +CARD: free regional buses and free summer mountain lifts on the Nassfeld, plus discounts across the region."
-   ]
-  ],
-  "todo_eyebrow": "Seasons",
-  "todo_h2": "What to do each season",
-  "toggle_label": "Choose season",
-  "spring_label": "Spring (Apr–Jun)",
-  "autumn_label": "Autumn (Sep–Nov)",
-  "spring": [
-   [
-    "May half-term",
-    "Around Lake Presseggersee",
-    "5.9 km on the flat through the reeds, about an hour and a half. Easy for little legs."
-   ],
-   [
-    "From mid-May",
-    "+CARD Holiday",
-    "From mid-May you get the +CARD on arrival: free buses around the region and free rides on the summer mountain lifts."
-   ],
-   [
-    "Mid-May",
-    "Carinthian Hiking Opening",
-    "The region opens the hiking season with a festive weekend in the nearby Lesachtal valley."
-   ],
-   [
-    "April–June",
-    "Cycling the Gailtal valley",
-    "Flat valley routes, ideal for kids on their own bikes. E-bikes can be hired locally."
-   ],
-   [
-    "From June",
-    "Aqua Trail and Pendolino",
-    "Once the mountain lifts open in June: play on the Aqua Trail first, then toboggan back down."
-   ],
-   [
-    "All spring",
-    "Fossil hunting",
-    "In the Carnic Alps Geopark you walk across ancient seabed. Who'll find the first fossil?"
-   ]
-  ],
-  "autumn": [
-   [
-    "September",
-    "Climbing at the Outdoor Park",
-    "Rock labyrinth and flying fox on the Nassfeld. Daily in September in good weather, in October on request."
-   ],
-   [
-    "Sept – early Nov",
-    "Regional autumn programme",
-    "Guided walks and bike tours, with autumn picnics by lakes and rivers."
-   ],
-   [
-    "Every Saturday",
-    "Hermagor farmers' market",
-    "Farm bread, cheese and apple juice in the little town near the park."
-   ],
-   [
-    "October half-term",
-    "Golden larches",
-    "Quiet walking and cycling routes through the Gailtal valley, with the mountains at their most colourful."
-   ],
-   [
-    "Day trip",
-    "Lake Weissensee",
-    "One of Austria's cleanest lakes. Still and glassy in autumn, perfect for skimming stones."
-   ]
-  ],
-  "todo_note": "Dates and opening times vary from year to year. See nassfeld.at for the current programme.",
-  "house_eyebrow": "The house",
-  "house_text": "Into the mountains by day, all together around the big wooden table at night. The kids have their own room with bunk beds, you sleep peacefully in the main bedroom. And on the sun terrace you can enjoy a coffee while the children play outside.",
-  "ph_living": "Living room with panoramic windows",
-  "ph_kitchen": "Open-plan kitchen",
-  "ph_terrace": "Sun terrace with a view",
-  "chips": [
-   "Up to 6 guests",
-   "Bedroom with double bed",
-   "Bedroom with 2 single beds",
-   "Bedroom with bunk bed",
-   "Bathroom with shower",
-   "Separate toilet",
-   "Open kitchen with dishwasher and oven",
-   "Lounge area with TV",
-   "Sun terrace with garden furniture",
-   "Free Wi-Fi",
-   "1 parking space"
-  ],
-  "park_h3": "On the park",
-  "park": [
-   "Heated outdoor pool (mid-May – early Oct.)",
-   "Wooden playground and air trampoline",
-   "Restaurant and pizzeria",
-   "Bread roll service and park shop",
-   "Ski drying room",
-   "Schluga lake beach borders the park",
-   "Free AlpinSPA at EuroParcs Hermagor·Nassfeld"
-  ],
-  "book_eyebrow": "Book",
-  "book_h2": "Fancy a family break in the mountains?",
-  "book_text": "See available dates and prices in our booking system and book straight away. Questions about half-term or what there is to do for your kids? Send us a message, we're happy to help.",
-  "addr_label": "Address",
-  "form": {
-   "h3": "Ask us anything",
-   "name": "Name",
-   "email": "Email address",
-   "arrive": "Arrival",
-   "leave": "Departure",
-   "guests": "Guests",
-   "msg": "Message (e.g. your children's ages)",
-   "send": "Send",
-   "privacy": "We only use your details to answer your question.",
-   "optional": "optional"
-  },
-  "footer": "Private owners, managed by EuroParcs",
-  "thanks_h": "Thank you for your message",
-  "thanks_p": "We'll get back to you as soon as possible.",
-  "thanks_back": "Back to the website",
-  "tips_eyebrow": "Our tips",
-  "tips_h2": "Tested by our own family",
-  "tips_intro": "Our favourite places nearby, collected on our own holidays with the kids.",
-  "nav_tips": "Tips",
-  "cats": [
-   [
-    "Food & drink",
-    [
-     [
-      "Gasthof Waldemar",
-      "Kreuth, Hermagor",
-      "Authentic Austrian cooking in a special setting. Do book ahead!",
-      "https://waldemar.at/"
-     ],
-     [
-      "Zeitwirt's",
-      "By Lake Presseggersee",
-      "A restaurant right by the lake, a few minutes from the park.",
-      "http://www.zeitwirts.at"
-     ],
-     [
-      "Zum Alois",
-      "Tröpolach",
-      "Pizzeria and restaurant right at the bottom of the Millennium Express. Our go-to après-ski spot in winter.",
-      "https://www.zumalois.at/"
-     ]
-    ]
-   ],
-   [
-    "Day trips",
-    [
-     [
-      "Garnitzenklamm gorge",
-      "Möderndorf, near Hermagor",
-      "A gorge about 4.5 km long with waterfalls, sheer rock walls and emerald pools. Open in the warmer months; some sections need sure footing.",
-      "https://www.garnitzenklamm.at/"
-     ],
-     [
-      "Paddleboarding on the lake",
-      "Lake Presseggersee",
-      "Glide over the calm, clear water on a SUP board. Lovely on a mild spring or autumn day.",
-      ""
-     ],
-     [
-      "Villach and Klagenfurt",
-      "City day out",
-      "Two charming Carinthian towns for a day of shopping, cafés and culture.",
-      ""
-     ],
-     [
-      "Kärnten Therme",
-      "Warmbad-Villach",
-      "Thermal water park with slides, a crazy river and its own area for little ones. Open all year, ideal on a rainy day.",
-      "https://www.kaerntentherme.com/"
-     ],
-     [
-      "Monkey Mountain and Eagle Arena",
-      "Landskron Castle, near Villach",
-      "Around 180 Japanese macaques in a large outdoor enclosure, with a bird of prey show at the castle just above. April to October.",
-      "https://www.adlerarena.com/"
-     ]
-    ]
-   ],
-   [
-    "Practical",
-    [
-     [
-      "Required in your car",
-      "Austria",
-      "A warning triangle, a high-vis vest for every passenger, an in-date first-aid kit and a motorway vignette (digital from ASFINAG or at a petrol station before the border). Police do sometimes check.",
-      "https://shop.asfinag.at/"
-     ]
-    ]
-   ]
-  ],
-  "more": "More info",
-  "social": "Follow us",
-  "photos": {
-   "hero": "/img/hero.jpg",
-   "living": "/img/living.jpg",
-   "kitchen": "/img/kitchen.jpg",
-   "terrace": "/img/terrace.jpg"
-  },
-  "gallery": [
-   [
-    "/img/fireplace.jpg",
-    "Lounge with fireplace"
-   ],
-   [
-    "/img/dining.jpg",
-    "Dining table for six"
-   ],
-   [
-    "/img/bed-double.jpg",
-    "Bedroom with double bed"
-   ],
-   [
-    "/img/bed-twin.jpg",
-    "Bedroom with two single beds"
-   ],
-   [
-    "/img/bed-bunk.jpg",
-    "Room with bunk bed"
-   ],
-   [
-    "/img/evening.jpg",
-    "Cosy evening indoors"
-   ],
-   [
-    "/img/terrace-summer.jpg",
-    "Covered terrace with a table for six"
-   ],
-   [
-    "/img/morning.jpg",
-    "Sunny winter morning"
-   ]
-  ],
-  "nature": [
-   [
-    "/img/alm-cows.jpg",
-    "Cows on the alpine pasture"
-   ],
-   [
-    "/img/alpine-lake.jpg",
-    "Mountain lakes and meadows"
-   ],
-   [
-    "/img/forest-path.jpg",
-    "Quiet forest trails"
-   ]
-  ],
-  "og_locale": "en_GB",
-  "nav_kids": "For kids",
-  "sticker": "Adventure for the whole family!",
-  "kids_eyebrow": "For kids",
-  "kids_h2": "Something fun for every age",
-  "kids_intro": "From splashing to climbing: our favourites for kids aged 4 to 16.",
-  "kids": [
-   [
-    "Ages 4–8",
-    "Splash and discover",
-    [
-     [
-      "Aqua Trail on the Nassfeld",
-      "A 1.5 km play trail on the mountain: build dams, play with fountains and climb aboard a real sailing boat. June to September."
-     ],
-     [
-      "On and around the park",
-      "Playground, air trampoline, an Escape Box and the Yuki treasure hunt. In season, the heated outdoor pool and Schluga lake beach with a water inflatable, free with the orange wristband."
-     ],
-     [
-      "Adventure park by the lake",
-      "A slide into the lake, mini cars and a kids' zone. Late June to mid-September."
-     ]
-    ]
-   ],
-   [
-    "Ages 9–12",
-    "Speed and adventure",
-    [
-     [
-      "Pendolino summer toboggan",
-      "Ride the gondola up and race 2 km down Carinthia's longest summer toboggan run. June to September."
-     ],
-     [
-      "Garnitzenklamm gorge",
-      "Waterfalls, little bridges and a geo trail through the gorge. Wear sturdy shoes!"
-     ],
-     [
-      "Paddleboarding and cycling",
-      "Out on the lake on a SUP board, or cycling through the flat Gailtal valley."
-     ]
-    ]
-   ],
-   [
-    "Ages 13–16",
-    "Challenge and views",
-    [
-     [
-      "Nassfeld Outdoor Park",
-      "Rock labyrinth, flying fox and 3D archery. Daily in June and September in good weather, late May and October on request."
-     ],
-     [
-      "Climb a real summit",
-      "Reach a summit cross together, with views across the border into Italy."
-     ],
-     [
-      "Day out in Villach",
-      "Shopping, ice cream and cafés in the region's biggest town."
-     ]
-    ]
-   ]
-  ],
-  "kids_note": "Opening times vary by season and year. Check nassfeld.at before you go.",
-  "ph_family": "Out together in the forest",
-  "ph_summit": "On top of the summit",
-  "kidpics": [
-   [
-    "/img/kids-donkey.jpg",
-    "Making friends along the way"
-   ],
-   [
-    "/img/kids-water.jpg",
-    "Climbing and jumping on the water"
-   ],
-   [
-    "/img/kids-gorge.jpg",
-    "Exploring the gorge"
-   ],
-   [
-    "/img/summit.jpg",
-    "On top of the summit"
-   ]
-  ],
-  "bar_text": "Panorama Lodge · up to 6 guests",
-  "about_eyebrow": "About us",
-  "about_h2": "Our little spot in the mountains",
-  "about": [
-   "Our holiday home grew out of our love for nature and the peace of the mountains. Time together with family and friends: for us, those are the moments that really count.",
-   "When we had the chance to buy a house at EuroParcs Pressegger See, everything fell into place. The location, the atmosphere and the mix of lake, mountains and activities were exactly what we were looking for.",
-   "EuroParcs takes care of everything on site. So you can count on local service and a warm welcome, and we're always happy to share tips."
-  ],
-  "ph_about": "Sunny morning on the terrace",
-  "nav_about": "About us",
-  "about_sign": "Warm wishes, Sander & Maud",
-  "nav_winter": "Winter",
-  "winter_eyebrow": "Winter sports",
-  "winter_h2": "Skiing on the Nassfeld",
-  "winter_intro": "We ski on the Nassfeld every year ourselves: Carinthia's largest and sunniest ski area, a short drive from the lodge. According to the region it gets around 100 more hours of sunshine than the northern Alps.",
-  "winter_facts": [
-   [
-    "110 km",
-    "of pistes: 30 km blue, 69 km red, 11 km black"
-   ],
-   [
-    "± 30",
-    "lifts and gondolas, up to around 2,000 m"
-   ],
-   [
-    "7.6 km",
-    "the Carnia valley run, the longest run in the area"
-   ],
-   [
-    "Dec – Apr",
-    "ski season, 4 December to 4 April in 2026/27"
-   ]
-  ],
-  "winter_cards": [
-   [
-    "Up with the Millennium Express",
-    "From Tröpolach the gondola takes you up in three sections to almost 1,900 m. The ski bus stops a few hundred metres from the park, so you can leave the car behind."
-   ],
-   [
-    "Skiing with kids",
-    "Four secured children's areas with magic carpets, ski schools for kids from age 4 and childcare from 2.5 years. Children under 10 get free ski equipment, and some weeks have extra children's discounts."
-   ],
-   [
-    "Our regular routine",
-    "We always start at the Millennium Express and rent a ski locker at the bottom, so there's nothing to carry. Then après-ski at Zum Alois, right by the valley station."
-   ],
-   [
-    "More than skiing",
-    "Tobogganing on the natural runs at Guggenberg (2 km) and Weissbriach (3 km), 90 km of cross-country trails, 160 km of winter walking paths and snowshoeing."
-   ],
-   [
-    "Skating on Lake Weissensee",
-    "In winter Lake Weissensee becomes Europe's largest prepared natural ice surface (6.5 km²). It's also where the Dutch skate their Alternative Elfstedentocht. Check the ice report first."
-   ],
-   [
-    "Handy on the park",
-    "A ski drying room (for a fee), fresh bread rolls at reception and a park shop for groceries."
-   ]
-  ],
-  "winter_note": "Season dates, lift times and discounts vary from year to year. See nassfeld.at for current information.",
-  "ph_ski1": "On the slopes with views across the Carnic Alps",
-  "ph_ski2": "Fresh powder next to the lift",
-  "ph_nassfeld": "The Nassfeld in March: still plenty of snow",
-  "ph_winterlodge": "The lodge in the snow",
-  "summer_label": "Summer (Jul–Aug)",
-  "summer": [
-   [
-    "All summer",
-    "Swimming in Lake Presseggersee",
-    "One of Carinthia's warmest lakes. Schluga lake beach borders the park, with a water inflatable, beach volleyball and a football pitch."
-   ],
-   [
-    "Late June – mid-Sept",
-    "Adventure park by the lake",
-    "A slide into the lake, mini cars and a kids' zone, a few minutes from the park."
-   ],
-   [
-    "Jul–Aug",
-    "Pendolino and Aqua Trail",
-    "All the Nassfeld summer lifts are running. With the +CARD you ride up for free: play on the Aqua Trail first, then toboggan back down."
-   ],
-   [
-    "Jul–Aug",
-    "Garnitzenklamm gorge",
-    "Cool off in the gorge near Hermagor: waterfalls, little bridges and emerald pools. Wear sturdy shoes!"
-   ],
-   [
-    "Day trip",
-    "Monkey Mountain and Eagle Arena",
-    "Japanese macaques and a bird of prey show at Landskron Castle, near Villach."
-   ]
-  ]
- },
- "it": {
-  "book_code": "it",
-  "thanks_slug": "grazie",
-  "country": "Austria",
-  "title": "Panorama Lodge sul lago Pressegger See · Vacanze in famiglia in Carinzia",
-  "meta": "Lodge indipendente per famiglie fino a 6 persone all'EuroParcs Pressegger See: 3 camere con letto a castello, piscina e parco giochi nel parco. Ideale in primavera e autunno.",
-  "nav_label": "Menu principale",
-  "nav": [
-   "La casa",
-   "Per i bambini",
-   "Stagioni",
-   "Prenota"
-  ],
-  "cta_avail": "Date libere",
-  "cta_dates": "Vedi date libere e prezzi",
-  "cta_house": "Guarda dentro",
-  "cta_book": "Disponibilità e prenotazione",
-  "eyebrow": "Vacanze in famiglia in Carinzia, Austria",
-  "h1": "Scoprire le montagne insieme. Senza la folla dell'estate.",
-  "lead": "La nostra Panorama Lodge è fatta per le famiglie: tre camere (sì, con letto a castello), un grande tavolo per serate in compagnia e un parco con piscina e parco giochi. Il lago e le montagne sono a due passi.",
-  "facts": [
-   "Fino a 6 persone",
-   "Camera con letto a castello",
-   "Piscina nel parco",
-   "Wi-Fi gratuito"
-  ],
-  "ph_hero": "Il Panorama Lodge al sole, fuori stagione",
-  "why_eyebrow": "Perché in primavera o in autunno?",
-  "why_h2": "Più tempo insieme, meno code",
-  "why": [
-   [
-    "Niente code",
-    "Fuori da luglio e agosto c'è calma agli impianti, sui sentieri e al lago. Più spazio per scoprire insieme."
-   ],
-   [
-    "Ponti e vacanze brevi",
-    "Primavera e autunno sono perfetti per i ponti di maggio e una pausa d'autunno. Una vacanza breve e attiva in montagna."
-   ],
-   [
-    "Spazio per tutti",
-    "Uno chalet indipendente con tre camere. I bambini hanno la loro stanza, voi dormite tranquilli nella camera matrimoniale."
-   ],
-   [
-    "Tutto nel parco",
-    "Piscina esterna riscaldata (da metà maggio a inizio ottobre), parco giochi in legno, trampolino gonfiabile e un ristorante. Il lido sul lago confina con il parco."
-   ],
-   [
-    "+CARD Holiday gratuita",
-    "Soggiornando tra metà maggio e novembre ricevete la +CARD: autobus regionali gratuiti e impianti estivi del Nassfeld gratuiti, più sconti nella regione."
-   ]
-  ],
-  "todo_eyebrow": "Stagioni",
-  "todo_h2": "Cosa fare in ogni stagione",
-  "toggle_label": "Scegli la stagione",
-  "spring_label": "Primavera (apr–giu)",
-  "autumn_label": "Autunno (set–nov)",
-  "spring": [
-   [
-    "Primavera",
-    "Giro del lago Pressegger See",
-    "5,9 km in piano tra i canneti, circa un'ora e mezza. Facile anche per le gambe piccole."
-   ],
-   [
-    "Da metà maggio",
-    "+CARD Holiday",
-    "Da metà maggio all'arrivo ricevete la +CARD: autobus gratuiti nella regione e salita gratuita con gli impianti estivi."
-   ],
-   [
-    "Metà maggio",
-    "Kärntner Wanderopening",
-    "La regione apre la stagione escursionistica con un weekend di festa nella vicina Lesachtal."
-   ],
-   [
-    "Aprile–giugno",
-    "In bici nella valle del Gail",
-    "Percorsi pianeggianti, ideali per i bambini con la propria bici. In zona si noleggiano e-bike."
-   ],
-   [
-    "Da giugno",
-    "Aqua Trail e Pendolino",
-    "Quando a giugno aprono gli impianti: prima si gioca sull'Aqua Trail, poi giù con lo slittino estivo."
-   ],
-   [
-    "Tutta la primavera",
-    "Caccia ai fossili",
-    "Nel Geoparco delle Alpi Carniche si cammina su un antico fondale marino. Chi trova il primo fossile?"
-   ]
-  ],
-  "autumn": [
-   [
-    "Settembre",
-    "Arrampicata all'Outdoor Park",
-    "Labirinto di roccia e flying fox sul Nassfeld. A settembre ogni giorno col bel tempo, a ottobre su richiesta."
-   ],
-   [
-    "Set – inizio nov",
-    "Programma autunnale della regione",
-    "Escursioni guidate e giri in bici, con picnic autunnali lungo laghi e fiumi."
-   ],
-   [
-    "Ogni sabato",
-    "Mercato contadino di Hermagor",
-    "Pane, formaggi e succo di mela del contadino, nella cittadina vicino al parco."
-   ],
-   [
-    "Ottobre",
-    "Larici dorati",
-    "Percorsi tranquilli a piedi e in bici nella valle del Gail, con le montagne nei loro colori più belli."
-   ],
-   [
-    "Gita in giornata",
-    "Lago Weissensee",
-    "Uno dei laghi più puliti d'Austria. In autunno calmo e liscio, perfetto per far rimbalzare i sassi."
-   ]
-  ],
-  "todo_note": "Date e orari variano ogni anno. Il programma aggiornato è su nassfeld.at.",
-  "house_eyebrow": "La casa",
-  "house_text": "Di giorno in montagna, la sera tutti insieme intorno al grande tavolo di legno. I bambini hanno la loro camera con letto a castello, voi dormite tranquilli nella matrimoniale. E sulla terrazza al sole vi godete un caffè mentre i bambini giocano fuori.",
-  "ph_living": "Soggiorno con finestre panoramiche",
-  "ph_kitchen": "Cucina a vista",
-  "ph_terrace": "Terrazza al sole con vista",
-  "chips": [
-   "Fino a 6 persone",
-   "Camera con letto matrimoniale",
-   "Camera con 2 letti singoli",
-   "Camera con letto a castello",
-   "Bagno con doccia",
-   "WC separato",
-   "Cucina a vista con lavastoviglie e forno",
-   "Angolo salotto con TV",
-   "Terrazza al sole con mobili da giardino",
-   "Wi-Fi gratuito",
-   "1 posto auto"
-  ],
-  "park_h3": "Nel parco",
-  "park": [
-   "Piscina esterna riscaldata (metà maggio – inizio ott.)",
-   "Parco giochi in legno e trampolino gonfiabile",
-   "Ristorante e pizzeria",
-   "Servizio panini e negozio",
-   "Locale asciuga-sci",
-   "Il lido Schluga confina con il parco",
-   "AlpinSPA gratuita all'EuroParcs Hermagor·Nassfeld"
-  ],
-  "book_eyebrow": "Prenota",
-  "book_h2": "Voglia di una vacanza in famiglia in montagna?",
-  "book_text": "Consultate date libere e prezzi nel nostro sistema di prenotazione e prenotate subito. Domande sui periodi di vacanza o su cosa fare con i vostri figli? Scriveteci, vi aiutiamo volentieri.",
-  "addr_label": "Indirizzo",
-  "form": {
-   "h3": "Scriveteci",
-   "name": "Nome",
-   "email": "Indirizzo e-mail",
-   "arrive": "Arrivo",
-   "leave": "Partenza",
-   "guests": "Persone",
-   "msg": "Messaggio (es. età dei bambini)",
-   "send": "Invia",
-   "privacy": "Usiamo i tuoi dati solo per rispondere alla tua richiesta.",
-   "optional": "facoltativo"
-  },
-  "footer": "Proprietari privati, gestione EuroParcs",
-  "thanks_h": "Grazie per il tuo messaggio",
-  "thanks_p": "Ti risponderemo il prima possibile.",
-  "thanks_back": "Torna al sito",
-  "tips_eyebrow": "I nostri consigli",
-  "tips_h2": "Testati dalla nostra famiglia",
-  "tips_intro": "I nostri posti preferiti nei dintorni, raccolti durante le vacanze con i nostri figli.",
-  "nav_tips": "Consigli",
-  "cats": [
-   [
-    "Mangiare e bere",
-    [
-     [
-      "Gasthof Waldemar",
-      "Kreuth, Hermagor",
-      "Autentica cucina austriaca in un ambiente speciale. Meglio prenotare!",
-      "https://waldemar.at/"
-     ],
-     [
-      "Zeitwirt's",
-      "Sul lago Pressegger See",
-      "Ristorante in riva al lago, a pochi minuti dal parco.",
-      "http://www.zeitwirts.at"
-     ],
-     [
-      "Zum Alois",
-      "Tröpolach",
-      "Pizzeria e ristorante proprio alla stazione a valle del Millennium Express. D'inverno il nostro indirizzo fisso per l'après-ski.",
-      "https://www.zumalois.at/"
-     ]
-    ]
-   ],
-   [
-    "Gite",
-    [
-     [
-      "Gola Garnitzenklamm",
-      "Möderndorf, vicino a Hermagor",
-      "Una gola lunga circa 4,5 km con cascate, pareti rocciose e pozze color smeraldo. Aperta nella stagione calda; alcuni tratti richiedono passo sicuro.",
-      "https://www.garnitzenklamm.at/"
-     ],
-     [
-      "SUP sul lago",
-      "Lago Pressegger See",
-      "In piedi sulla tavola sull'acqua calma e limpida. Bellissimo in una giornata mite di primavera o d'autunno.",
-      ""
-     ],
-     [
-      "Villach e Klagenfurt",
-      "Giornata in città",
-      "Due affascinanti città della Carinzia per una giornata di shopping, caffè e cultura.",
-      ""
-     ],
-     [
-      "Kärnten Therme",
-      "Warmbad-Villach",
-      "Parco termale con scivoli, fiume a corrente e un'area per i più piccoli. Aperto tutto l'anno, ideale nei giorni di pioggia.",
-      "https://www.kaerntentherme.com/"
-     ],
-     [
-      "Affenberg e Adlerarena",
-      "Castello di Landskron, vicino a Villach",
-      "Circa 180 macachi giapponesi in un grande recinto all'aperto e, poco sopra, uno spettacolo di rapaci al castello. Da aprile a ottobre.",
-      "https://www.adlerarena.com/"
-     ]
-    ]
-   ],
-   [
-    "Informazioni utili",
-    [
-     [
-      "Obbligatorio in auto",
-      "Austria",
-      "Triangolo, un giubbotto catarifrangente per ogni passeggero, una cassetta di pronto soccorso non scaduta e la vignetta autostradale (digitale da ASFINAG o in un distributore prima del confine). La polizia a volte controlla.",
-      "https://shop.asfinag.at/"
-     ]
-    ]
-   ]
-  ],
-  "more": "Più info",
-  "social": "Seguici",
-  "photos": {
-   "hero": "/img/hero.jpg",
-   "living": "/img/living.jpg",
-   "kitchen": "/img/kitchen.jpg",
-   "terrace": "/img/terrace.jpg"
-  },
-  "gallery": [
-   [
-    "/img/fireplace.jpg",
-    "Salotto con camino"
-   ],
-   [
-    "/img/dining.jpg",
-    "Tavolo da pranzo per sei"
-   ],
-   [
-    "/img/bed-double.jpg",
-    "Camera con letto matrimoniale"
-   ],
-   [
-    "/img/bed-twin.jpg",
-    "Camera con due letti singoli"
-   ],
-   [
-    "/img/bed-bunk.jpg",
-    "Camera con letto a castello"
-   ],
-   [
-    "/img/evening.jpg",
-    "Serata accogliente"
-   ],
-   [
-    "/img/terrace-summer.jpg",
-    "Terrazza coperta con tavolo per sei"
-   ],
-   [
-    "/img/morning.jpg",
-    "Mattina d'inverno soleggiata"
-   ]
-  ],
-  "nature": [
-   [
-    "/img/alm-cows.jpg",
-    "Mucche all'alpeggio"
-   ],
-   [
-    "/img/alpine-lake.jpg",
-    "Laghetti e pascoli alpini"
-   ],
-   [
-    "/img/forest-path.jpg",
-    "Sentieri tranquilli nel bosco"
-   ]
-  ],
-  "og_locale": "it_IT",
-  "nav_kids": "Per i bambini",
-  "sticker": "Avventura per tutta la famiglia!",
-  "kids_eyebrow": "Per i bambini",
-  "kids_h2": "Qualcosa di divertente per ogni età",
-  "kids_intro": "Dagli schizzi all'arrampicata: i nostri preferiti per bambini e ragazzi dai 4 ai 16 anni.",
-  "kids": [
-   [
-    "4–8 anni",
-    "Schizzi e scoperte",
-    [
-     [
-      "Aqua Trail sul Nassfeld",
-      "Percorso gioco di 1,5 km in montagna: costruire dighe, fontane e una vera barca a vela. Da giugno a settembre."
-     ],
-     [
-      "Nel parco e dintorni",
-      "Parco giochi, trampolino gonfiabile, una Escape Box e la caccia al tesoro Yuki. In stagione la piscina esterna riscaldata e il lido Schluga con gonfiabile in acqua, gratis con il braccialetto arancione."
-     ],
-     [
-      "Parco divertimenti sul lago",
-      "Scivolo nel lago, mini auto e un'area bimbi. Da fine giugno a metà settembre."
-     ]
-    ]
-   ],
-   [
-    "9–12 anni",
-    "Velocità e avventura",
-    [
-     [
-      "Slittino estivo Pendolino",
-      "Su in cabinovia e giù per 2 km sulla pista di slittino estivo più lunga della Carinzia. Da giugno a settembre."
-     ],
-     [
-      "Gola Garnitzenklamm",
-      "Cascate, ponticelli e un geotrail nella gola. Scarpe robuste!"
-     ],
-     [
-      "SUP e bici",
-      "In SUP sul lago o in bici nella valle pianeggiante del Gail."
-     ]
-    ]
-   ],
-   [
-    "13–16 anni",
-    "Sfide e panorami",
-    [
-     [
-      "Outdoor Park Nassfeld",
-      "Labirinto di roccia, flying fox e tiro con l'arco 3D. A giugno e settembre ogni giorno col bel tempo, fine maggio e ottobre su richiesta."
-     ],
-     [
-      "Conquistare una vetta",
-      "Insieme fino alla croce di vetta, con vista oltre il confine italiano."
-     ],
-     [
-      "Giornata a Villach",
-      "Shopping, gelati e caffè nella città più grande della zona."
-     ]
-    ]
-   ]
-  ],
-  "kids_note": "Gli orari variano per stagione e anno. Controllate prima su nassfeld.at.",
-  "ph_family": "Insieme nel bosco",
-  "ph_summit": "In cima alla vetta",
-  "kidpics": [
-   [
-    "/img/kids-donkey.jpg",
-    "Nuovi amici lungo il cammino"
-   ],
-   [
-    "/img/kids-water.jpg",
-    "Arrampicarsi e tuffarsi in acqua"
-   ],
-   [
-    "/img/kids-gorge.jpg",
-    "Alla scoperta della gola"
-   ],
-   [
-    "/img/summit.jpg",
-    "In cima alla vetta"
-   ]
-  ],
-  "bar_text": "Panorama Lodge · fino a 6 persone",
-  "about_eyebrow": "Chi siamo",
-  "about_h2": "Il nostro angolo tra le montagne",
-  "about": [
-   "La nostra casa vacanze è nata dall'amore per la natura e per la quiete delle montagne. Il tempo con la famiglia e gli amici: per noi sono questi i momenti che contano davvero.",
-   "Quando abbiamo avuto l'occasione di comprare una casa all'EuroParcs Pressegger See, tutto è andato al suo posto. La posizione, l'atmosfera e il mix di lago, montagne e attività erano proprio ciò che cercavamo.",
-   "EuroParcs si occupa della gestione sul posto. Potete quindi contare su un servizio locale e un'accoglienza calorosa, e noi vi diamo volentieri qualche consiglio."
-  ],
-  "ph_about": "Mattina di sole sulla terrazza",
-  "nav_about": "Chi siamo",
-  "about_sign": "Un caro saluto, Sander & Maud",
-  "nav_winter": "Inverno",
-  "winter_eyebrow": "Sport invernali",
-  "winter_h2": "Sciare sul Nassfeld",
-  "winter_intro": "Noi stessi sciamo sul Nassfeld ogni anno: il comprensorio più grande e soleggiato della Carinzia, a poca distanza dal lodge. Secondo la regione ha circa 100 ore di sole in più rispetto alle Alpi settentrionali.",
-  "winter_facts": [
-   [
-    "110 km",
-    "di piste: 30 km blu, 69 km rosse, 11 km nere"
-   ],
-   [
-    "± 30",
-    "impianti di risalita, fino a circa 2.000 m"
-   ],
-   [
-    "7,6 km",
-    "la discesa a valle Carnia, la più lunga del comprensorio"
-   ],
-   [
-    "dic – apr",
-    "stagione sciistica, nel 2026/27 dal 4 dicembre al 4 aprile"
-   ]
-  ],
-  "winter_cards": [
-   [
-    "Su con il Millennium Express",
-    "Da Tröpolach la cabinovia vi porta in tre tratti a quasi 1.900 m. Lo skibus ferma a poche centinaia di metri dal parco, quindi l'auto può restare ferma."
-   ],
-   [
-    "Sciare con i bambini",
-    "Quattro aree bimbi protette con tapis roulant, scuole di sci per bambini dai 4 anni e assistenza all'infanzia dai 2,5 anni. Sotto i 10 anni l'attrezzatura da sci è gratuita, e in alcune settimane ci sono sconti extra per bambini."
-   ],
-   [
-    "Il nostro giro fisso",
-    "Partiamo sempre dal Millennium Express e noleggiamo un armadietto a valle, così non c'è nulla da portare. Poi après-ski allo Zum Alois, proprio alla stazione a valle."
-   ],
-   [
-    "Non solo sci",
-    "Slittino sulle piste naturali di Guggenberg (2 km) e Weissbriach (3 km), 90 km di piste da fondo, 160 km di sentieri invernali e ciaspolate."
-   ],
-   [
-    "Pattinare sul Weissensee",
-    "D'inverno il Weissensee diventa la più grande superficie di ghiaccio naturale preparata d'Europa (6,5 km²). Controllate prima il bollettino del ghiaccio."
-   ],
-   [
-    "Comodo nel parco",
-    "Un locale asciuga-sci (a pagamento), panini freschi alla reception e un negozio nel parco per la spesa."
-   ]
-  ],
-  "winter_note": "Date della stagione, orari degli impianti e sconti cambiano ogni anno. Informazioni aggiornate su nassfeld.at.",
-  "ph_ski1": "In pista con vista sulle Alpi Carniche",
-  "ph_ski2": "Neve fresca accanto all'impianto",
-  "ph_nassfeld": "Il Nassfeld a marzo: ancora tanta neve",
-  "ph_winterlodge": "Il lodge sotto la neve",
-  "summer_label": "Estate (lug–ago)",
-  "summer": [
-   [
-    "Tutta l'estate",
-    "Nuotare nel Pressegger See",
-    "Uno dei laghi più caldi della Carinzia. Il lido Schluga confina con il parco, con gonfiabile in acqua, beach volley e campo da calcio."
-   ],
-   [
-    "Fine giugno – metà sett",
-    "Parco divertimenti sul lago",
-    "Scivolo nel lago, mini auto e un'area bimbi, a pochi minuti dal parco."
-   ],
-   [
-    "Lug–ago",
-    "Pendolino e Aqua Trail",
-    "Tutti gli impianti estivi del Nassfeld sono aperti. Con la +CARD salite gratis: prima si gioca sull'Aqua Trail, poi giù con lo slittino estivo."
-   ],
-   [
-    "Lug–ago",
-    "Gola Garnitzenklamm",
-    "Un po' di fresco nella gola vicino a Hermagor: cascate, ponticelli e pozze smeraldo. Scarpe robuste!"
-   ],
-   [
-    "Gita in giornata",
-    "Affenberg e Adlerarena",
-    "Macachi giapponesi e uno spettacolo di rapaci al castello di Landskron, vicino a Villach."
-   ]
-  ]
- },
- "pl": {
-  "book_code": "pl",
-  "thanks_slug": "dziekujemy",
-  "country": "Austria",
-  "title": "Panorama Lodge nad jeziorem Pressegger See · Rodzinne wakacje w Karyntii",
-  "meta": "Wolnostojący domek dla rodzin do 6 osób w EuroParcs Pressegger See: 3 sypialnie z łóżkiem piętrowym, basen i plac zabaw w parku. Idealny na majówkę i jesień.",
-  "nav_label": "Menu główne",
-  "nav": [
-   "Domek",
-   "Dla dzieci",
-   "Pory roku",
-   "Rezerwacja"
-  ],
-  "cta_avail": "Wolne terminy",
-  "cta_dates": "Zobacz wolne terminy i ceny",
-  "cta_house": "Zajrzyj do środka",
-  "cta_book": "Dostępność i rezerwacja",
-  "eyebrow": "Rodzinne wakacje w Karyntii, Austria",
-  "h1": "Odkrywajcie góry razem. Bez letnich tłumów.",
-  "lead": "Nasz Panorama Lodge jest stworzony dla rodzin: trzy sypialnie (tak, z łóżkiem piętrowym), duży stół na wspólne wieczory i park z basenem i placem zabaw. Jezioro i góry są tuż obok.",
-  "facts": [
-   "Do 6 osób",
-   "Pokój z łóżkiem piętrowym",
-   "Basen w parku",
-   "Bezpłatne Wi-Fi"
-  ],
-  "ph_hero": "Panorama Lodge w słońcu, poza sezonem",
-  "why_eyebrow": "Dlaczego wiosną lub jesienią?",
-  "why_h2": "Więcej czasu razem, mniej czekania",
-  "why": [
-   [
-    "Bez kolejek",
-    "Poza lipcem i sierpniem przy wyciągach, na szlakach i nad jeziorem jest spokojnie. Więcej miejsca na wspólne odkrywanie."
-   ],
-   [
-    "Majówka i jesień",
-    "Wiosna i jesień to idealny czas na majówkę lub krótki jesienny wyjazd. Aktywny odpoczynek w górach."
-   ],
-   [
-    "Miejsce dla wszystkich",
-    "Wolnostojący domek z trzema sypialniami. Dzieci mają swój pokój, a Wy śpicie spokojnie w sypialni rodziców."
-   ],
-   [
-    "Wszystko w parku",
-    "Podgrzewany basen zewnętrzny (od połowy maja do początku października), drewniany plac zabaw, dmuchana trampolina i restauracja. Kąpielisko nad jeziorem graniczy z parkiem."
-   ],
-   [
-    "Bezpłatna +CARD Holiday",
-    "Przy pobycie od połowy maja do listopada dostajecie +CARD: bezpłatne autobusy regionalne i bezpłatne letnie kolejki na Nassfeld, a do tego zniżki w regionie."
-   ]
-  ],
-  "todo_eyebrow": "Pory roku",
-  "todo_h2": "Co robić w każdym sezonie",
-  "toggle_label": "Wybierz sezon",
-  "spring_label": "Wiosna (kwi–cze)",
-  "autumn_label": "Jesień (wrz–lis)",
-  "spring": [
-   [
-    "Majówka",
-    "Wokół jeziora Pressegger See",
-    "5,9 km po płaskim wśród trzcin, około półtorej godziny. Łatwe nawet dla małych nóżek."
-   ],
-   [
-    "Od połowy maja",
-    "+CARD Holiday",
-    "Od połowy maja przy przyjeździe dostajecie +CARD: bezpłatne autobusy po regionie i bezpłatny wjazd letnimi kolejkami."
-   ],
-   [
-    "Połowa maja",
-    "Kärntner Wanderopening",
-    "Region otwiera sezon wędrówek świątecznym weekendem w pobliskiej dolinie Lesachtal."
-   ],
-   [
-    "Kwiecień–czerwiec",
-    "Rowerem przez dolinę Gail",
-    "Płaskie trasy, idealne dla dzieci na własnych rowerach. W okolicy można wypożyczyć e-rowery."
-   ],
-   [
-    "Od czerwca",
-    "Aqua Trail i Pendolino",
-    "Gdy w czerwcu ruszają kolejki: najpierw zabawa na Aqua Trail, potem w dół letnim torem saneczkowym."
-   ],
-   [
-    "Cała wiosna",
-    "Szukanie skamieniałości",
-    "W Geoparku Alp Karnickich chodzicie po dawnym dnie morza. Kto znajdzie pierwszą skamieniałość?"
-   ]
-  ],
-  "autumn": [
-   [
-    "Wrzesień",
-    "Wspinaczka w Outdoor Park",
-    "Skalny labirynt i tyrolka na Nassfeld. We wrześniu codziennie przy dobrej pogodzie, w październiku na zapytanie."
-   ],
-   [
-    "Wrz – pocz. lis",
-    "Jesienny program regionu",
-    "Wędrówki z przewodnikiem i wycieczki rowerowe, z jesiennymi piknikami nad jeziorami i rzekami."
-   ],
-   [
-    "Każda sobota",
-    "Targ rolniczy w Hermagor",
-    "Chleb, sery i sok jabłkowy od rolników, w miasteczku blisko parku."
-   ],
-   [
-    "Październik",
-    "Złote modrzewie",
-    "Spokojne trasy piesze i rowerowe przez dolinę Gail, góry w najpiękniejszych kolorach."
-   ],
-   [
-    "Wycieczka",
-    "Jezioro Weissensee",
-    "Jedno z najczystszych jezior Austrii. Jesienią ciche i gładkie, idealne do puszczania kaczek."
-   ]
-  ],
-  "todo_note": "Terminy i godziny otwarcia zmieniają się co roku. Aktualny program znajdziecie na nassfeld.at.",
-  "house_eyebrow": "Domek",
-  "house_text": "W dzień w góry, wieczorem wszyscy razem przy dużym drewnianym stole. Dzieci mają swój pokój z łóżkiem piętrowym, a Wy śpicie spokojnie w sypialni rodziców. A na słonecznym tarasie wypijecie kawę, gdy dzieci bawią się na zewnątrz.",
-  "ph_living": "Salon z panoramicznymi oknami",
-  "ph_kitchen": "Otwarta kuchnia",
-  "ph_terrace": "Słoneczny taras z widokiem",
-  "chips": [
-   "Do 6 osób",
-   "Sypialnia z łóżkiem podwójnym",
-   "Sypialnia z 2 łóżkami pojedynczymi",
-   "Sypialnia z łóżkiem piętrowym",
-   "Łazienka z prysznicem",
-   "Osobna toaleta",
-   "Otwarta kuchnia ze zmywarką i piekarnikiem",
-   "Kącik wypoczynkowy z TV",
-   "Słoneczny taras z meblami ogrodowymi",
-   "Bezpłatne Wi-Fi",
-   "1 miejsce parkingowe"
-  ],
-  "park_h3": "Na terenie parku",
-  "park": [
-   "Podgrzewany basen zewnętrzny (poł. maja – pocz. paź.)",
-   "Drewniany plac zabaw i dmuchana trampolina",
-   "Restauracja i pizzeria",
-   "Dostawa bułek i sklepik",
-   "Suszarnia nart",
-   "Kąpielisko Schluga graniczy z parkiem",
-   "Bezpłatne AlpinSPA w EuroParcs Hermagor·Nassfeld"
-  ],
-  "book_eyebrow": "Rezerwacja",
-  "book_h2": "Macie ochotę na rodzinne wakacje w górach?",
-  "book_text": "Sprawdźcie wolne terminy i ceny w naszym systemie rezerwacji i zarezerwujcie od razu. Pytania o majówkę, jesień albo atrakcje dla Waszych dzieci? Napiszcie do nas, chętnie pomożemy.",
-  "addr_label": "Adres",
-  "form": {
-   "h3": "Zadajcie pytanie",
-   "name": "Imię i nazwisko",
-   "email": "Adres e-mail",
-   "arrive": "Przyjazd",
-   "leave": "Wyjazd",
-   "guests": "Liczba osób",
-   "msg": "Wiadomość (np. wiek dzieci)",
-   "send": "Wyślij",
-   "privacy": "Twoje dane wykorzystujemy wyłącznie do odpowiedzi na Twoje pytanie.",
-   "optional": "opcjonalnie"
-  },
-  "footer": "Prywatni właściciele, zarządzanie EuroParcs",
-  "thanks_h": "Dziękujemy za wiadomość",
-  "thanks_p": "Odpowiemy najszybciej, jak to możliwe.",
-  "thanks_back": "Powrót do strony",
-  "tips_eyebrow": "Nasze wskazówki",
-  "tips_h2": "Sprawdzone przez naszą rodzinę",
-  "tips_intro": "Nasze ulubione miejsca w okolicy, zebrane podczas wakacji z dziećmi.",
-  "nav_tips": "Wskazówki",
-  "cats": [
-   [
-    "Jedzenie i picie",
-    [
-     [
-      "Gasthof Waldemar",
-      "Kreuth, Hermagor",
-      "Prawdziwa austriacka kuchnia w wyjątkowym otoczeniu. Warto zarezerwować!",
-      "https://waldemar.at/"
-     ],
-     [
-      "Zeitwirt's",
-      "Nad jeziorem Pressegger See",
-      "Restauracja tuż nad jeziorem, kilka minut od parku.",
-      "http://www.zeitwirts.at"
-     ],
-     [
-      "Zum Alois",
-      "Tröpolach",
-      "Pizzeria i restauracja przy dolnej stacji kolejki Millennium Express. Zimą nasze stałe miejsce na après-ski.",
-      "https://www.zumalois.at/"
-     ]
-    ]
-   ],
-   [
-    "Wycieczki",
-    [
-     [
-      "Wąwóz Garnitzenklamm",
-      "Möderndorf, koło Hermagor",
-      "Wąwóz długości ok. 4,5 km z wodospadami, stromymi ścianami skalnymi i szmaragdowymi oczkami wodnymi. Otwarty w cieplejszych miesiącach; niektóre odcinki wymagają pewnego kroku.",
-      "https://www.garnitzenklamm.at/"
-     ],
-     [
-      "SUP na jeziorze",
-      "Jezioro Pressegger See",
-      "Na desce SUP po spokojnej, czystej wodzie. Cudownie w łagodny wiosenny lub jesienny dzień.",
-      ""
-     ],
-     [
-      "Villach i Klagenfurt",
-      "Dzień w mieście",
-      "Dwa urokliwe miasta Karyntii na dzień zakupów, kawiarni i kultury.",
-      ""
-     ],
-     [
-      "Kärnten Therme",
-      "Warmbad-Villach",
-      "Park wodny z termami, zjeżdżalniami, rwącą rzeką i strefą dla maluchów. Otwarty cały rok, idealny na deszczowy dzień.",
-      "https://www.kaerntentherme.com/"
-     ],
-     [
-      "Affenberg i Adlerarena",
-      "Zamek Landskron, koło Villach",
-      "Około 180 makaków japońskich na dużym wybiegu, a tuż powyżej pokaz ptaków drapieżnych przy zamku. Od kwietnia do października.",
-      "https://www.adlerarena.com/"
-     ]
-    ]
-   ],
-   [
-    "Praktyczne",
-    [
-     [
-      "Obowiązkowo w samochodzie",
-      "Austria",
-      "Trójkąt ostrzegawczy, kamizelka odblaskowa dla każdego pasażera, ważna apteczka i winieta autostradowa (cyfrowa w ASFINAG lub na stacji przed granicą). Policja czasem to sprawdza.",
-      "https://shop.asfinag.at/"
-     ]
-    ]
-   ]
-  ],
-  "more": "Więcej",
-  "social": "Obserwuj nas",
-  "photos": {
-   "hero": "/img/hero.jpg",
-   "living": "/img/living.jpg",
-   "kitchen": "/img/kitchen.jpg",
-   "terrace": "/img/terrace.jpg"
-  },
-  "gallery": [
-   [
-    "/img/fireplace.jpg",
-    "Kącik wypoczynkowy z kominkiem"
-   ],
-   [
-    "/img/dining.jpg",
-    "Stół dla sześciu osób"
-   ],
-   [
-    "/img/bed-double.jpg",
-    "Sypialnia z łóżkiem podwójnym"
-   ],
-   [
-    "/img/bed-twin.jpg",
-    "Sypialnia z dwoma łóżkami"
-   ],
-   [
-    "/img/bed-bunk.jpg",
-    "Pokój z łóżkiem piętrowym"
-   ],
-   [
-    "/img/evening.jpg",
-    "Przytulny wieczór"
-   ],
-   [
-    "/img/terrace-summer.jpg",
-    "Zadaszony taras ze stołem dla sześciu osób"
-   ],
-   [
-    "/img/morning.jpg",
-    "Słoneczny zimowy poranek"
-   ]
-  ],
-  "nature": [
-   [
-    "/img/alm-cows.jpg",
-    "Krowy na hali"
-   ],
-   [
-    "/img/alpine-lake.jpg",
-    "Górskie jeziorka i łąki"
-   ],
-   [
-    "/img/forest-path.jpg",
-    "Spokojne leśne ścieżki"
-   ]
-  ],
-  "og_locale": "pl_PL",
-  "nav_kids": "Dla dzieci",
-  "sticker": "Przygoda dla całej rodziny!",
-  "kids_eyebrow": "Dla dzieci",
-  "kids_h2": "Coś fajnego dla każdego wieku",
-  "kids_intro": "Od pluskania po wspinaczkę: nasze ulubione atrakcje dla dzieci od 4 do 16 lat.",
-  "kids": [
-   [
-    "4–8 lat",
-    "Pluskanie i odkrywanie",
-    [
-     [
-      "Aqua Trail na Nassfeld",
-      "1,5 km ścieżka zabaw w górach: budowanie tam, fontanny i prawdziwa żaglówka. Od czerwca do września."
-     ],
-     [
-      "W parku i wokół niego",
-      "Plac zabaw, dmuchana trampolina, Escape Box i poszukiwanie skarbów Yuki. W sezonie podgrzewany basen i kąpielisko Schluga z dmuchańcem na wodzie, bezpłatnie z pomarańczową opaską."
-     ],
-     [
-      "Park rozrywki nad jeziorem",
-      "Zjeżdżalnia do jeziora, mini samochodziki i strefa dla dzieci. Od końca czerwca do połowy września."
-     ]
-    ]
-   ],
-   [
-    "9–12 lat",
-    "Prędkość i przygoda",
-    [
-     [
-      "Letni tor saneczkowy Pendolino",
-      "Gondolą w górę i 2 km w dół najdłuższym letnim torem saneczkowym Karyntii. Od czerwca do września."
-     ],
-     [
-      "Wąwóz Garnitzenklamm",
-      "Wodospady, mostki i geościeżka przez wąwóz. Załóżcie solidne buty!"
-     ],
-     [
-      "SUP i rower",
-      "Na desce SUP po jeziorze albo rowerem przez płaską dolinę Gail."
-     ]
-    ]
-   ],
-   [
-    "13–16 lat",
-    "Wyzwania i widoki",
-    [
-     [
-      "Outdoor Park Nassfeld",
-      "Skalny labirynt, tyrolka i łucznictwo 3D. W czerwcu i wrześniu codziennie przy dobrej pogodzie, pod koniec maja i w październiku na zapytanie."
-     ],
-     [
-      "Zdobyć prawdziwy szczyt",
-      "Razem pod krzyż szczytowy, z widokiem aż za granicę włoską."
-     ],
-     [
-      "Dzień w Villach",
-      "Zakupy, lody i kawiarnie w największym mieście regionu."
-     ]
-    ]
-   ]
-  ],
-  "kids_note": "Godziny otwarcia zależą od sezonu i roku. Sprawdźcie je wcześniej na nassfeld.at.",
-  "ph_family": "Razem na leśnej ścieżce",
-  "ph_summit": "Na samym szczycie",
-  "kidpics": [
-   [
-    "/img/kids-donkey.jpg",
-    "Nowi przyjaciele po drodze"
-   ],
-   [
-    "/img/kids-water.jpg",
-    "Wspinaczka i skoki na wodzie"
-   ],
-   [
-    "/img/kids-gorge.jpg",
-    "Odkrywanie wąwozu"
-   ],
-   [
-    "/img/summit.jpg",
-    "Na samym szczycie"
-   ]
-  ],
-  "bar_text": "Panorama Lodge · do 6 osób",
-  "about_eyebrow": "O nas",
-  "about_h2": "Nasze miejsce w górach",
-  "about": [
-   "Nasz domek powstał z miłości do natury i górskiego spokoju. Czas z rodziną i przyjaciółmi: to dla nas chwile, które naprawdę się liczą.",
-   "Gdy pojawiła się szansa kupna domku w EuroParcs Pressegger See, wszystko do siebie pasowało. Położenie, atmosfera i połączenie jeziora, gór i atrakcji to dokładnie to, czego szukaliśmy.",
-   "Na miejscu wszystkim zajmuje się EuroParcs. Możecie więc liczyć na lokalną obsługę i serdeczne powitanie, a my chętnie podzielimy się wskazówkami."
-  ],
-  "ph_about": "Słoneczny poranek na tarasie",
-  "nav_about": "O nas",
-  "about_sign": "Pozdrawiamy, Sander i Maud",
-  "nav_winter": "Zima",
-  "winter_eyebrow": "Sporty zimowe",
-  "winter_h2": "Narty na Nassfeld",
-  "winter_intro": "Sami co roku jeździmy na nartach na Nassfeld: to największy i najbardziej słoneczny ośrodek narciarski Karyntii, niedaleko od domku. Według regionu ma około 100 godzin słońca więcej niż Alpy północne.",
-  "winter_facts": [
-   [
-    "110 km",
-    "tras: 30 km niebieskich, 69 km czerwonych, 11 km czarnych"
-   ],
-   [
-    "± 30",
-    "wyciągów i kolejek, do ok. 2000 m"
-   ],
-   [
-    "7,6 km",
-    "zjazd do doliny Carnia, najdłuższa trasa w ośrodku"
-   ],
-   [
-    "gru – kwi",
-    "sezon narciarski, w 2026/27 od 4 grudnia do 4 kwietnia"
-   ]
-  ],
-  "winter_cards": [
-   [
-    "W górę kolejką Millennium-Express",
-    "Z Tröpolach gondola zabiera Was w trzech odcinkach na prawie 1900 m. Skibus zatrzymuje się kilkaset metrów od parku, więc samochód może zostać na miejscu."
-   ],
-   [
-    "Narty z dziećmi",
-    "Cztery zabezpieczone strefy dla dzieci z taśmociągami, szkoły narciarskie dla dzieci od 4 lat i opieka nad dziećmi od 2,5 roku. Dzieci poniżej 10 lat dostają sprzęt narciarski za darmo, a w niektórych tygodniach są dodatkowe zniżki dla dzieci."
-   ],
-   [
-    "Nasza stała trasa",
-    "Zawsze startujemy z Millennium-Express i wynajmujemy na dole szafkę na narty, więc nie trzeba nic nosić. Potem après-ski w Zum Alois, tuż przy dolnej stacji."
-   ],
-   [
-    "Nie tylko narty",
-    "Sanki na naturalnych torach Guggenberg (2 km) i Weissbriach (3 km), 90 km tras biegowych, 160 km zimowych szlaków i wędrówki w rakietach śnieżnych."
-   ],
-   [
-    "Łyżwy na Weissensee",
-    "Zimą Weissensee staje się największą przygotowaną naturalną taflą lodu w Europie (6,5 km²). Wcześniej sprawdźcie raport lodowy."
-   ],
-   [
-    "Wygodnie w parku",
-    "Suszarnia nart (płatna), świeże bułki w recepcji i sklepik w parku na zakupy."
-   ]
-  ],
-  "winter_note": "Daty sezonu, godziny pracy wyciągów i zniżki zmieniają się co roku. Aktualne informacje na nassfeld.at.",
-  "ph_ski1": "Na stoku z widokiem na Alpy Karnickie",
-  "ph_ski2": "Świeży puch obok wyciągu",
-  "ph_nassfeld": "Nassfeld w marcu: wciąż dużo śniegu",
-  "ph_winterlodge": "Domek w śniegu",
-  "summer_label": "Lato (lip–sie)",
-  "summer": [
-   [
-    "Całe lato",
-    "Kąpiel w Pressegger See",
-    "Jedno z najcieplejszych jezior Karyntii. Kąpielisko Schluga graniczy z parkiem, z dmuchańcem na wodzie, siatkówką plażową i boiskiem."
-   ],
-   [
-    "Koniec czerwca – poł. wrz.",
-    "Park rozrywki nad jeziorem",
-    "Zjeżdżalnia do jeziora, mini samochodziki i strefa dla dzieci, kilka minut od parku."
-   ],
-   [
-    "Lip–sie",
-    "Pendolino i Aqua Trail",
-    "Działają wszystkie letnie kolejki na Nassfeld. Z +CARD wjeżdżacie za darmo: najpierw zabawa na Aqua Trail, potem w dół letnim torem saneczkowym."
-   ],
-   [
-    "Lip–sie",
-    "Wąwóz Garnitzenklamm",
-    "Ochłoda w wąwozie koło Hermagor: wodospady, mostki i szmaragdowe oczka wodne. Solidne buty!"
-   ],
-   [
-    "Wycieczka",
-    "Affenberg i Adlerarena",
-    "Makaki japońskie i pokaz ptaków drapieżnych przy zamku Landskron, koło Villach."
-   ]
-  ]
- }
+  }
 }

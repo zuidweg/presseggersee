@@ -107,10 +107,11 @@
 <p style="margin-top:16px;font-weight:600">Indirizzo</p>
 <p class="muted">EuroParcs Pressegger See · Presseggen 29, 9620 Presseggen, Austria</p>
 </div>
-<form class="req" name="aanvraag" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/it/grazie">
+<!--
 <input type="hidden" name="taal" value="it">
 <input type="hidden" name="subject" value="Aanvraag presseggersee.nl (IT)">
-<p class="hp"><label>Leave empty <input name="bot-field"></label></p>
+<p class="hp"><label>Leave empty <input name="_honey" tabindex="-1" autocomplete="off"></label></p>
+<input type="hidden" name="_captcha" value="false">
 <h3>Scriveteci</h3>
 <label>Nome<input type="text" name="naam" required autocomplete="name"></label>
 <label>Indirizzo e-mail<input type="email" name="email" required autocomplete="email"></label>
@@ -122,7 +123,7 @@
 <label>Messaggio (es. età dei bambini)<textarea name="bericht" rows="3"></textarea></label>
 <button type="submit">Invia</button>
 <p class="small">Usiamo i tuoi dati solo per rispondere alla tua richiesta.</p>
-</form>
+</form>-->
 </div></section>
 </main>
 <div class="bookbar"><span>Panorama Lodge · fino a 6 persone</span><a class="btn btn-accent" href="https://app.bookingexperts.com/it/ra/2550/170233/yPRubT8wL8fEWsHmhLcCUjPLvu7WBb44R3rdTbEs" rel="noopener">Date libere</a></div>
@@ -135,9 +136,9 @@ document.querySelectorAll('.toggle button').forEach(function(o){o.setAttribute('
 box.innerHTML=d[b.dataset.s].map(function(a){return '<div class="act"><p class="when">'+esc(a[0])+'</p><div class="what"><h3>'+esc(a[1])+'</h3><p class="muted">'+esc(a[2])+'</p></div></div>'}).join('');
 })});
 var fm=document.querySelector('form.req');if(fm){fm.addEventListener('submit',function(ev){ev.preventDefault();var btn=fm.querySelector('button[type=submit]');btn.disabled=true;
-fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(new FormData(fm)).toString()})
-.then(function(r){if(!r.ok)throw new Error(r.status);window.location.href=fm.getAttribute('action')})
-.catch(function(){btn.disabled=false;fm.submit()});})}
+fetch(fm.dataset.endpoint,{method:'POST',headers:{'Accept':'application/json'},body:new FormData(fm)})
+.then(function(r){if(!r.ok)throw new Error(r.status);window.location.href=fm.dataset.thanks})
+.catch(function(){btn.disabled=false;alert(fm.dataset.err)});})}
 var m=new Date().getMonth();var pick=(m>=5&&m<=7)?'summer':(m>=8?'autumn':'spring');if(pick!=='spring'){document.querySelector('.toggle button[data-s='+pick+']').click()}
 })();
 </script>

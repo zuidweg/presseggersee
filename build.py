@@ -7,6 +7,13 @@ DIST = os.path.join(ROOT, "dist")
 BOOK = "https://app.bookingexperts.com/{code}/ra/2550/170233/yPRubT8wL8fEWsHmhLcCUjPLvu7WBb44R3rdTbEs"
 SITE = "https://presseggersee.nl"
 INDEXABLE = True  # False = noindex (niet in Google)
+# Formulier: endpoint van de formulierdienst (FormSubmit AJAX: https://formsubmit.co/ajax/<adres-of-alias>).
+# Leeg = formulier wordt niet getoond (alleen de boekknop).
+FORM_ENDPOINT = ""
+# Oude WordPress-adressen -> anker op de nieuwe site
+OLD_URLS = {"over-ons": "/#over-ons", "familie": "/#kids", "het-vakantiehuis": "/#huis", "omgeving": "/#omgeving",
+            "ervaringen": "/", "tips": "/#tips", "contact": "/#boeken", "boeking": "/#boeken",
+            "2025": "/#tips", "2023": "/#tips", "wp-admin": "/", "wp-login.php": "/", "feed": "/"}
 
 LANGS = json.load(open(os.path.join(ROOT, "content.json"), encoding="utf-8"))
 ORDER = ["nl", "de", "en", "it", "pl"]
@@ -31,6 +38,11 @@ def page(code):
         for c in ORDER)
     alt = "\n".join(f'<link rel="alternate" hreflang="{c}" href="{SITE}{path_of(c)}">' for c in ORDER)
     alt += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}/en/">'
+    if FORM_ENDPOINT:
+        form_open = f'<form class="req" method="POST" data-endpoint="{FORM_ENDPOINT}" data-thanks="{path_of(code)}{t['thanks_slug']}/" data-err="{e(t['form']['error'])}">'
+        form_close = ""
+    else:
+        form_open, form_close = "<!--", "-->"
     robots = "index,follow" if INDEXABLE else "noindex,nofollow"
     why = "".join(f'<div class="card"><h3>{e(h)}</h3><p>{e(p)}</p></div>' for h, p in t["why"])
     acts = json.dumps({"spring": t["spring"], "summer": t["summer"], "autumn": t["autumn"]}, ensure_ascii=False)
@@ -168,10 +180,11 @@ def page(code):
 <p style="margin-top:16px;font-weight:600">{e(t['addr_label'])}</p>
 <p class="muted">EuroParcs Pressegger See · Presseggen 29, 9620 Presseggen, {e(t["country"])}</p>
 </div>
-<form class="req" name="aanvraag" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="{path_of(code)}{t['thanks_slug']}">
+{form_open}
 <input type="hidden" name="taal" value="{code}">
 <input type="hidden" name="subject" value="Aanvraag presseggersee.nl ({code.upper()})">
-<p class="hp"><label>Leave empty <input name="bot-field"></label></p>
+<p class="hp"><label>Leave empty <input name="_honey" tabindex="-1" autocomplete="off"></label></p>
+<input type="hidden" name="_captcha" value="false">
 <h3>{e(f['h3'])}</h3>
 <label>{e(f['name'])}<input type="text" name="naam" required autocomplete="name"></label>
 <label>{e(f['email'])}<input type="email" name="email" required autocomplete="email"></label>
@@ -183,7 +196,7 @@ def page(code):
 <label>{e(f['msg'])}<textarea name="bericht" rows="3"></textarea></label>
 <button type="submit">{e(f['send'])}</button>
 <p class="small">{e(f['privacy'])}</p>
-</form>
+</form>{form_close}
 </div></section>
 </main>
 <div class="bookbar"><span>{e(t['bar_text'])}</span><a class="btn btn-accent" href="{book}" rel="noopener">{e(t['cta_avail'])}</a></div>
@@ -196,9 +209,9 @@ document.querySelectorAll('.toggle button').forEach(function(o){{o.setAttribute(
 box.innerHTML=d[b.dataset.s].map(function(a){{return '<div class="act"><p class="when">'+esc(a[0])+'</p><div class="what"><h3>'+esc(a[1])+'</h3><p class="muted">'+esc(a[2])+'</p></div></div>'}}).join('');
 }})}});
 var fm=document.querySelector('form.req');if(fm){{fm.addEventListener('submit',function(ev){{ev.preventDefault();var btn=fm.querySelector('button[type=submit]');btn.disabled=true;
-fetch('/',{{method:'POST',headers:{{'Content-Type':'application/x-www-form-urlencoded'}},body:new URLSearchParams(new FormData(fm)).toString()}})
-.then(function(r){{if(!r.ok)throw new Error(r.status);window.location.href=fm.getAttribute('action')}})
-.catch(function(){{btn.disabled=false;fm.submit()}});}})}}
+fetch(fm.dataset.endpoint,{{method:'POST',headers:{{'Accept':'application/json'}},body:new FormData(fm)}})
+.then(function(r){{if(!r.ok)throw new Error(r.status);window.location.href=fm.dataset.thanks}})
+.catch(function(){{btn.disabled=false;alert(fm.dataset.err)}});}})}}
 var m=new Date().getMonth();var pick=(m>=5&&m<=7)?'summer':(m>=8?'autumn':'spring');if(pick!=='spring'){{document.querySelector('.toggle button[data-s='+pick+']').click()}}
 }})();
 </script>
@@ -233,24 +246,19 @@ if __name__ == "__main__":
         open(os.path.join(d, LANGS[c]["thanks_slug"], "index.html"), "w", encoding="utf-8").write(thanks(c))
     robots = "User-agent: *\nAllow: /\nSitemap: https://presseggersee.nl/sitemap.xml\n" if INDEXABLE else "User-agent: *\nDisallow: /\n"
     open(os.path.join(DIST, "robots.txt"), "w").write(robots)
-    redirects = """# Oude WordPress-adressen
-/over-ons/*            /#over-ons  301
-/familie/*             /#kids      301
-/het-vakantiehuis/*    /#huis      301
-/omgeving/*            /#omgeving  301
-/ervaringen/*          /           301
-/tips/*                /#tips      301
-/contact/*             /#boeken    301
-/boeking/*             /#boeken    301
-/2025/12/16/verplicht-mee-in-de-auto/*      /#tips  301
-/2025/12/03/gasthof-waldemar/*              /#tips  301
-/2025/12/03/wintersport-millenium-express/* /#tips  301
-/2023/05/02/hello-world-3/*                 /#tips  301
-/wp-admin/*            /           301
-/wp-login.php          /           301
-/feed/*                /           301
-"""
-    open(os.path.join(DIST, "_redirects"), "w").write(redirects)
+    # GitHub Pages: eigen domein, geen Jekyll
+    open(os.path.join(DIST, "CNAME"), "w").write("presseggersee.nl\n")
+    open(os.path.join(DIST, ".nojekyll"), "w").write("")
+    # Oude WordPress-adressen: doorstuurpagina's + 404 die diepere adressen afvangt
+    for old, new in OLD_URLS.items():
+        if "." in old:
+            continue
+        os.makedirs(os.path.join(DIST, old), exist_ok=True)
+        open(os.path.join(DIST, old, "index.html"), "w").write(f'<!doctype html><meta charset="utf-8"><title>presseggersee.nl</title><meta name="robots" content="noindex"><link rel="canonical" href="{SITE}/"><meta http-equiv="refresh" content="0;url={new}"><script>location.replace("{new}")</script><a href="{new}">presseggersee.nl</a>')
+    js_map = json.dumps(OLD_URLS)
+    open(os.path.join(DIST, "404.html"), "w", encoding="utf-8").write(f"""<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Pagina niet gevonden · presseggersee.nl</title><meta name="robots" content="noindex"><link rel="stylesheet" href="/style.css">
+<script>(function(){{var m={js_map};var p=location.pathname.split("/").filter(Boolean);if(p.length){{var k=p[0];if(["de","en","it","pl"].indexOf(k)>-1){{location.replace("/"+k+"/");return}}if(m[k]){{location.replace(m[k]);return}}}}}})();</script></head>
+<body><main class="wrap thanks"><a class="logo" href="/">presseggersee<span>.nl</span></a><h1 style="font-size:44px">Pagina niet gevonden</h1><p class="muted" style="font-size:18px">Deze pagina bestaat niet (meer). Seite nicht gefunden · Page not found.</p><a class="btn btn-dark" href="/">Naar de homepage</a></main></body></html>""")
     sm = "".join(f"<url><loc>{SITE}{path_of(c)}</loc></url>" for c in ORDER)
     open(os.path.join(DIST, "sitemap.xml"), "w").write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>')
     print("ok")
