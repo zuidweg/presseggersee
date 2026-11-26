@@ -439,7 +439,35 @@
   "ph_ski1": "Op de piste met uitzicht over de Karnische Alpen",
   "ph_ski2": "Verse poedersneeuw naast de lift",
   "ph_nassfeld": "Het Nassfeld in maart: nog volop sneeuw",
-  "ph_winterlodge": "De lodge in de sneeuw"
+  "ph_winterlodge": "De lodge in de sneeuw",
+  "summer_label": "Zomer (jul–aug)",
+  "summer": [
+   [
+    "Hele zomer",
+    "Zwemmen in de Presseggersee",
+    "Een van de warmste meren van Karinthië. Strandbad Schluga grenst aan het park, met waterkussen, beachvolleybal en voetbalveld."
+   ],
+   [
+    "Eind juni – half sept",
+    "Erlebnispark aan het meer",
+    "Glijbaan het meer in, minicars en een kinderland, op een paar minuten van het park."
+   ],
+   [
+    "Jul–aug",
+    "Pendolino en Aqua Trail",
+    "Alle zomerbergbanen op het Nassfeld rijden. Met de +CARD ga je gratis omhoog: eerst spelen op de Aqua Trail, dan met de zomerrodelbaan naar beneden."
+   ],
+   [
+    "Jul–aug",
+    "Garnitzenklamm",
+    "Verkoeling in de kloof bij Hermagor: watervallen, bruggetjes en smaragdgroene poelen. Stevige schoenen aan!"
+   ],
+   [
+    "Dagtrip",
+    "Affenberg en Adlerarena",
+    "Japanse makaken en een roofvogelshow bij Burg Landskron, vlak bij Villach."
+   ]
+  ]
  },
  "de": {
   "book_code": "de",
@@ -881,7 +909,35 @@
   "ph_ski1": "Auf der Piste mit Blick über die Karnischen Alpen",
   "ph_ski2": "Frischer Pulverschnee neben dem Lift",
   "ph_nassfeld": "Das Nassfeld im März: noch reichlich Schnee",
-  "ph_winterlodge": "Die Lodge im Schnee"
+  "ph_winterlodge": "Die Lodge im Schnee",
+  "summer_label": "Sommer (Jul–Aug)",
+  "summer": [
+   [
+    "Ganzer Sommer",
+    "Baden im Pressegger See",
+    "Einer der wärmsten Seen Kärntens. Das Strandbad Schluga grenzt an den Park, mit Wasserkissen, Beachvolleyball und Fußballplatz."
+   ],
+   [
+    "Ende Juni – Mitte Sept",
+    "Erlebnispark am See",
+    "Rutsche in den See, Miniautos und ein Kinderland, nur wenige Minuten vom Park."
+   ],
+   [
+    "Jul–Aug",
+    "Pendolino und Aqua Trail",
+    "Alle Sommerbergbahnen am Nassfeld fahren. Mit der +CARD geht's gratis hinauf: erst spielen am Aqua Trail, dann mit der Sommerrodelbahn hinunter."
+   ],
+   [
+    "Jul–Aug",
+    "Garnitzenklamm",
+    "Abkühlung in der Klamm bei Hermagor: Wasserfälle, Brücken und smaragdgrüne Gumpen. Feste Schuhe anziehen!"
+   ],
+   [
+    "Tagesausflug",
+    "Affenberg und Adlerarena",
+    "Japanmakaken und eine Greifvogelschau an der Burg Landskron, nahe Villach."
+   ]
+  ]
  },
  "en": {
   "book_code": "en-GB",
@@ -1323,7 +1379,35 @@
   "ph_ski1": "On the slopes with views across the Carnic Alps",
   "ph_ski2": "Fresh powder next to the lift",
   "ph_nassfeld": "The Nassfeld in March: still plenty of snow",
-  "ph_winterlodge": "The lodge in the snow"
+  "ph_winterlodge": "The lodge in the snow",
+  "summer_label": "Summer (Jul–Aug)",
+  "summer": [
+   [
+    "All summer",
+    "Swimming in Lake Presseggersee",
+    "One of Carinthia's warmest lakes. Schluga lake beach borders the park, with a water inflatable, beach volleyball and a football pitch."
+   ],
+   [
+    "Late June – mid-Sept",
+    "Adventure park by the lake",
+    "A slide into the lake, mini cars and a kids' zone, a few minutes from the park."
+   ],
+   [
+    "Jul–Aug",
+    "Pendolino and Aqua Trail",
+    "All the Nassfeld summer lifts are running. With the +CARD you ride up for free: play on the Aqua Trail first, then toboggan back down."
+   ],
+   [
+    "Jul–Aug",
+    "Garnitzenklamm gorge",
+    "Cool off in the gorge near Hermagor: waterfalls, little bridges and emerald pools. Wear sturdy shoes!"
+   ],
+   [
+    "Day trip",
+    "Monkey Mountain and Eagle Arena",
+    "Japanese macaques and a bird of prey show at Landskron Castle, near Villach."
+   ]
+  ]
  },
  "it": {
   "book_code": "it",
@@ -1765,7 +1849,35 @@
   "ph_ski1": "In pista con vista sulle Alpi Carniche",
   "ph_ski2": "Neve fresca accanto all'impianto",
   "ph_nassfeld": "Il Nassfeld a marzo: ancora tanta neve",
-  "ph_winterlodge": "Il lodge sotto la neve"
+  "ph_winterlodge": "Il lodge sotto la neve",
+  "summer_label": "Estate (lug–ago)",
+  "summer": [
+   [
+    "Tutta l'estate",
+    "Nuotare nel Pressegger See",
+    "Uno dei laghi più caldi della Carinzia. Il lido Schluga confina con il parco, con gonfiabile in acqua, beach volley e campo da calcio."
+   ],
+   [
+    "Fine giugno – metà sett",
+    "Parco divertimenti sul lago",
+    "Scivolo nel lago, mini auto e un'area bimbi, a pochi minuti dal parco."
+   ],
+   [
+    "Lug–ago",
+    "Pendolino e Aqua Trail",
+    "Tutti gli impianti estivi del Nassfeld sono aperti. Con la +CARD salite gratis: prima si gioca sull'Aqua Trail, poi giù con lo slittino estivo."
+   ],
+   [
+    "Lug–ago",
+    "Gola Garnitzenklamm",
+    "Un po' di fresco nella gola vicino a Hermagor: cascate, ponticelli e pozze smeraldo. Scarpe robuste!"
+   ],
+   [
+    "Gita in giornata",
+    "Affenberg e Adlerarena",
+    "Macachi giapponesi e uno spettacolo di rapaci al castello di Landskron, vicino a Villach."
+   ]
+  ]
  },
  "pl": {
   "book_code": "pl",
@@ -2207,6 +2319,34 @@
   "ph_ski1": "Na stoku z widokiem na Alpy Karnickie",
   "ph_ski2": "Świeży puch obok wyciągu",
   "ph_nassfeld": "Nassfeld w marcu: wciąż dużo śniegu",
-  "ph_winterlodge": "Domek w śniegu"
+  "ph_winterlodge": "Domek w śniegu",
+  "summer_label": "Lato (lip–sie)",
+  "summer": [
+   [
+    "Całe lato",
+    "Kąpiel w Pressegger See",
+    "Jedno z najcieplejszych jezior Karyntii. Kąpielisko Schluga graniczy z parkiem, z dmuchańcem na wodzie, siatkówką plażową i boiskiem."
+   ],
+   [
+    "Koniec czerwca – poł. wrz.",
+    "Park rozrywki nad jeziorem",
+    "Zjeżdżalnia do jeziora, mini samochodziki i strefa dla dzieci, kilka minut od parku."
+   ],
+   [
+    "Lip–sie",
+    "Pendolino i Aqua Trail",
+    "Działają wszystkie letnie kolejki na Nassfeld. Z +CARD wjeżdżacie za darmo: najpierw zabawa na Aqua Trail, potem w dół letnim torem saneczkowym."
+   ],
+   [
+    "Lip–sie",
+    "Wąwóz Garnitzenklamm",
+    "Ochłoda w wąwozie koło Hermagor: wodospady, mostki i szmaragdowe oczka wodne. Solidne buty!"
+   ],
+   [
+    "Wycieczka",
+    "Affenberg i Adlerarena",
+    "Makaki japońskie i pokaz ptaków drapieżnych przy zamku Landskron, koło Villach."
+   ]
+  ]
  }
 }

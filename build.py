@@ -33,7 +33,7 @@ def page(code):
     alt += f'\n<link rel="alternate" hreflang="x-default" href="{SITE}/en/">'
     robots = "index,follow" if INDEXABLE else "noindex,nofollow"
     why = "".join(f'<div class="card"><h3>{e(h)}</h3><p>{e(p)}</p></div>' for h, p in t["why"])
-    acts = json.dumps({"spring": t["spring"], "autumn": t["autumn"]}, ensure_ascii=False)
+    acts = json.dumps({"spring": t["spring"], "summer": t["summer"], "autumn": t["autumn"]}, ensure_ascii=False)
     first = "".join(
         f'<div class="act"><p class="when">{e(w)}</p><div class="what"><h3>{e(h)}</h3><p class="muted">{e(p)}</p></div></div>'
         for w, h, p in t["spring"])
@@ -53,6 +53,9 @@ def page(code):
     wpics = [("/img/ski-kids.jpg", t["ph_ski1"]), ("/img/ski-powder.jpg", t["ph_ski2"]), ("/img/winter.jpg", t["ph_winterlodge"]), ("/img/nassfeld-march.jpg", t["ph_nassfeld"] if "ph_nassfeld" in t else "Nassfeld")]
     wpics = "".join(f'<figure><img src="{a}" alt="{e(b)}" loading="lazy" width="1000" height="563"><figcaption>{e(b)}</figcaption></figure>' for a, b in wpics)
     ridge = '<svg class="ridge" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0 70V48l110-30 90 22 130-36 110 32 120-24 100 30 140-38 120 34 110-20 130 28 90-14 100 22v26z" fill="#16302E"/></svg>'
+    def lab(x):
+        n, m = x.split(" (")
+        return f'<span class="nm">{e(n)}</span> <span class="mo">{e(m.rstrip(")"))}</span>'
     tips = ""
     for cat, items in t["cats"]:
         cards = ""
@@ -129,8 +132,9 @@ def page(code):
 <section id="omgeving"><div class="wrap">
 <div class="split"><div class="head" style="margin:0"><p class="eyebrow">{e(t['todo_eyebrow'])}</p><h2>{e(t['todo_h2'])}</h2></div>
 <div class="toggle" role="group" aria-label="{e(t['toggle_label'])}">
-<button type="button" data-s="spring" aria-pressed="true">{e(t['spring_label'])}</button>
-<button type="button" data-s="autumn" aria-pressed="false">{e(t['autumn_label'])}</button>
+<button type="button" data-s="spring" aria-pressed="true">{lab(t['spring_label'])}</button>
+<button type="button" data-s="summer" aria-pressed="false">{lab(t['summer_label'])}</button>
+<button type="button" data-s="autumn" aria-pressed="false">{lab(t['autumn_label'])}</button>
 </div></div>
 <div class="morepics nature">{nature}</div>
 <div id="acts" aria-live="polite">{first}</div>
@@ -191,7 +195,7 @@ document.querySelectorAll('.toggle button').forEach(function(b){{b.addEventListe
 document.querySelectorAll('.toggle button').forEach(function(o){{o.setAttribute('aria-pressed',o===b)}});
 box.innerHTML=d[b.dataset.s].map(function(a){{return '<div class="act"><p class="when">'+esc(a[0])+'</p><div class="what"><h3>'+esc(a[1])+'</h3><p class="muted">'+esc(a[2])+'</p></div></div>'}}).join('');
 }})}});
-if(new Date().getMonth()>=6){{document.querySelector('.toggle button[data-s=autumn]').click()}}
+var m=new Date().getMonth();var pick=(m>=5&&m<=7)?'summer':(m>=8?'autumn':'spring');if(pick!=='spring'){{document.querySelector('.toggle button[data-s='+pick+']').click()}}
 }})();
 </script>
 </body>
