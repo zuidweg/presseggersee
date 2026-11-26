@@ -127,7 +127,9 @@ footer .langs a{color:#C9D6CF}footer .langs [aria-current]{color:#fff}
 @media (max-width:700px){
  .btn-head{display:none}
  .bookbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:20;align-items:center;justify-content:space-between;gap:12px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:#16302E;color:#fff;font-size:14px;font-weight:500;box-shadow:0 -6px 20px rgba(0,0,0,.15)}
- .bookbar .btn{padding:12px 18px;box-shadow:none;white-space:nowrap}
+ .bookbar{justify-content:flex-start;padding-right:200px}
+ .bookbar span{display:none}
+ .bookbar .btn{padding:12px 22px;box-shadow:none;white-space:nowrap;flex:1;max-width:220px}
  body{padding-bottom:76px}
  section{padding:60px 0}
  header.top{position:static}
