@@ -13,4 +13,4 @@ Doel: promotie en extra boekingen, vooral in voor- en naseizoen.
 ## Afspraken
 - Boekingen lopen via BookingExperts; elke taal heeft zijn eigen link (book_code in content.json).
 - Geen verzonnen reviews of prijzen. Prijzen staan alleen in het boekingssysteem.
-- Formulier: `FORM_ENDPOINT` in build.py (FormSubmit AJAX). Leeg = formulier verborgen.
+- Formulier (naam, e-mail, vraag): `FORM_ENDPOINT` in build.py (FormSubmit AJAX naar info@koers-control.nl). Leeg = formulier verborgen.

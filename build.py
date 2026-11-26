@@ -9,7 +9,7 @@ SITE = "https://presseggersee.nl"
 INDEXABLE = True  # False = noindex (niet in Google)
 # Formulier: endpoint van de formulierdienst (FormSubmit AJAX: https://formsubmit.co/ajax/<adres-of-alias>).
 # Leeg = formulier wordt niet getoond (alleen de boekknop).
-FORM_ENDPOINT = ""
+FORM_ENDPOINT = "https://formsubmit.co/ajax/info@koers-control.nl"
 # Oude WordPress-adressen -> anker op de nieuwe site
 OLD_URLS = {"over-ons": "/#over-ons", "familie": "/#kids", "het-vakantiehuis": "/#huis", "omgeving": "/#omgeving",
             "ervaringen": "/", "tips": "/#tips", "contact": "/#boeken", "boeking": "/#boeken",
@@ -182,18 +182,14 @@ def page(code):
 </div>
 {form_open}
 <input type="hidden" name="taal" value="{code}">
-<input type="hidden" name="subject" value="Aanvraag presseggersee.nl ({code.upper()})">
+<input type="hidden" name="_subject" value="Vraag via presseggersee.nl ({code.upper()})">
+<input type="hidden" name="_template" value="table">
 <p class="hp"><label>Leave empty <input name="_honey" tabindex="-1" autocomplete="off"></label></p>
 <input type="hidden" name="_captcha" value="false">
 <h3>{e(f['h3'])}</h3>
 <label>{e(f['name'])}<input type="text" name="naam" required autocomplete="name"></label>
 <label>{e(f['email'])}<input type="email" name="email" required autocomplete="email"></label>
-<div class="row" style="gap:12px">
-<label><span>{e(f['arrive'])} <small class="opt">({e(f['optional'])})</small></span><input type="date" name="aankomst"></label>
-<label><span>{e(f['leave'])} <small class="opt">({e(f['optional'])})</small></span><input type="date" name="vertrek"></label>
-<label style="flex-basis:100px">{e(f['guests'])}<input type="number" name="personen" min="1" max="6"></label>
-</div>
-<label>{e(f['msg'])}<textarea name="bericht" rows="3"></textarea></label>
+<label>{e(f['msg'])}<textarea name="vraag" rows="4" required></textarea></label>
 <button type="submit">{e(f['send'])}</button>
 <p class="small">{e(f['privacy'])}</p>
 </form>{form_close}
@@ -210,7 +206,7 @@ box.innerHTML=d[b.dataset.s].map(function(a){{return '<div class="act"><p class=
 }})}});
 var fm=document.querySelector('form.req');if(fm){{fm.addEventListener('submit',function(ev){{ev.preventDefault();var btn=fm.querySelector('button[type=submit]');btn.disabled=true;
 fetch(fm.dataset.endpoint,{{method:'POST',headers:{{'Accept':'application/json'}},body:new FormData(fm)}})
-.then(function(r){{if(!r.ok)throw new Error(r.status);window.location.href=fm.dataset.thanks}})
+.then(function(r){{if(!r.ok)throw new Error(r.status);return r.json()}}).then(function(j){{if(String(j.success)!=='true')throw new Error(j.message);window.location.href=fm.dataset.thanks}})
 .catch(function(){{btn.disabled=false;alert(fm.dataset.err)}});}})}}
 var m=new Date().getMonth();var pick=(m>=5&&m<=7)?'summer':(m>=8?'autumn':'spring');if(pick!=='spring'){{document.querySelector('.toggle button[data-s='+pick+']').click()}}
 }})();

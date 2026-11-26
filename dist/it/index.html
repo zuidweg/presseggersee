@@ -107,23 +107,19 @@
 <p style="margin-top:16px;font-weight:600">Indirizzo</p>
 <p class="muted">EuroParcs Pressegger See · Presseggen 29, 9620 Presseggen, Austria</p>
 </div>
-<!--
+<form class="req" method="POST" data-endpoint="https://formsubmit.co/ajax/info@koers-control.nl" data-thanks="/it/grazie/" data-err="Invio non riuscito. Riprova più tardi oppure prenota direttamente con il pulsante di prenotazione.">
 <input type="hidden" name="taal" value="it">
-<input type="hidden" name="subject" value="Aanvraag presseggersee.nl (IT)">
+<input type="hidden" name="_subject" value="Vraag via presseggersee.nl (IT)">
+<input type="hidden" name="_template" value="table">
 <p class="hp"><label>Leave empty <input name="_honey" tabindex="-1" autocomplete="off"></label></p>
 <input type="hidden" name="_captcha" value="false">
 <h3>Scriveteci</h3>
 <label>Nome<input type="text" name="naam" required autocomplete="name"></label>
 <label>Indirizzo e-mail<input type="email" name="email" required autocomplete="email"></label>
-<div class="row" style="gap:12px">
-<label><span>Arrivo <small class="opt">(facoltativo)</small></span><input type="date" name="aankomst"></label>
-<label><span>Partenza <small class="opt">(facoltativo)</small></span><input type="date" name="vertrek"></label>
-<label style="flex-basis:100px">Persone<input type="number" name="personen" min="1" max="6"></label>
-</div>
-<label>Messaggio (es. età dei bambini)<textarea name="bericht" rows="3"></textarea></label>
+<label>La tua domanda<textarea name="vraag" rows="4" required></textarea></label>
 <button type="submit">Invia</button>
 <p class="small">Usiamo i tuoi dati solo per rispondere alla tua richiesta.</p>
-</form>-->
+</form>
 </div></section>
 </main>
 <div class="bookbar"><span>Panorama Lodge · fino a 6 persone</span><a class="btn btn-accent" href="https://app.bookingexperts.com/it/ra/2550/170233/yPRubT8wL8fEWsHmhLcCUjPLvu7WBb44R3rdTbEs" rel="noopener">Date libere</a></div>
@@ -137,7 +133,7 @@ box.innerHTML=d[b.dataset.s].map(function(a){return '<div class="act"><p class="
 })});
 var fm=document.querySelector('form.req');if(fm){fm.addEventListener('submit',function(ev){ev.preventDefault();var btn=fm.querySelector('button[type=submit]');btn.disabled=true;
 fetch(fm.dataset.endpoint,{method:'POST',headers:{'Accept':'application/json'},body:new FormData(fm)})
-.then(function(r){if(!r.ok)throw new Error(r.status);window.location.href=fm.dataset.thanks})
+.then(function(r){if(!r.ok)throw new Error(r.status);return r.json()}).then(function(j){if(String(j.success)!=='true')throw new Error(j.message);window.location.href=fm.dataset.thanks})
 .catch(function(){btn.disabled=false;alert(fm.dataset.err)});})}
 var m=new Date().getMonth();var pick=(m>=5&&m<=7)?'summer':(m>=8?'autumn':'spring');if(pick!=='spring'){document.querySelector('.toggle button[data-s='+pick+']').click()}
 })();
