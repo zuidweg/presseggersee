@@ -526,7 +526,7 @@
    "guests": "Personen",
    "msg": "Nachricht (z. B. Alter der Kinder)",
    "send": "Absenden",
-   "privacy": "Wir verwenden Ihre Daten nur zur Beantwortung Ihrer Anfrage."
+   "privacy": "Wir verwenden eure Daten nur, um eure Frage zu beantworten."
   },
   "footer": "Private Eigentümer, Verwaltung durch EuroParcs",
   "thanks_h": "Vielen Dank für Ihre Nachricht",
@@ -607,7 +607,7 @@
    ]
   ],
   "more": "Mehr Infos",
-  "social": "Folgen Sie uns",
+  "social": "Folgt uns",
   "photos": {
    "hero": "/img/hero.jpg",
    "living": "/img/living.jpg",
